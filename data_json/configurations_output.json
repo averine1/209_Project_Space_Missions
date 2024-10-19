@@ -2,6 +2,7 @@
     {
         "name": "Alpha",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Alpha.webp",
+        "company_name": "Firefly",
         "status": "Active",
         "price": "$15.0 million",
         "liftoff_thrust": "801 kN",
@@ -17,6 +18,7 @@
     {
         "name": "Amur/Fregat-M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Roscosmos",
         "status": "Planned",
         "price": "$22.0 million",
         "liftoff_thrust": "4,903 kN",
@@ -32,6 +34,7 @@
     {
         "name": "Angara 1.2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_1.2.webp",
+        "company_name": "Khrunichev",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "1,922 kN",
@@ -47,6 +50,7 @@
     {
         "name": "Angara 1.2PP",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_1.2PP.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,922 kN",
@@ -62,6 +66,7 @@
     {
         "name": "Angara A5",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_A5.webp",
+        "company_name": "Khrunichev",
         "status": "Active",
         "price": "$100.0 million",
         "liftoff_thrust": "9,610 kN",
@@ -77,6 +82,7 @@
     {
         "name": "Angara A5/Blok DM-03",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_A5_DM-03.webp",
+        "company_name": "Khrunichev",
         "status": "Active",
         "price": "$100.0 million",
         "liftoff_thrust": "9,610 kN",
@@ -92,6 +98,7 @@
     {
         "name": "Angara A5/Briz-M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_A5_BrizM.webp",
+        "company_name": "Khrunichev",
         "status": "Active",
         "price": "$100.0 million",
         "liftoff_thrust": "9,610 kN",
@@ -107,6 +114,7 @@
     {
         "name": "Angara A5M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Khrunichev",
         "status": "Active",
         "price": "$100.0 million",
         "liftoff_thrust": "9,610 kN",
@@ -122,6 +130,7 @@
     {
         "name": "Antares 110",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_110.webp",
+        "company_name": "Northrop",
         "status": "Retired",
         "price": "$80.0 million",
         "liftoff_thrust": "3,265 kN",
@@ -137,6 +146,7 @@
     {
         "name": "Antares 120",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_120.webp",
+        "company_name": "Northrop",
         "status": "Retired",
         "price": "$80.0 million",
         "liftoff_thrust": "3,265 kN",
@@ -152,6 +162,7 @@
     {
         "name": "Antares 130",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_130.webp",
+        "company_name": "Northrop",
         "status": "Retired",
         "price": "$80.0 million",
         "liftoff_thrust": "3,265 kN",
@@ -167,6 +178,7 @@
     {
         "name": "Antares 230",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_230.webp",
+        "company_name": "Northrop",
         "status": "Retired",
         "price": "$85.0 million",
         "liftoff_thrust": "3,844 kN",
@@ -182,6 +194,7 @@
     {
         "name": "Antares 230+",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_230_plus.webp",
+        "company_name": "Northrop",
         "status": "Retired",
         "price": "$85.0 million",
         "liftoff_thrust": "3,844 kN",
@@ -197,6 +210,7 @@
     {
         "name": "Antares 330",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_330.webp",
+        "company_name": "Northrop",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "7,161 kN",
@@ -212,6 +226,7 @@
     {
         "name": "Ariane 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_1.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,772 kN",
@@ -227,6 +242,7 @@
     {
         "name": "Ariane 2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_2.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,580 kN",
@@ -242,6 +258,7 @@
     {
         "name": "Ariane 3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_3.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "5,100 kN",
@@ -257,6 +274,7 @@
     {
         "name": "Ariane 40",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_40.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,034 kN",
@@ -272,6 +290,7 @@
     {
         "name": "Ariane 42L",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_42L.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,538 kN",
@@ -287,6 +306,7 @@
     {
         "name": "Ariane 42P",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_42P.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,334 kN",
@@ -302,6 +322,7 @@
     {
         "name": "Ariane 44L",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_44L.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "6,000 kN",
@@ -317,6 +338,7 @@
     {
         "name": "Ariane 44LP",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_44LP.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "5,800 kN",
@@ -332,6 +354,7 @@
     {
         "name": "Ariane 44P",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_44P.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,334 kN",
@@ -347,6 +370,7 @@
     {
         "name": "Ariane 5 ECA",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_ECA.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": "$200.0 million",
         "liftoff_thrust": "15,120 kN",
@@ -362,6 +386,7 @@
     {
         "name": "Ariane 5 ES",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_ES.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "15,120 kN",
@@ -377,6 +402,7 @@
     {
         "name": "Ariane 5 G",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_G.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "11,400 kN",
@@ -392,6 +418,7 @@
     {
         "name": "Ariane 5 G+",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_G_plus_rocket.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": "$190.0 million",
         "liftoff_thrust": null,
@@ -407,6 +434,7 @@
     {
         "name": "Ariane 5 GS",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_GS.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -422,6 +450,7 @@
     {
         "name": "Ariane 62",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_62.webp",
+        "company_name": "ESA",
         "status": "Active",
         "price": "$88.0 million",
         "liftoff_thrust": "8,370 kN",
@@ -437,6 +466,7 @@
     {
         "name": "Ariane 64",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_64.webp",
+        "company_name": "ESA",
         "status": "Active",
         "price": "$106.0 million",
         "liftoff_thrust": "15,370 kN",
@@ -452,6 +482,7 @@
     {
         "name": "Ariane 64/Icarus",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_64_Icarus.webp",
+        "company_name": "ESA",
         "status": "Planned",
         "price": "$100.0 million",
         "liftoff_thrust": "15,370 kN",
@@ -467,6 +498,7 @@
     {
         "name": "ASLV",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/ASLV.webp",
+        "company_name": "ISRO",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,005 kN",
@@ -482,6 +514,7 @@
     {
         "name": "Athena I",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Athena_I.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,900 kN",
@@ -497,6 +530,7 @@
     {
         "name": "Athena II",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Athena_II.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,900 kN",
@@ -512,6 +546,7 @@
     {
         "name": "Atlas-D Able",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-D_Able.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,880 kN",
@@ -527,6 +562,7 @@
     {
         "name": "Atlas-E/F Agena D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Agena_D.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -542,6 +578,7 @@
     {
         "name": "Atlas-LV3 Agena-A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3_Agena-A.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -557,6 +594,7 @@
     {
         "name": "Atlas-LV3 Agena-B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3_Agena-B.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -572,6 +610,7 @@
     {
         "name": "Atlas-LV3 Agena-D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3_Agena-D.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -587,6 +626,7 @@
     {
         "name": "Atlas-SLV3A Agena-D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3A_Agena-D.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -602,6 +642,7 @@
     {
         "name": "Atlas-SLV3 Agena-B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3_Agena-B.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -617,6 +658,7 @@
     {
         "name": "Atlas-SLV3 Agena-D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3_Agena-D.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -632,6 +674,7 @@
     {
         "name": "Atlas-SLV3B Agena-D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3B_Agena-D.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -647,6 +690,7 @@
     {
         "name": "Atlas-E/F Altair",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Altair.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -662,6 +706,7 @@
     {
         "name": "Atlas-E/F Burner",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Burner.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -677,6 +722,7 @@
     {
         "name": "Atlas-SLV3 Burner-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3_Burner-2.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -692,6 +738,7 @@
     {
         "name": "Atlas-G Centaur-D1AR",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-G_Centaur-D1AR.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -707,6 +754,7 @@
     {
         "name": "Atlas-LV3C Centaur-A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3C_Centaur-A.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -722,6 +770,7 @@
     {
         "name": "Atlas-LV3C Centaur-B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3C_Centaur-B.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -737,6 +786,7 @@
     {
         "name": "Atlas-LV3C Centaur-C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3C_Centaur-C.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -752,6 +802,7 @@
     {
         "name": "Atlas-LV3C Centaur-D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3C_Centaur-D.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -767,6 +818,7 @@
     {
         "name": "Atlas-SLV3C Centaur-D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3C_Centaur-D.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -782,6 +834,7 @@
     {
         "name": "Atlas-SLV3D Centaur-D1A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3D_Centaur-D1A.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -797,6 +850,7 @@
     {
         "name": "Atlas-SLV3D Centaur-D1AR",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3D_Centaur-D1AR.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -812,6 +866,7 @@
     {
         "name": "Atlas I",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_I.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -827,6 +882,7 @@
     {
         "name": "Atlas II",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_II.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,479 kN",
@@ -842,6 +898,7 @@
     {
         "name": "Atlas IIA",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_IIA.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,479 kN",
@@ -857,6 +914,7 @@
     {
         "name": "Atlas IIAS",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_IIAS.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,957 kN",
@@ -872,6 +930,7 @@
     {
         "name": "Atlas IIIA",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_IIIA.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,826 kN",
@@ -887,6 +946,7 @@
     {
         "name": "Atlas IIIB",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_IIIB.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,826 kN",
@@ -902,6 +962,7 @@
     {
         "name": "Atlas-D Mercury",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-D_Mercury.webp",
+        "company_name": "NASA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,880 kN",
@@ -917,6 +978,7 @@
     {
         "name": "Atlas-E/F MSD",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_MSD.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -932,6 +994,7 @@
     {
         "name": "Atlas-H MSD",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-H_MSD.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -947,6 +1010,7 @@
     {
         "name": "Atlas-E/F OIS",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_OIS.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -962,6 +1026,7 @@
     {
         "name": "Atlas-D OV1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-D_OV1.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,880 kN",
@@ -977,6 +1042,7 @@
     {
         "name": "Atlas-E/F OV1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_OV1.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -992,6 +1058,7 @@
     {
         "name": "Atlas-E/F PTS",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_PTS.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1007,6 +1074,7 @@
     {
         "name": "Atlas-E/F SGS-1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_SGS-1.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1022,6 +1090,7 @@
     {
         "name": "Atlas-E/F SGS-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_SGS-2.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1037,6 +1106,7 @@
     {
         "name": "Atlas SLV-3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_SLV-3.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1052,6 +1122,7 @@
     {
         "name": "Atlas-E/F Star-17A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Star-17A.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1067,6 +1138,7 @@
     {
         "name": "Atlas-E/F Star-37S-ISS",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Star-37S-ISS.webp",
+        "company_name": "General Dynamics",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1082,6 +1154,7 @@
     {
         "name": "Atlas V 401",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-V-401.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": "$109.0 million",
         "liftoff_thrust": "3,826 kN",
@@ -1097,6 +1170,7 @@
     {
         "name": "Atlas V 411",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_411.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": "$115.0 million",
         "liftoff_thrust": "5,489 kN",
@@ -1112,6 +1186,7 @@
     {
         "name": "Atlas V 421",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_421.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": "$123.0 million",
         "liftoff_thrust": "7,152 kN",
@@ -1127,6 +1202,7 @@
     {
         "name": "Atlas V 431",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_431.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": "$130.0 million",
         "liftoff_thrust": "8,815 kN",
@@ -1142,6 +1218,7 @@
     {
         "name": "Atlas V 501",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_501.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": "$120.0 million",
         "liftoff_thrust": "3,826 kN",
@@ -1157,6 +1234,7 @@
     {
         "name": "Atlas V 511",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_511.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": "$130.0 million",
         "liftoff_thrust": "5,489 kN",
@@ -1172,6 +1250,7 @@
     {
         "name": "Atlas V 521",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_521.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": "$135.0 million",
         "liftoff_thrust": "7,152 kN",
@@ -1187,6 +1266,7 @@
     {
         "name": "Atlas V 531",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_531.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": "$140.0 million",
         "liftoff_thrust": "8,815 kN",
@@ -1202,6 +1282,7 @@
     {
         "name": "Atlas V 541",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_541.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": "$145.0 million",
         "liftoff_thrust": "10,478 kN",
@@ -1217,6 +1298,7 @@
     {
         "name": "Atlas V 551",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_551.webp",
+        "company_name": "ULA",
         "status": "Active",
         "price": "$153.0 million",
         "liftoff_thrust": "12,141 kN",
@@ -1232,6 +1314,7 @@
     {
         "name": "Atlas V N22",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_N22_rocket.webp",
+        "company_name": "ULA",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "7,152 kN",
@@ -1247,6 +1330,7 @@
     {
         "name": "Black Arrow",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/black_arrow.webp",
+        "company_name": "RAE",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "256 kN",
@@ -1262,6 +1346,7 @@
     {
         "name": "Blue Scout II",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Blue_Scout_II.webp",
+        "company_name": "Vought",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "471 kN",
@@ -1277,6 +1362,7 @@
     {
         "name": "Ceres 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ceres-1.webp",
+        "company_name": "Galactic Energy",
         "status": "Active",
         "price": "$4.38 million",
         "liftoff_thrust": "588 kN",
@@ -1292,6 +1378,7 @@
     {
         "name": "Ceres 1S",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ceres-1S.webp",
+        "company_name": "Galactic Energy",
         "status": "Active",
         "price": "$4.38 million",
         "liftoff_thrust": "588 kN",
@@ -1307,6 +1394,7 @@
     {
         "name": "Ch\u014fllima 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Ch%C5%8Fllima.webp",
+        "company_name": "NADA",
         "status": "Active",
         "price": null,
         "liftoff_thrust": null,
@@ -1322,6 +1410,7 @@
     {
         "name": "Conestoga 1620",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Conestoga-1620.webp",
+        "company_name": "EER",
         "status": "Retired",
         "price": "$20.0 million",
         "liftoff_thrust": null,
@@ -1337,6 +1426,7 @@
     {
         "name": "Cosmos-1 (65S3)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Cosmos-1_65S3.webp",
+        "company_name": "OKB-586",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "636 kN",
@@ -1352,6 +1442,7 @@
     {
         "name": "Cosmos-2 (63SM)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Cosmos-2_63SM.webp",
+        "company_name": "OKB-586",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "636 kN",
@@ -1367,6 +1458,7 @@
     {
         "name": "Cosmos-3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Cosmos-3.webp",
+        "company_name": "OKB-586",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,481 kN",
@@ -1382,6 +1474,7 @@
     {
         "name": "Cosmos-3M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Cosmos-3M.webp",
+        "company_name": "OKB-586",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,486 kN",
@@ -1397,6 +1490,7 @@
     {
         "name": "K65M-RB5",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "OKB-586",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,486 kN",
@@ -1412,6 +1506,7 @@
     {
         "name": "Tsyklon-4M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon-4M.webp",
+        "company_name": "Yuzhnoye",
         "status": "Planned",
         "price": "$45.0 million",
         "liftoff_thrust": "3,111 kN",
@@ -1427,6 +1522,7 @@
     {
         "name": "Delta 300",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_300.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1442,6 +1538,7 @@
     {
         "name": "Delta 900",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_900.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1457,6 +1554,7 @@
     {
         "name": "Delta 1410",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1410.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1472,6 +1570,7 @@
     {
         "name": "Delta 1604",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1604.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1487,6 +1586,7 @@
     {
         "name": "Delta 1900",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1900.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1502,6 +1602,7 @@
     {
         "name": "Delta 1910",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1910.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1517,6 +1618,7 @@
     {
         "name": "Delta 1913",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1913.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1532,6 +1634,7 @@
     {
         "name": "Delta 1914",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1914.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1547,6 +1650,7 @@
     {
         "name": "Delta 2310",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2310.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1562,6 +1666,7 @@
     {
         "name": "Delta 2313",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2313.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1577,6 +1682,7 @@
     {
         "name": "Delta 2910",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2910.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1592,6 +1698,7 @@
     {
         "name": "Delta 2913",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2913.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1607,6 +1714,7 @@
     {
         "name": "Delta 2914",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2914.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1622,6 +1730,7 @@
     {
         "name": "Delta 3910",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3910.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1637,6 +1746,7 @@
     {
         "name": "Delta 3913",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3913.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1652,6 +1762,7 @@
     {
         "name": "Delta 3914",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3914.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1667,6 +1778,7 @@
     {
         "name": "Delta 3920",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3920.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1682,6 +1794,7 @@
     {
         "name": "Delta 3920-8",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3920-8.webp",
+        "company_name": "Douglas",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,188 kN",
@@ -1697,6 +1810,7 @@
     {
         "name": "Delta 3924",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3924.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1712,6 +1826,7 @@
     {
         "name": "Delta 4925-8",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_4925-8.webp",
+        "company_name": "Boeing",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,469 kN",
@@ -1727,6 +1842,7 @@
     {
         "name": "Delta 5920-8",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_5920-8.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1742,6 +1858,7 @@
     {
         "name": "Delta A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_A.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1757,6 +1874,7 @@
     {
         "name": "Delta B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_B.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1772,6 +1890,7 @@
     {
         "name": "Delta C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_C.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "667 kN",
@@ -1787,6 +1906,7 @@
     {
         "name": "Delta C1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_C1.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1802,6 +1922,7 @@
     {
         "name": "Delta D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_D.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,725 kN",
@@ -1817,6 +1938,7 @@
     {
         "name": "Delta E",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_E.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1832,6 +1954,7 @@
     {
         "name": "Delta E1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_E1.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1847,6 +1970,7 @@
     {
         "name": "Delta G",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_G.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -1862,6 +1986,7 @@
     {
         "name": "Delta II 6920-10",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_6920-10.webp",
+        "company_name": "Boeing",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,481 kN",
@@ -1877,6 +2002,7 @@
     {
         "name": "Delta II 6920-8",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_6920-8.webp",
+        "company_name": "Boeing",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,481 kN",
@@ -1892,6 +2018,7 @@
     {
         "name": "Delta II 6925",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_6925.webp",
+        "company_name": "Boeing",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,481 kN",
@@ -1907,6 +2034,7 @@
     {
         "name": "Delta II 6925-8",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_6925-8.webp",
+        "company_name": "Boeing",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,481 kN",
@@ -1922,6 +2050,7 @@
     {
         "name": "Delta II 7320-10C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7320-10C.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,533 kN",
@@ -1937,6 +2066,7 @@
     {
         "name": "Delta II 7326",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7326.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,533 kN",
@@ -1952,6 +2082,7 @@
     {
         "name": "Delta II 7420-10C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7420-10C.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,020 kN",
@@ -1967,6 +2098,7 @@
     {
         "name": "Delta II 7425",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7425.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,020 kN",
@@ -1982,6 +2114,7 @@
     {
         "name": "Delta II 7425-10C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7425-10C.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,020 kN",
@@ -1997,6 +2130,7 @@
     {
         "name": "Delta II 7426",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7426.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,020 kN",
@@ -2012,6 +2146,7 @@
     {
         "name": "Delta II 7920-10",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920-10.webp",
+        "company_name": "Boeing",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,511 kN",
@@ -2027,6 +2162,7 @@
     {
         "name": "Delta II 7920-10C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920-10C.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,511 kN",
@@ -2042,6 +2178,7 @@
     {
         "name": "Delta II 7920-10L",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920-10L.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,511 kN",
@@ -2057,6 +2194,7 @@
     {
         "name": "Delta II 7920-8",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920-8.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,511 kN",
@@ -2072,6 +2210,7 @@
     {
         "name": "Delta II 7920H",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920H.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,398 kN",
@@ -2087,6 +2226,7 @@
     {
         "name": "Delta II 7920H-10C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920H-10C.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,398 kN",
@@ -2102,6 +2242,7 @@
     {
         "name": "Delta II 7925",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,511 kN",
@@ -2117,6 +2258,7 @@
     {
         "name": "Delta II 7925-10",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925-10.webp",
+        "company_name": "Boeing",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,511 kN",
@@ -2132,6 +2274,7 @@
     {
         "name": "Delta II 7925-10C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925-10C.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,511 kN",
@@ -2147,6 +2290,7 @@
     {
         "name": "Delta II 7925-10L",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925-10L.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,511 kN",
@@ -2162,6 +2306,7 @@
     {
         "name": "Delta II 7925-8",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925-8.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,511 kN",
@@ -2177,6 +2322,7 @@
     {
         "name": "Delta II 7925H",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925H.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,398 kN",
@@ -2192,6 +2338,7 @@
     {
         "name": "Delta III 8930",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_III_8930.webp",
+        "company_name": "Boeing",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,856 kN",
@@ -2207,6 +2354,7 @@
     {
         "name": "Delta IV Heavy",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Heavy.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": "$350.0 million",
         "liftoff_thrust": "9,411 kN",
@@ -2222,6 +2370,7 @@
     {
         "name": "Delta IV Medium",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Medium.webp",
+        "company_name": "Boeing",
         "status": "Retired",
         "price": "$133.0 million",
         "liftoff_thrust": "3,137 kN",
@@ -2237,6 +2386,7 @@
     {
         "name": "Delta IV Medium+ (4,2)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Medium_42.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": "$164.0 million",
         "liftoff_thrust": "4,895 kN",
@@ -2252,6 +2402,7 @@
     {
         "name": "Delta IV Medium+ (5,2)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Medium_52.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,895 kN",
@@ -2267,6 +2418,7 @@
     {
         "name": "Delta IV Medium+ (5,4)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Medium_54.webp",
+        "company_name": "ULA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "6,653 kN",
@@ -2282,6 +2434,7 @@
     {
         "name": "Delta J",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_J.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -2297,6 +2450,7 @@
     {
         "name": "Delta L",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_L.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -2312,6 +2466,7 @@
     {
         "name": "Delta M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_M.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -2327,6 +2482,7 @@
     {
         "name": "Delta M6",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_M6.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -2342,6 +2498,7 @@
     {
         "name": "Delta N",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_N.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -2357,6 +2514,7 @@
     {
         "name": "Delta N6",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_N6.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -2372,6 +2530,7 @@
     {
         "name": "Diamant A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Diamant_A.webp",
+        "company_name": "A\u00e9rospatiale",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "274 kN",
@@ -2387,6 +2546,7 @@
     {
         "name": "Diamant B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Diamant_B.webp",
+        "company_name": "A\u00e9rospatiale",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "348 kN",
@@ -2402,6 +2562,7 @@
     {
         "name": "Diamant BP4",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Diamant_BP4.webp",
+        "company_name": "A\u00e9rospatiale",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "317 kN",
@@ -2417,6 +2578,7 @@
     {
         "name": "Dnepr",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Dnepr.webp",
+        "company_name": "Yuzhnoye",
         "status": "Retired",
         "price": "$29.0 million",
         "liftoff_thrust": "4,166 kN",
@@ -2432,6 +2594,7 @@
     {
         "name": "Electron",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Electron-Rocket.webp",
+        "company_name": "Rocket Lab",
         "status": "Active",
         "price": "$7.5 million",
         "liftoff_thrust": "224 kN",
@@ -2447,6 +2610,7 @@
     {
         "name": "Electron/Curie",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Electron_Curie.webp",
+        "company_name": "Rocket Lab",
         "status": "Active",
         "price": "$7.5 million",
         "liftoff_thrust": "224 kN",
@@ -2462,6 +2626,7 @@
     {
         "name": "Electron/Explorer",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Electron_Explorer.webp",
+        "company_name": "Rocket Lab",
         "status": "Active",
         "price": "$7.5 million",
         "liftoff_thrust": "224 kN",
@@ -2477,6 +2642,7 @@
     {
         "name": "Electron/Photon",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Electron_Photon.webp",
+        "company_name": "Rocket Lab",
         "status": "Active",
         "price": "$7.5 million",
         "liftoff_thrust": "224 kN",
@@ -2492,6 +2658,7 @@
     {
         "name": "Energiya/Buran",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Energiya_Buran.webp",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": "$3,000.0 million",
         "liftoff_thrust": "35,832 kN",
@@ -2507,6 +2674,7 @@
     {
         "name": "Energiya/Polyus",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Energiya_Polyus.webp",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": "$3,000.0 million",
         "liftoff_thrust": "35,832 kN",
@@ -2522,6 +2690,7 @@
     {
         "name": "Epsilon",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Epsilon.webp",
+        "company_name": "JAXA",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "1,612 kN",
@@ -2537,6 +2706,7 @@
     {
         "name": "Epsilon Demo",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Epsilon_Demo.webp",
+        "company_name": "JAXA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,621 kN",
@@ -2552,6 +2722,7 @@
     {
         "name": "Epsilon PBS",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Epsilon_PBS.webp",
+        "company_name": "JAXA",
         "status": "Active",
         "price": "$39.0 million",
         "liftoff_thrust": "1,612 kN",
@@ -2567,6 +2738,7 @@
     {
         "name": "Epsilon S",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "JAXA",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "1,612 kN",
@@ -2582,6 +2754,7 @@
     {
         "name": "Eris",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Eris.webp",
+        "company_name": "Gilmour",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": null,
@@ -2597,6 +2770,7 @@
     {
         "name": "Europa 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Europa_1.webp",
+        "company_name": "CECLES",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,962 kN",
@@ -2612,6 +2786,7 @@
     {
         "name": "Europa 2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Europa_2.webp",
+        "company_name": "CECLES",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "8,372 kN",
@@ -2627,6 +2802,7 @@
     {
         "name": "Falcon 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_1_rocket.webp",
+        "company_name": "SpaceX",
         "status": "Retired",
         "price": "$7.0 million",
         "liftoff_thrust": "343 kN",
@@ -2642,6 +2818,7 @@
     {
         "name": "Falcon 9 Block 1 (v1.0)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_1_rocket.webp",
+        "company_name": "SpaceX",
         "status": "Retired",
         "price": "$59.5 million",
         "liftoff_thrust": "4,940 kN",
@@ -2657,6 +2834,7 @@
     {
         "name": "Falcon 9 Block 2 (v1.1)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_2.webp",
+        "company_name": "SpaceX",
         "status": "Retired",
         "price": "$56.5 million",
         "liftoff_thrust": "5,885 kN",
@@ -2672,6 +2850,7 @@
     {
         "name": "Falcon 9 Block 3 (v1.2/FT)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_3_rocket.webp",
+        "company_name": "SpaceX",
         "status": "Retired",
         "price": "$62.0 million",
         "liftoff_thrust": "6,804 kN",
@@ -2687,6 +2866,7 @@
     {
         "name": "Falcon 9 Block 4",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_4_rocket.webp",
+        "company_name": "SpaceX",
         "status": "Retired",
         "price": "$62.0 million",
         "liftoff_thrust": "6,804 kN",
@@ -2702,6 +2882,7 @@
     {
         "name": "Falcon 9 Block 5",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp",
+        "company_name": "SpaceX",
         "status": "Active",
         "price": "$69.75 million",
         "liftoff_thrust": "7,607 kN",
@@ -2717,6 +2898,7 @@
     {
         "name": "Falcon Heavy",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon%20Heavy%20Block%205.webp",
+        "company_name": "SpaceX",
         "status": "Active",
         "price": "$97.0 million",
         "liftoff_thrust": "22,819 kN",
@@ -2732,6 +2914,7 @@
     {
         "name": "Feng Bao 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Feng_Bao_1.webp",
+        "company_name": "MASI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,785 kN",
@@ -2747,6 +2930,7 @@
     {
         "name": "Gravity 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Gravity-1.webp",
+        "company_name": "Orienspace",
         "status": "Active",
         "price": "$27.22 million",
         "liftoff_thrust": "5,880 kN",
@@ -2762,6 +2946,7 @@
     {
         "name": "GSLV Mk I",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/GSLV_Mk_I.webp",
+        "company_name": "ISRO",
         "status": "Retired",
         "price": "$47.0 million",
         "liftoff_thrust": null,
@@ -2777,6 +2962,7 @@
     {
         "name": "GSLV Mk II",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/GSLV_Mk_II.webp",
+        "company_name": "ISRO",
         "status": "Active",
         "price": "$47.0 million",
         "liftoff_thrust": "7,887 kN",
@@ -2792,6 +2978,7 @@
     {
         "name": "H3-22L",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "MHI",
         "status": "Active",
         "price": "$50.0 million",
         "liftoff_thrust": "7,542 kN",
@@ -2807,6 +2994,7 @@
     {
         "name": "H3-22S",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/H3-22.webp",
+        "company_name": "MHI",
         "status": "Active",
         "price": "$50.0 million",
         "liftoff_thrust": "7,542 kN",
@@ -2822,6 +3010,7 @@
     {
         "name": "H3-24L",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "MHI",
         "status": "Active",
         "price": "$50.0 million",
         "liftoff_thrust": "12,142 kN",
@@ -2837,6 +3026,7 @@
     {
         "name": "H3-30S",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "MHI",
         "status": "Active",
         "price": "$50.0 million",
         "liftoff_thrust": "4,413 kN",
@@ -2852,6 +3042,7 @@
     {
         "name": "Hapith V",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Hapith_V_rocket.webp",
+        "company_name": "TiSPACE",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "650 kN",
@@ -2867,6 +3058,7 @@
     {
         "name": "H-I (9 SO)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/H-I.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -2882,6 +3074,7 @@
     {
         "name": "H-I UM-129A (6SO)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/H-I_UM-129A_6SO.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -2897,6 +3090,7 @@
     {
         "name": "H-I UM-129A (9SO)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/H-I_UM-129A_9SO.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -2912,6 +3106,7 @@
     {
         "name": "H-II",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/H-II.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -2927,6 +3122,7 @@
     {
         "name": "H-II (2 SSB)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/H-II_2_SSB.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -2942,6 +3138,7 @@
     {
         "name": "H-IIS",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIS.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -2957,6 +3154,7 @@
     {
         "name": "H-IIA 202",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIA_202_rocket.webp",
+        "company_name": "MHI",
         "status": "Active",
         "price": "$90.0 million",
         "liftoff_thrust": null,
@@ -2972,6 +3170,7 @@
     {
         "name": "H-IIA 2022",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIA_2022.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -2987,6 +3186,7 @@
     {
         "name": "H-IIA 2024",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIA_2024.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -3002,6 +3202,7 @@
     {
         "name": "H-IIA 204",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIA_204_rocket.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -3017,6 +3218,7 @@
     {
         "name": "H-IIB",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIB_rocket.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": "$112.5 million",
         "liftoff_thrust": null,
@@ -3032,6 +3234,7 @@
     {
         "name": "Hyperbola 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Hyperbola-1.webp",
+        "company_name": "iSpace",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "557 kN",
@@ -3047,6 +3250,7 @@
     {
         "name": "Jielong 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Jielong-1.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$7.5 million",
         "liftoff_thrust": "500 kN",
@@ -3062,6 +3266,7 @@
     {
         "name": "Jielong 3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Jielong-3.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": null,
@@ -3077,6 +3282,7 @@
     {
         "name": "Juno I",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Juno_1_rocket.webp",
+        "company_name": "ABMA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "416 kN",
@@ -3092,6 +3298,7 @@
     {
         "name": "Juno II",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Juno_II_rocket.webp",
+        "company_name": "ABMA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "667 kN",
@@ -3107,6 +3314,7 @@
     {
         "name": "KAIROS",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/KAIROS.webp",
+        "company_name": "Space One",
         "status": "Active",
         "price": "$9.0 million",
         "liftoff_thrust": null,
@@ -3122,6 +3330,7 @@
     {
         "name": "Kaituozhe 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Kaituozhe_1.webp",
+        "company_name": "CASIC",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "300 kN",
@@ -3137,6 +3346,7 @@
     {
         "name": "Kaituozhe 2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Kaituozhe_2.webp",
+        "company_name": "CASIC",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "500 kN",
@@ -3152,6 +3362,7 @@
     {
         "name": "Kinetica 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Kinetica-1_Rocket.webp",
+        "company_name": "CAS Space",
         "status": "Active",
         "price": null,
         "liftoff_thrust": null,
@@ -3167,6 +3378,7 @@
     {
         "name": "Kinetica 2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "CAS Space",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "2,000 kN",
@@ -3182,6 +3394,7 @@
     {
         "name": "Kinetica 2H",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "CAS Space",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": null,
@@ -3197,6 +3410,7 @@
     {
         "name": "KSLV-1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/KSLV-1_rocket.webp",
+        "company_name": "KARI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,639 kN",
@@ -3212,6 +3426,7 @@
     {
         "name": "KSLV-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/KSLV-2.webp",
+        "company_name": "KARI",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "2,620 kN",
@@ -3227,6 +3442,7 @@
     {
         "name": "Kuaizhou 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Kuaizhou_1.webp",
+        "company_name": "CASIC",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "500 kN",
@@ -3242,6 +3458,7 @@
     {
         "name": "Kuaizhou 1A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Kuaizhou_1A.webp",
+        "company_name": "CASIC",
         "status": "Active",
         "price": "$5.8 million",
         "liftoff_thrust": "537 kN",
@@ -3257,6 +3474,7 @@
     {
         "name": "Kuaizhou 11",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Kuaizhou_11.webp",
+        "company_name": "CASIC",
         "status": "Active",
         "price": "$28.3 million",
         "liftoff_thrust": "1,250 kN",
@@ -3272,6 +3490,7 @@
     {
         "name": "Lambda-IV S",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Lambda-IV_S.webp",
+        "company_name": "UT",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -3287,6 +3506,7 @@
     {
         "name": "LauncherOne",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/LauncherOne.webp",
+        "company_name": "Virgin Orbit",
         "status": "Retired",
         "price": "$12.0 million",
         "liftoff_thrust": null,
@@ -3302,6 +3522,7 @@
     {
         "name": "Long March 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_1.webp",
+        "company_name": "MASI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,020 kN",
@@ -3317,6 +3538,7 @@
     {
         "name": "Long March 2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2.webp",
+        "company_name": "MASI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,785 kN",
@@ -3332,6 +3554,7 @@
     {
         "name": "Long March 2C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$30.8 million",
         "liftoff_thrust": "2,962 kN",
@@ -3347,6 +3570,7 @@
     {
         "name": "Long March 2C/SD",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C_SD.webp",
+        "company_name": "CAC",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,962 kN",
@@ -3362,6 +3586,7 @@
     {
         "name": "Long March 2C/SM",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C_SM_rocket.webp",
+        "company_name": "CASC",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,963 kN",
@@ -3377,6 +3602,7 @@
     {
         "name": "Long March 2C/SMA",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C_SMA.webp",
+        "company_name": "CASC",
         "status": "Retired",
         "price": "$30.8 million",
         "liftoff_thrust": "2,962 kN",
@@ -3392,6 +3618,7 @@
     {
         "name": "Long March 2C/YZ-1S",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C_YZ-1S.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$30.8 million",
         "liftoff_thrust": "2,962 kN",
@@ -3407,6 +3634,7 @@
     {
         "name": "Long March 2D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2D_1.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$29.75 million",
         "liftoff_thrust": "2,962 kN",
@@ -3422,6 +3650,7 @@
     {
         "name": "Long March 2D/YZ-3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2D_YZ-3_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$30.0 million",
         "liftoff_thrust": "2,962 kN",
@@ -3437,6 +3666,7 @@
     {
         "name": "Long March 2E",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2E_rocket.webp",
+        "company_name": "CAC",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "5,923 kN",
@@ -3452,6 +3682,7 @@
     {
         "name": "Long March 2E EPKM",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "CAC",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "5,923 kN",
@@ -3467,6 +3698,7 @@
     {
         "name": "Long March 2F",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2F.webp",
+        "company_name": "CASC",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "5,985 kN",
@@ -3482,6 +3714,7 @@
     {
         "name": "Long March 2F/G",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2FG_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "5,985 kN",
@@ -3497,6 +3730,7 @@
     {
         "name": "Long March 2F/T",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2FT_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "5,985 kN",
@@ -3512,6 +3746,7 @@
     {
         "name": "Long March 3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3.webp",
+        "company_name": "CASC",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,804 kN",
@@ -3527,6 +3762,7 @@
     {
         "name": "Long March 3A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3A_rocket.webp",
+        "company_name": "CASC",
         "status": "Retired",
         "price": "$69.7 million",
         "liftoff_thrust": "2,962 kN",
@@ -3542,6 +3778,7 @@
     {
         "name": "Long March 3B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3B.webp",
+        "company_name": "CASC",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "5,924 kN",
@@ -3557,6 +3794,7 @@
     {
         "name": "Long March 3B/E",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3BE.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$29.15 million",
         "liftoff_thrust": "5,986 kN",
@@ -3571,7 +3809,8 @@
     },
     {
         "name": "Long March 3B/YZ-1",
-        "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3B_YZ-1_rocket.webp",
+        "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/GX0UGuCakAEdwt7.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "5,986 kN",
@@ -3587,6 +3826,7 @@
     {
         "name": "Long March 3C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3C_rocket.webp",
+        "company_name": "CASC",
         "status": "Retired",
         "price": "$20.14 million",
         "liftoff_thrust": "5,923 kN",
@@ -3602,6 +3842,7 @@
     {
         "name": "Long March 3C/E",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3CE_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$20.0 million",
         "liftoff_thrust": "5,923 kN",
@@ -3617,6 +3858,7 @@
     {
         "name": "Long March 3C/YZ-1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3C_YZ-1.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$20.0 million",
         "liftoff_thrust": "5,923 kN",
@@ -3632,6 +3874,7 @@
     {
         "name": "Long March 4A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_4A.webp",
+        "company_name": "MASI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,962 kN",
@@ -3647,6 +3890,7 @@
     {
         "name": "Long March 4B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_4B_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$64.68 million",
         "liftoff_thrust": "2,993 kN",
@@ -3662,6 +3906,7 @@
     {
         "name": "Long March 4C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March4C.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$64.68 million",
         "liftoff_thrust": "2,993 kN",
@@ -3677,6 +3922,7 @@
     {
         "name": "Long March 5",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_5.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "10,565 kN",
@@ -3692,6 +3938,7 @@
     {
         "name": "Long March 5/YZ-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_5_YZ-2.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "10,565 kN",
@@ -3707,6 +3954,7 @@
     {
         "name": "Long March 5B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_5B_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "10,565 kN",
@@ -3722,6 +3970,7 @@
     {
         "name": "Long March 5B/YZ-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "CASC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "10,565 kN",
@@ -3737,6 +3986,7 @@
     {
         "name": "Long March 6",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_6_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$19.0 million",
         "liftoff_thrust": "1,188 kN",
@@ -3752,6 +4002,7 @@
     {
         "name": "Long March 6A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_6A.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "7,230 kN",
@@ -3767,6 +4018,7 @@
     {
         "name": "Long March 6C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_6C.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "2,376 kN",
@@ -3782,6 +4034,7 @@
     {
         "name": "Long March 7",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_7_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "7,128 kN",
@@ -3797,6 +4050,7 @@
     {
         "name": "Long March 7A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_7A_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "7,128 kN",
@@ -3812,6 +4066,7 @@
     {
         "name": "Long March 7/YZ-1A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_7_YZ-1A_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "7,128 kN",
@@ -3827,6 +4082,7 @@
     {
         "name": "Long March 8",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_8_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$27.0 million",
         "liftoff_thrust": "4,752 kN",
@@ -3842,6 +4098,7 @@
     {
         "name": "Long March 8A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "CASC",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "4,894 kN",
@@ -3857,6 +4114,7 @@
     {
         "name": "Long March 8 (Core Only)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_8_Core_Only_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$27.0 million",
         "liftoff_thrust": "2,452 kN",
@@ -3872,6 +4130,7 @@
     {
         "name": "Long March 10",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "CASC",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "26,250 kN",
@@ -3887,6 +4146,7 @@
     {
         "name": "Long March 10A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "CASC",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "8,750 kN",
@@ -3902,6 +4162,7 @@
     {
         "name": "Long March 11",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_11_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$5.3 million",
         "liftoff_thrust": "1,176 kN",
@@ -3917,6 +4178,7 @@
     {
         "name": "Long March 11H",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_11H_rocket.webp",
+        "company_name": "CASC",
         "status": "Active",
         "price": "$5.3 million",
         "liftoff_thrust": "1,176 kN",
@@ -3932,6 +4194,7 @@
     {
         "name": "Long March 12",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "CASC",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "5,000 kN",
@@ -3947,6 +4210,7 @@
     {
         "name": "LVM-3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/LVM-3.webp",
+        "company_name": "ISRO",
         "status": "Active",
         "price": "$62.0 million",
         "liftoff_thrust": "11,898 kN",
@@ -3962,6 +4226,7 @@
     {
         "name": "Minotaur C (Taurus)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Minotaur_C.webp",
+        "company_name": "Northrop",
         "status": "Active",
         "price": "$45.0 million",
         "liftoff_thrust": "1,607 kN",
@@ -3977,6 +4242,7 @@
     {
         "name": "Minotaur I",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Minotaur_I.webp",
+        "company_name": "Northrop",
         "status": "Active",
         "price": "$40.0 million",
         "liftoff_thrust": "935 kN",
@@ -3992,6 +4258,7 @@
     {
         "name": "Minotaur IV",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Minotaur_IV.webp",
+        "company_name": "Northrop",
         "status": "Active",
         "price": "$46.0 million",
         "liftoff_thrust": "2,200 kN",
@@ -4007,6 +4274,7 @@
     {
         "name": "Minotaur V",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Minotaur_V.webp",
+        "company_name": "Northrop",
         "status": "Active",
         "price": "$55.0 million",
         "liftoff_thrust": "2,224 kN",
@@ -4022,6 +4290,7 @@
     {
         "name": "Miura 5",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Miura%205.webp",
+        "company_name": "PLD",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "950 kN",
@@ -4037,6 +4306,7 @@
     {
         "name": "MLV",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/MLV.webp",
+        "company_name": "Firefly",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "7,161 kN",
@@ -4052,6 +4322,7 @@
     {
         "name": "Molniya",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya.webp",
+        "company_name": "RKK Energiya",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,378 kN",
@@ -4067,6 +4338,7 @@
     {
         "name": "Molniya-M/Block 2BL",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_2BL.webp",
+        "company_name": "RKK Energiya",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,391 kN",
@@ -4082,6 +4354,7 @@
     {
         "name": "Molniya-M/Block L",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_L.webp",
+        "company_name": "RKK Energiya",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,391 kN",
@@ -4097,6 +4370,7 @@
     {
         "name": "Molniya-M/Block ML",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_ML.webp",
+        "company_name": "RKK Energiya",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,391 kN",
@@ -4112,6 +4386,7 @@
     {
         "name": "Molniya-M/Block NVL",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block-NVL.webp",
+        "company_name": "RKK Energiya",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,391 kN",
@@ -4127,6 +4402,7 @@
     {
         "name": "Molniya-M/Block SO-L",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_SO-L.webp",
+        "company_name": "RKK Energiya",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,391 kN",
@@ -4142,6 +4418,7 @@
     {
         "name": "Molniya-M/Block VL",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_VL.webp",
+        "company_name": "RKK Energiya",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,391 kN",
@@ -4157,6 +4434,7 @@
     {
         "name": "Mu-III C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/M-III_C.webp",
+        "company_name": "ISAS",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -4172,6 +4450,7 @@
     {
         "name": "Mu-III H",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/M-III_H.webp",
+        "company_name": "ISAS",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -4187,6 +4466,7 @@
     {
         "name": "Mu-III S",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/M-III_S.webp",
+        "company_name": "ISAS",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -4202,6 +4482,7 @@
     {
         "name": "Mu-III S2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Mu-III_S2.webp",
+        "company_name": "ISAS",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -4217,6 +4498,7 @@
     {
         "name": "Mu-IV S",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/file_5Yppd8E.webp",
+        "company_name": "ISAS",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -4232,6 +4514,7 @@
     {
         "name": "Mu-V/M-24",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "ISAS",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,780 kN",
@@ -4247,6 +4530,7 @@
     {
         "name": "Mu-V/M-25",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "ISAS",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,780 kN",
@@ -4262,6 +4546,7 @@
     {
         "name": "N-1 L3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/n1-2.webp",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "45,307 kN",
@@ -4277,6 +4562,7 @@
     {
         "name": "N-1 L3 M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "45,307 kN",
@@ -4292,6 +4578,7 @@
     {
         "name": "Neutron",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Neutron.webp",
+        "company_name": "Rocket Lab",
         "status": "Planned",
         "price": "$52.5 million",
         "liftoff_thrust": "6,800 kN",
@@ -4307,6 +4594,7 @@
     {
         "name": "New Glenn",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/New_Glenn.webp",
+        "company_name": "Blue Origin",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "17,150 kN",
@@ -4322,6 +4610,7 @@
     {
         "name": "N-I",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/N-I.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -4337,6 +4626,7 @@
     {
         "name": "N-I Star-37E",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/file_rQEdBR9.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -4352,6 +4642,7 @@
     {
         "name": "N-II",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/file_ZS3dcq0.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -4367,6 +4658,7 @@
     {
         "name": "N-II Star-37E",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/file_R8XHo4n.webp",
+        "company_name": "MHI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -4382,6 +4674,7 @@
     {
         "name": "NOTS-EV-1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/NOTS.webp",
+        "company_name": "US Navy",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -4397,6 +4690,7 @@
     {
         "name": "Nova",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Nova.webp",
+        "company_name": "Stoke Space",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": null,
@@ -4412,6 +4706,7 @@
     {
         "name": "OS-M1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/IMG_20190401_142531.webp",
+        "company_name": "OneSpace",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "500 kN",
@@ -4427,6 +4722,7 @@
     {
         "name": "Pegasus",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Pegasus.webp",
+        "company_name": "Northrop",
         "status": "Retired",
         "price": "$40.0 million",
         "liftoff_thrust": "487 kN",
@@ -4442,6 +4738,7 @@
     {
         "name": "Pegasus/HAPS",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Pegasus_XL-HAPS.webp",
+        "company_name": "Northrop",
         "status": "Retired",
         "price": "$40.0 million",
         "liftoff_thrust": "487 kN",
@@ -4457,6 +4754,7 @@
     {
         "name": "Pegasus XL",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Pegasus_XL.webp",
+        "company_name": "Northrop",
         "status": "Active",
         "price": "$40.0 million",
         "liftoff_thrust": "561 kN",
@@ -4472,6 +4770,7 @@
     {
         "name": "Pegasus XL/HAPS",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Pegasus-HAPS.webp",
+        "company_name": "Northrop",
         "status": "Active",
         "price": "$40.0 million",
         "liftoff_thrust": "561 kN",
@@ -4487,6 +4786,7 @@
     {
         "name": "Polyot",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/file_E1szzRP.webp",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,570 kN",
@@ -4502,6 +4802,7 @@
     {
         "name": "Proton",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Proton.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "8,387 kN",
@@ -4517,6 +4818,7 @@
     {
         "name": "Proton-K",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "9,469 kN",
@@ -4532,6 +4834,7 @@
     {
         "name": "Proton-K/Block D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-D_0NIyLf7.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "8,840 kN",
@@ -4547,6 +4850,7 @@
     {
         "name": "Proton-K/Block D-1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-D-1_WxLufga.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "9,468 kN",
@@ -4562,6 +4866,7 @@
     {
         "name": "Proton-K/Block D-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-D-2.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "9,548 kN",
@@ -4577,6 +4882,7 @@
     {
         "name": "Proton-K/Block-DM",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "9,195 kN",
@@ -4592,6 +4898,7 @@
     {
         "name": "Proton-K/Block DM-1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/file_B6mseVy.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "9,468 kN",
@@ -4607,6 +4914,7 @@
     {
         "name": "Proton K/Block-DM-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "9,548 kN",
@@ -4622,6 +4930,7 @@
     {
         "name": "Proton-K/Block-DM2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-2.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "9,548 kN",
@@ -4637,6 +4946,7 @@
     {
         "name": "Proton-K/Block DM-2M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-2M_khbjDCG.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "9,548 kN",
@@ -4652,6 +4962,7 @@
     {
         "name": "Proton-K/Block DM-3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-3.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "9,548 kN",
@@ -4667,6 +4978,7 @@
     {
         "name": "Proton-K/Block DM-4",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-4.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "9,548 kN",
@@ -4682,6 +4994,7 @@
     {
         "name": "Proton-K/Block DM-5",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-5.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "9,548 kN",
@@ -4697,6 +5010,7 @@
     {
         "name": "Proton-K/Briz-M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-Briz-M.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "9,548 kN",
@@ -4712,6 +5026,7 @@
     {
         "name": "Proton-M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/E6fIhl0XsAEbiYt.webp",
+        "company_name": "Khrunichev",
         "status": "Active",
         "price": "$65.0 million",
         "liftoff_thrust": "10,027 kN",
@@ -4727,6 +5042,7 @@
     {
         "name": "Proton-M/Briz-M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_M_Briz_M.webp",
+        "company_name": "Khrunichev",
         "status": "Active",
         "price": "$65.0 million",
         "liftoff_thrust": "10,027 kN",
@@ -4742,6 +5058,7 @@
     {
         "name": "Proton-M/DM-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_M-DM-2.webp",
+        "company_name": "Khrunichev",
         "status": "Active",
         "price": "$65.0 million",
         "liftoff_thrust": "10,027 kN",
@@ -4757,6 +5074,7 @@
     {
         "name": "Proton-M/DM-3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/proton-mdm-03.webp",
+        "company_name": "Khrunichev",
         "status": "Active",
         "price": "$65.0 million",
         "liftoff_thrust": "10,027 kN",
@@ -4772,6 +5090,7 @@
     {
         "name": "PSLV-CA",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/PSLV_CA.webp",
+        "company_name": "ISRO",
         "status": "Active",
         "price": "$21.0 million",
         "liftoff_thrust": "4,847 kN",
@@ -4787,6 +5106,7 @@
     {
         "name": "PSLV-DL",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/pslv-dl.webp",
+        "company_name": "ISRO",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "5,867 kN",
@@ -4802,6 +5122,7 @@
     {
         "name": "PSLV-G",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/PSLV_G.webp",
+        "company_name": "ISRO",
         "status": "Retired",
         "price": "$25.0 million",
         "liftoff_thrust": "6,887 kN",
@@ -4817,6 +5138,7 @@
     {
         "name": "PSLV-QL",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/pslv-ql.webp",
+        "company_name": "ISRO",
         "status": "Active",
         "price": "$21.0 million",
         "liftoff_thrust": "7,661 kN",
@@ -4832,6 +5154,7 @@
     {
         "name": "PSLV-XL",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/PSLV_XL.webp",
+        "company_name": "ISRO",
         "status": "Active",
         "price": "$31.0 million",
         "liftoff_thrust": "7,661 kN",
@@ -4847,6 +5170,7 @@
     {
         "name": "Qaem 100",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Qaem_100.webp",
+        "company_name": "IRGC",
         "status": "Active",
         "price": null,
         "liftoff_thrust": null,
@@ -4862,6 +5186,7 @@
     {
         "name": "Qased",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Qased.webp",
+        "company_name": "ISA",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "280 kN",
@@ -4877,6 +5202,7 @@
     {
         "name": "R-36 Orb",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon.webp",
+        "company_name": "Yuzhmash",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,650 kN",
@@ -4892,6 +5218,7 @@
     {
         "name": "Redstone Sparta",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/redstone_sparta.webp",
+        "company_name": "ABMA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "350 kN",
@@ -4907,6 +5234,7 @@
     {
         "name": "RFA One",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/RFA_One.webp",
+        "company_name": "RFA",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": null,
@@ -4922,6 +5250,7 @@
     {
         "name": "Rocket 3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/22.03.15-LV0009-Launch-Kodiak-Kenniston_16-1.webp",
+        "company_name": "Astra",
         "status": "Retired",
         "price": "$2.5 million",
         "liftoff_thrust": "133 kN",
@@ -4937,6 +5266,7 @@
     {
         "name": "Rocket 4",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Rocket_4.webp",
+        "company_name": "Astra",
         "status": "Planned",
         "price": "$5.0 million",
         "liftoff_thrust": "356 kN",
@@ -4952,6 +5282,7 @@
     {
         "name": "Rokot/Briz K",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Rokot-K.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,875 kN",
@@ -4967,6 +5298,7 @@
     {
         "name": "Rokot/Briz KM",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Rokot-KM.webp",
+        "company_name": "Khrunichev",
         "status": "Retired",
         "price": "$13.0 million",
         "liftoff_thrust": "1,875 kN",
@@ -4982,6 +5314,7 @@
     {
         "name": "Rokot-M/Briz KM-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Khrunichev",
         "status": "Planned",
         "price": "$12.0 million",
         "liftoff_thrust": "1,875 kN",
@@ -4997,6 +5330,7 @@
     {
         "name": "RS1 Block 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/RS1.webp",
+        "company_name": "ABL SS",
         "status": "Retired",
         "price": "$12.0 million",
         "liftoff_thrust": "485 kN",
@@ -5012,6 +5346,7 @@
     {
         "name": "RS1 Block 2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/rs1_block2.webp",
+        "company_name": "ABL SS",
         "status": "Planned",
         "price": "$12.0 million",
         "liftoff_thrust": "582 kN",
@@ -5027,6 +5362,7 @@
     {
         "name": "Safir-1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_18.webp",
+        "company_name": "ISA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "284 kN",
@@ -5042,6 +5378,7 @@
     {
         "name": "Safir-1A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/SaFIR-1a.webp",
+        "company_name": "ISA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "298 kN",
@@ -5057,6 +5394,7 @@
     {
         "name": "Safir-1B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Safir-1B.webp",
+        "company_name": "ISA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "298 kN",
@@ -5072,6 +5410,7 @@
     {
         "name": "Safir-1B+",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Safir-1B_ASaYdEe.webp",
+        "company_name": "ISA",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "334 kN",
@@ -5087,6 +5426,7 @@
     {
         "name": "Saturn I Block I",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/800px-Saturn_SA2_launch.webp",
+        "company_name": "NASA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "6,700 kN",
@@ -5102,6 +5442,7 @@
     {
         "name": "Saturn I Block II",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Saturn_1.webp",
+        "company_name": "NASA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "6,700 kN",
@@ -5117,6 +5458,7 @@
     {
         "name": "Saturn IB",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Saturn_IB.webp",
+        "company_name": "NASA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "7,100 kN",
@@ -5132,6 +5474,7 @@
     {
         "name": "Saturn V",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Saturn_V.webp",
+        "company_name": "NASA",
         "status": "Retired",
         "price": "$1,160.0 million",
         "liftoff_thrust": "35,100 kN",
@@ -5147,6 +5490,7 @@
     {
         "name": "Scout A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Vought",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -5162,6 +5506,7 @@
     {
         "name": "Scout A1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Vought",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -5177,6 +5522,7 @@
     {
         "name": "Scout B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Vought",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "622 kN",
@@ -5192,6 +5538,7 @@
     {
         "name": "Scout B1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Vought",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "622 kN",
@@ -5207,6 +5554,7 @@
     {
         "name": "Scout D1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Vought",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "622 kN",
@@ -5222,6 +5570,7 @@
     {
         "name": "Scout E1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Vought",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -5237,6 +5586,7 @@
     {
         "name": "Scout F1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Vought",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "622 kN",
@@ -5252,6 +5602,7 @@
     {
         "name": "Scout G1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Vought",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "622 kN",
@@ -5267,6 +5618,7 @@
     {
         "name": "Scout X-1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "NASA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -5282,6 +5634,7 @@
     {
         "name": "Scout X-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "NASA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "440 kN",
@@ -5297,6 +5650,7 @@
     {
         "name": "Scout X-2B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "NASA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -5312,6 +5666,7 @@
     {
         "name": "Scout X-2M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "NASA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "440 kN",
@@ -5327,6 +5682,7 @@
     {
         "name": "Scout X-3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "NASA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -5342,6 +5698,7 @@
     {
         "name": "Scout X-3M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "NASA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -5357,6 +5714,7 @@
     {
         "name": "Scout X-4",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "NASA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -5372,6 +5730,7 @@
     {
         "name": "Shavit",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Shavit.webp",
+        "company_name": "IAI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "413 kN",
@@ -5387,6 +5746,7 @@
     {
         "name": "Shavit 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_jsJD7Of.webp",
+        "company_name": "IAI",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "554 kN",
@@ -5402,6 +5762,7 @@
     {
         "name": "Shavit 2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Shavit-2.webp",
+        "company_name": "IAI",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "554 kN",
@@ -5417,6 +5778,7 @@
     {
         "name": "Shtil'",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Shtil.webp",
+        "company_name": "Makeyev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "807 kN",
@@ -5432,6 +5794,7 @@
     {
         "name": "Simorgh",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Simorgh.webp",
+        "company_name": "ISA",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "1,333 kN",
@@ -5447,6 +5810,7 @@
     {
         "name": "Skyrora XL",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Skyrora_XL.webp",
+        "company_name": "Skyrora",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": null,
@@ -5462,6 +5826,7 @@
     {
         "name": "SLS Block 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/SLS_Block_1.webp",
+        "company_name": "NASA",
         "status": "Active",
         "price": "$876.0 million",
         "liftoff_thrust": "39,440 kN",
@@ -5477,6 +5842,7 @@
     {
         "name": "SLS Block 1B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/SLS_Block_1B.webp",
+        "company_name": "NASA",
         "status": "Planned",
         "price": "$876.0 million",
         "liftoff_thrust": "39,440 kN",
@@ -5492,6 +5858,7 @@
     {
         "name": "SLV-3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/SLV-3.webp",
+        "company_name": "ISRO",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "503 kN",
@@ -5507,6 +5874,7 @@
     {
         "name": "SM-65B Atlas",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-B.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,600 kN",
@@ -5522,6 +5890,7 @@
     {
         "name": "South Korean ADD Solid-Fuel SLV",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "ADD",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": null,
@@ -5537,6 +5906,7 @@
     {
         "name": "South Korean ADD Solid-Fuel SLV (3 stage)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/South_Korean_ADD_Solid-Fuel_SLV_3_stage.webp",
+        "company_name": "ADD",
         "status": "Active",
         "price": null,
         "liftoff_thrust": null,
@@ -5552,6 +5922,7 @@
     {
         "name": "Soyuz",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz.webp",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,456 kN",
@@ -5567,6 +5938,7 @@
     {
         "name": "Soyuz 2.1a",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1a_Crew.webp",
+        "company_name": "RKK Energiya",
         "status": "Active",
         "price": "$17.42 million",
         "liftoff_thrust": "4,550 kN",
@@ -5582,6 +5954,7 @@
     {
         "name": "Soyuz 2.1a/Fregat",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1a_Fregat_rocket.webp",
+        "company_name": "RKK Energiya",
         "status": "Active",
         "price": "$23.0 million",
         "liftoff_thrust": "4,550 kN",
@@ -5597,6 +5970,7 @@
     {
         "name": "Soyuz 2.1a/Fregat-M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1a_Fregat-M.webp",
+        "company_name": "RKK Energiya",
         "status": "Active",
         "price": "$23.0 million",
         "liftoff_thrust": "4,550 kN",
@@ -5612,6 +5986,7 @@
     {
         "name": "Soyuz 2.1a/Volga",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1a_Volga.webp",
+        "company_name": "RKK Energiya",
         "status": "Active",
         "price": "$23.0 million",
         "liftoff_thrust": "4,550 kN",
@@ -5627,6 +6002,7 @@
     {
         "name": "Soyuz ST-A/Fregat",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_ST-A_Fregat.webp",
+        "company_name": "RKK Energiya",
         "status": "Active",
         "price": "$30.0 million",
         "liftoff_thrust": "4,317 kN",
@@ -5642,6 +6018,7 @@
     {
         "name": "Soyuz ST-A/Fregat-M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_ST-A_Fregat-M_rocket.webp",
+        "company_name": "RKK Energiya",
         "status": "Active",
         "price": "$30.0 million",
         "liftoff_thrust": "4,317 kN",
@@ -5657,6 +6034,7 @@
     {
         "name": "Soyuz 2.1b",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/soyuz_2.1b.webp",
+        "company_name": "RKK Energiya",
         "status": "Active",
         "price": "$20.0 million",
         "liftoff_thrust": "4,550 kN",
@@ -5672,6 +6050,7 @@
     {
         "name": "Soyuz 2.1b/Fregat",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1b_Fregat_rocket.webp",
+        "company_name": "RKK Energiya",
         "status": "Active",
         "price": "$25.0 million",
         "liftoff_thrust": "4,550 kN",
@@ -5687,6 +6066,7 @@
     {
         "name": "Soyuz 2.1b/Fregat-M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1b-Fregat-M.webp",
+        "company_name": "RKK Energiya",
         "status": "Active",
         "price": "$25.0 million",
         "liftoff_thrust": "4,550 kN",
@@ -5702,6 +6082,7 @@
     {
         "name": "Soyuz ST-B/Fregat-M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_ST-B_Fregat-M.webp",
+        "company_name": "RKK Energiya",
         "status": "Active",
         "price": "$30.0 million",
         "liftoff_thrust": "4,317 kN",
@@ -5717,6 +6098,7 @@
     {
         "name": "Soyuz ST-B/Fregat-MT",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_ST-B_Fregat-MT.webp",
+        "company_name": "RKK Energiya",
         "status": "Active",
         "price": "$30.0 million",
         "liftoff_thrust": "4,317 kN",
@@ -5732,6 +6114,7 @@
     {
         "name": "Soyuz 2.1v",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1v_rocket.webp",
+        "company_name": "RKK Energiya",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "1,535 kN",
@@ -5747,6 +6130,7 @@
     {
         "name": "Soyuz 2.1v/Volga",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1v_Volga_rocket.webp",
+        "company_name": "RKK Energiya",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "1,535 kN",
@@ -5762,6 +6146,7 @@
     {
         "name": "Soyuz 5",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "RKK Energiya",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "7,260 kN",
@@ -5777,6 +6162,7 @@
     {
         "name": "Soyuz 5/Fregat-SBU",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "RKK Energiya",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "7,260 kN",
@@ -5792,6 +6178,7 @@
     {
         "name": "Soyuz FG",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_FG.webp",
+        "company_name": "RKK Energiya",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,550 kN",
@@ -5807,6 +6194,7 @@
     {
         "name": "Soyuz FG/Fregat",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_D1i6Sut.webp",
+        "company_name": "RKK Energiya",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,550 kN",
@@ -5822,6 +6210,7 @@
     {
         "name": "Soyuz L",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_u3borgI.webp",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,054 kN",
@@ -5837,6 +6226,7 @@
     {
         "name": "Soyuz M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_ILuaFGG.webp",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "995 kN",
@@ -5852,6 +6242,7 @@
     {
         "name": "Soyuz U",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_U.webp",
+        "company_name": "RKK Energiya",
         "status": "Retired",
         "price": "$20.0 million",
         "liftoff_thrust": "4,456 kN",
@@ -5867,6 +6258,7 @@
     {
         "name": "Soyuz U2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz-U2.webp",
+        "company_name": "RKK Energiya",
         "status": "Retired",
         "price": "$40.0 million",
         "liftoff_thrust": "4,693 kN",
@@ -5882,6 +6274,7 @@
     {
         "name": "Soyuz U/Fregat",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz-U_-_Fregat.webp",
+        "company_name": "RKK Energiya",
         "status": "Retired",
         "price": "$28.0 million",
         "liftoff_thrust": "4,456 kN",
@@ -5897,6 +6290,7 @@
     {
         "name": "Soyuz U/Ikar",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_Ypf2w8r.webp",
+        "company_name": "RKK Energiya",
         "status": "Retired",
         "price": "$28.0 million",
         "liftoff_thrust": "4,456 kN",
@@ -5912,6 +6306,7 @@
     {
         "name": "Space Shuttle Atlantis",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Atlantis.webp",
+        "company_name": "NASA",
         "status": "Retired",
         "price": "$450.0 million",
         "liftoff_thrust": "30,250 kN",
@@ -5927,6 +6322,7 @@
     {
         "name": "Space Shuttle Challenger",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Challenger_iicKLQ1.webp",
+        "company_name": "NASA",
         "status": "Retired",
         "price": "$450.0 million",
         "liftoff_thrust": "30,250 kN",
@@ -5942,6 +6338,7 @@
     {
         "name": "Space Shuttle Columbia",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Columbia.webp",
+        "company_name": "NASA",
         "status": "Retired",
         "price": "$450.0 million",
         "liftoff_thrust": "30,250 kN",
@@ -5957,6 +6354,7 @@
     {
         "name": "Space Shuttle Discovery",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Discovery.webp",
+        "company_name": "NASA",
         "status": "Retired",
         "price": "$450.0 million",
         "liftoff_thrust": "30,250 kN",
@@ -5972,6 +6370,7 @@
     {
         "name": "Space Shuttle Endeavour",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Endeavour.webp",
+        "company_name": "NASA",
         "status": "Retired",
         "price": "$450.0 million",
         "liftoff_thrust": "30,250 kN",
@@ -5987,6 +6386,7 @@
     {
         "name": "Spectrum",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Spectrum.webp",
+        "company_name": "Isar",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "675 kN",
@@ -6002,6 +6402,7 @@
     {
         "name": "Sputnik 8A91",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Sputnik_8A91.webp",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,457 kN",
@@ -6017,6 +6418,7 @@
     {
         "name": "Sputnik 8K71PS",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Sputnik_8K74PS.webp",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,457 kN",
@@ -6032,6 +6434,7 @@
     {
         "name": "SS-520",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/n-rocket-a-20171114.webp",
+        "company_name": "JAXA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -6047,6 +6450,7 @@
     {
         "name": "SSLV",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/SSLV.webp",
+        "company_name": "ISRO",
         "status": "Active",
         "price": null,
         "liftoff_thrust": null,
@@ -6062,6 +6466,7 @@
     {
         "name": "Cargo Starship",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Cargo_Starship.webp",
+        "company_name": "SpaceX",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "74,432 kN",
@@ -6077,6 +6482,7 @@
     {
         "name": "Crew Starship",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Crew_Starship.webp",
+        "company_name": "SpaceX",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "74,432 kN",
@@ -6092,6 +6498,7 @@
     {
         "name": "Starship HLS",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "SpaceX",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "74,432 kN",
@@ -6107,6 +6514,7 @@
     {
         "name": "Starship-Super Heavy (Prototype)",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Starship-Super_Heavy_Prototype.webp",
+        "company_name": "SpaceX",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "74,432 kN",
@@ -6122,6 +6530,7 @@
     {
         "name": "Tanker Starship",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "SpaceX",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "74,432 kN",
@@ -6137,6 +6546,7 @@
     {
         "name": "START",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Start.webp",
+        "company_name": "MITT",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "890 kN",
@@ -6152,6 +6562,7 @@
     {
         "name": "START-1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Start-1.webp",
+        "company_name": "MITT",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "890 kN",
@@ -6167,6 +6578,7 @@
     {
         "name": "Strela",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/strela.webp",
+        "company_name": "NPO Mach",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,870 kN",
@@ -6182,6 +6594,7 @@
     {
         "name": "Super Strypi",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Sandia",
         "status": "Retired",
         "price": "$15.0 million",
         "liftoff_thrust": "134 kN",
@@ -6197,6 +6610,7 @@
     {
         "name": "Taepodong 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Taepodong-1.webp",
+        "company_name": "KCST",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "280 kN",
@@ -6212,6 +6626,7 @@
     {
         "name": "Terran 1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/terran_1.webp",
+        "company_name": "Relativity Space",
         "status": "Retired",
         "price": "$12.0 million",
         "liftoff_thrust": "920 kN",
@@ -6227,6 +6642,7 @@
     {
         "name": "Terran R",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Terran_R.webp",
+        "company_name": "Relativity Space",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "14,919 kN",
@@ -6242,6 +6658,7 @@
     {
         "name": "Thor DM-18 Able-I",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Thor_Able_I.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -6257,6 +6674,7 @@
     {
         "name": "Thor DM-18 Able-II",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/spac004692927x800x800.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -6272,6 +6690,7 @@
     {
         "name": "Thor DM-18 Able-III",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -6287,6 +6706,7 @@
     {
         "name": "Thor DM-18 Able-IV",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -6302,6 +6722,7 @@
     {
         "name": "Thor DM-21 Ablestar",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "760 kN",
@@ -6317,6 +6738,7 @@
     {
         "name": "Thor DSV2A Ablestar",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -6332,6 +6754,7 @@
     {
         "name": "Thorad SLV-2G Agena-D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,571 kN",
@@ -6347,6 +6770,7 @@
     {
         "name": "Thor DM-18 Agena-A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -6362,6 +6786,7 @@
     {
         "name": "Thor DM-21 Agena-B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -6377,6 +6802,7 @@
     {
         "name": "Thor DM-21 Agena-D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -6392,6 +6818,7 @@
     {
         "name": "Thor SLV2A Agena-D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,571 kN",
@@ -6407,6 +6834,7 @@
     {
         "name": "Thor LV2D Burner-1I",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,571 kN",
@@ -6422,6 +6850,7 @@
     {
         "name": "Thor LV2D Burner-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -6437,6 +6866,7 @@
     {
         "name": "Thor LV2F Star-ISS",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -6452,6 +6882,7 @@
     {
         "name": "Thor DM-19 Delta",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/spac001645909x800x800.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": null,
@@ -6467,6 +6898,7 @@
     {
         "name": "Tianlong 2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Tianlong-2.webp",
+        "company_name": "Space Pioneer",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "1,863 kN",
@@ -6482,6 +6914,7 @@
     {
         "name": "Tianlong 3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Tianlong-3.webp",
+        "company_name": "Space Pioneer",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": null,
@@ -6497,6 +6930,7 @@
     {
         "name": "Titan II(23)G",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/titan_23g_rocket_hurtles_above_the_launch_tower.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": "$35.0 million",
         "liftoff_thrust": "1,900 kN",
@@ -6512,6 +6946,7 @@
     {
         "name": "Titan II GLV",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_II_GLV.webp",
+        "company_name": "NASA",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "1,913 kN",
@@ -6527,6 +6962,7 @@
     {
         "name": "Commercial Titan III",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Commercial_Titan_III.webp",
+        "company_name": "Martin Marietta",
         "status": "Retired",
         "price": "$136.6 million",
         "liftoff_thrust": "12,454 kN",
@@ -6542,6 +6978,7 @@
     {
         "name": "Titan 34D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/523px-DF-SC-83-03173_cropped.webp",
+        "company_name": "Martin Marietta",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "11,279 kN",
@@ -6557,6 +6994,7 @@
     {
         "name": "Titan III(23)B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_23B.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,300 kN",
@@ -6572,6 +7010,7 @@
     {
         "name": "Titan III(23)C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/487px-DF-SC-84-05192_cropped.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "13,642 kN",
@@ -6587,6 +7026,7 @@
     {
         "name": "Titan III(24)B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/titan_24b.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,410 kN",
@@ -6602,6 +7042,7 @@
     {
         "name": "Titan III(33)B Agena-D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/titan-333b_agena-d__jumpseat-1__1.webp",
+        "company_name": "Martin Marietta",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,300 kN",
@@ -6617,6 +7058,7 @@
     {
         "name": "Titan III(34)B Agena-D",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_17.webp",
+        "company_name": "Martin Marietta",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,300 kN",
@@ -6632,6 +7074,7 @@
     {
         "name": "Titan IIIA",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_IIIA.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": "$63.23 million",
         "liftoff_thrust": "1,936 kN",
@@ -6647,6 +7090,7 @@
     {
         "name": "Titan IIIB",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/FS-7-8_Winter_White.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": "$59.0 million",
         "liftoff_thrust": "2,300 kN",
@@ -6662,6 +7106,7 @@
     {
         "name": "Titan IIIC",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_IIIC.webp",
+        "company_name": "US Air Force",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "13,642 kN",
@@ -6677,6 +7122,7 @@
     {
         "name": "Titan IIID",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_IIID_rocket.webp",
+        "company_name": "Martin Marietta",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "10,587 kN",
@@ -6692,6 +7138,7 @@
     {
         "name": "Titan IIIE",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_IIIE.webp",
+        "company_name": "Martin Marietta",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "12,769 kN",
@@ -6707,6 +7154,7 @@
     {
         "name": "Titan IV(401)A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/t4k7s.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "14,200 kN",
@@ -6722,6 +7170,7 @@
     {
         "name": "Titan IV(401)B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/PIA01051_hires.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "15,000 kN",
@@ -6737,6 +7186,7 @@
     {
         "name": "Titan IV(402)A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_15.webp",
+        "company_name": "Martin Marietta",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "14,200 kN",
@@ -6752,6 +7202,7 @@
     {
         "name": "Titan IV(402)B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/040214launch.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "15,000 kN",
@@ -6767,6 +7218,7 @@
     {
         "name": "Titan IV(403)A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_14.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "14,200 kN",
@@ -6782,6 +7234,7 @@
     {
         "name": "Titan IV(403)B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_16.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "15,000 kN",
@@ -6797,6 +7250,7 @@
     {
         "name": "Titan IV(404)A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "14,200 kN",
@@ -6812,6 +7266,7 @@
     {
         "name": "Titan IV(404)B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/t4b34s.webp",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "15,000 kN",
@@ -6827,6 +7282,7 @@
     {
         "name": "Titan IV(405)A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "14,200 kN",
@@ -6842,6 +7298,7 @@
     {
         "name": "Titan IV(405)B",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "Lockheed",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "15,000 kN",
@@ -6857,6 +7314,7 @@
     {
         "name": "Tsyklon-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon-2.webp",
+        "company_name": "Yuzhmash",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,650 kN",
@@ -6872,6 +7330,7 @@
     {
         "name": "Tsyklon-2A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon-2A.webp",
+        "company_name": "Yuzhmash",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "2,650 kN",
@@ -6887,6 +7346,7 @@
     {
         "name": "Tsyklon-3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon-3.webp",
+        "company_name": "Yuzhmash",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "3,032 kN",
@@ -6902,6 +7362,7 @@
     {
         "name": "Unha 2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Unha_2.webp",
+        "company_name": "KCST",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "284 kN",
@@ -6917,6 +7378,7 @@
     {
         "name": "Unha 3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Unha_3.webp",
+        "company_name": "KCST",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "284 kN",
@@ -6932,6 +7394,7 @@
     {
         "name": "Vanguard",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/vanguard.webp",
+        "company_name": "US Navy",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "135 kN",
@@ -6947,6 +7410,7 @@
     {
         "name": "Vega",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Vega.webp",
+        "company_name": "ESA",
         "status": "Retired",
         "price": "$37.0 million",
         "liftoff_thrust": "2,200 kN",
@@ -6962,6 +7426,7 @@
     {
         "name": "Vega C",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Vega-C.webp",
+        "company_name": "ESA",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "4,500 kN",
@@ -6977,6 +7442,7 @@
     {
         "name": "Vega E",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Vega-E.webp",
+        "company_name": "ESA",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "4,500 kN",
@@ -6992,6 +7458,7 @@
     {
         "name": "VLS-1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/VLS-1.webp",
+        "company_name": "AEB",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "623 kN",
@@ -7007,6 +7474,7 @@
     {
         "name": "Volna",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/volna.webp",
+        "company_name": "Makeyev",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "618 kN",
@@ -7022,6 +7490,7 @@
     {
         "name": "Voskhod",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Voskhod.webp",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,616 kN",
@@ -7037,6 +7506,7 @@
     {
         "name": "Vostok",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/vostok1.webp",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,570 kN",
@@ -7052,6 +7522,7 @@
     {
         "name": "Vostok-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,570 kN",
@@ -7067,6 +7538,7 @@
     {
         "name": "Vostok-2A",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Vostok-2A.webp",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,570 kN",
@@ -7082,6 +7554,7 @@
     {
         "name": "Vostok-2M",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Vostok-2M.webp",
+        "company_name": "OKB-1",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "4,570 kN",
@@ -7097,6 +7570,7 @@
     {
         "name": "Vulcan Centaur",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Vulcan_Centaur.webp",
+        "company_name": "ULA",
         "status": "Active",
         "price": null,
         "liftoff_thrust": null,
@@ -7112,6 +7586,7 @@
     {
         "name": "Vulcan VC0L",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "ULA",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "4,900 kN",
@@ -7127,6 +7602,7 @@
     {
         "name": "Vulcan VC0S",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "ULA",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "4,900 kN",
@@ -7141,7 +7617,8 @@
     },
     {
         "name": "Vulcan VC2L",
-        "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Vulcan_VC2L.webp",
+        "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/VC2.webp",
+        "company_name": "ULA",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "8,952 kN",
@@ -7156,7 +7633,8 @@
     },
     {
         "name": "Vulcan VC2S",
-        "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Vulcan_VC2S.webp",
+        "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/54041467572_d7f78e68fe_o.webp",
+        "company_name": "ULA",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "8,952 kN",
@@ -7172,6 +7650,7 @@
     {
         "name": "Vulcan VC4L",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Vulcan_VC4L.webp",
+        "company_name": "ULA",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "13,006 kN",
@@ -7187,6 +7666,7 @@
     {
         "name": "Vulcan VC4S",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Vulcan_VC4S.webp",
+        "company_name": "ULA",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "13,006 kN",
@@ -7202,6 +7682,7 @@
     {
         "name": "Vulcan VC6L",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "ULA",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "17,056 kN",
@@ -7217,6 +7698,7 @@
     {
         "name": "Vulcan VC6S",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg",
+        "company_name": "ULA",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": "17,056 kN",
@@ -7232,6 +7714,7 @@
     {
         "name": "Zenit-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-2.webp",
+        "company_name": "Yuzhmash",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "7,257 kN",
@@ -7247,6 +7730,7 @@
     {
         "name": "Zenit-2 FG",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-2_FG_rocket.webp",
+        "company_name": "Yuzhmash",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "7,257 kN",
@@ -7262,6 +7746,7 @@
     {
         "name": "Zenit-3 SL",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-3_SL_rocket.webp",
+        "company_name": "Yuzhmash",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "7,257 kN",
@@ -7277,6 +7762,7 @@
     {
         "name": "Zenit-3 SLB",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-3_SLB.webp",
+        "company_name": "Yuzhmash",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "7,257 kN",
@@ -7292,6 +7778,7 @@
     {
         "name": "Zenit-3 SLBF",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-3_SLBF.webp",
+        "company_name": "Yuzhmash",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "7,257 kN",
@@ -7307,6 +7794,7 @@
     {
         "name": "ZhuQue-1",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/ZhuQue-1.webp",
+        "company_name": "Landspace",
         "status": "Retired",
         "price": null,
         "liftoff_thrust": "450 kN",
@@ -7322,6 +7810,7 @@
     {
         "name": "ZhuQue-2",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/ZhuQue-2.webp",
+        "company_name": "Landspace",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "2,636 kN",
@@ -7337,6 +7826,7 @@
     {
         "name": "ZhuQue-3",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/ZhuQue-3.webp",
+        "company_name": "Landspace",
         "status": "Planned",
         "price": null,
         "liftoff_thrust": null,
@@ -7352,6 +7842,7 @@
     {
         "name": "Zoljanah",
         "image_url": "https://storage.googleapis.com/nextspaceflight/media/rockets/Zoljanah.webp",
+        "company_name": "ISA",
         "status": "Active",
         "price": null,
         "liftoff_thrust": "726 kN",
