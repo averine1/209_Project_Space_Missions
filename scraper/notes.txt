@@ -1,0 +1,6 @@
+Steps:
+
+1. execute Launches_scaper.ipynb to scrape all past and upcoming launches into json files
+2. execute rockets_scraper.ipynb to scrape all rockets into a json file
+3. execute rocket_configs_parser.ipynb to separate rockets and configurations into two json files
+4. execute json_to_csv.ipynb to convert all json files to csv files
