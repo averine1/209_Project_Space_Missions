@@ -1,492 +1,492 @@
-name,image_url,status,price,liftoff_thrust,payload_to_leo,payload_to_gto,stages,strap-ons,rocket_height,fairing_diameter,fairing_height,rocket_id
-Alpha,https://storage.googleapis.com/nextspaceflight/media/rockets/Alpha.webp,Active,$15.0 million,801 kN,"1,030 kg",,2.0,0.0,29.48 m,2.2 m,5.0 m,62
-Amur/Fregat-M,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,$22.0 million,"4,903 kN","12,500 kg","2,500 kg",3.0,0.0,55.0 m,5.1 m,5.8 m,252
-Angara 1.2,https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_1.2.webp,Active,,"1,922 kN","3,800 kg",0 kg,2.0,0.0,42.7 m,3.0 m,2.9 m,183
-Angara 1.2PP,https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_1.2PP.webp,Retired,,"1,922 kN",,0 kg,2.0,0.0,42.7 m,3.0 m,2.9 m,183
-Angara A5,https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_A5.webp,Active,$100.0 million,"9,610 kN","25,000 kg","3,000 kg",2.0,4.0,55.4 m,4.35 m,15.2 m,58
-Angara A5/Blok DM-03,https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_A5_DM-03.webp,Active,$100.0 million,"9,610 kN","23,000 kg","5,400 kg",3.0,4.0,55.4 m,4.35 m,15.2 m,58
-Angara A5/Briz-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_A5_BrizM.webp,Active,$100.0 million,"9,610 kN","23,000 kg","5,400 kg",3.0,4.0,55.4 m,4.35 m,15.2 m,58
-Angara A5M,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Active,$100.0 million,"9,610 kN","25,000 kg","6,000 kg",2.0,4.0,55.4 m,4.35 m,15.2 m,58
-Antares 110,https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_110.webp,Retired,$80.0 million,"3,265 kN",,,2.0,0.0,40.5 m,3.94 m,4.87 m,26
-Antares 120,https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_120.webp,Retired,$80.0 million,"3,265 kN","4,600 kg","1,500 kg",2.0,0.0,40.5 m,3.94 m,9.87 m,26
-Antares 130,https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_130.webp,Retired,$80.0 million,"3,265 kN","5,100 kg",,2.0,0.0,40.5 m,3.94 m,9.87 m,26
-Antares 230,https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_230.webp,Retired,$85.0 million,"3,844 kN","7,000 kg",,2.0,0.0,41.9 m,3.9 m,9.9 m,26
-Antares 230+,https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_230_plus.webp,Retired,$85.0 million,"3,844 kN","8,000 kg",,2.0,0.0,42.5 m,3.9 m,9.9 m,26
-Antares 330,https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_330.webp,Planned,,"7,161 kN","10,800 kg",,2.0,0.0,47.0 m,3.0 m,9.0 m,26
-Ariane 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_1.webp,Retired,,"2,772 kN","4,850 kg","1,850 kg",4.0,0.0,47.4 m,,,9
-Ariane 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_2.webp,Retired,,"2,580 kN",,"2,175 kg",3.0,0.0,49.0 m,,,88
-Ariane 3,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_3.webp,Retired,,"5,100 kN",,"2,700 kg",3.0,2.0,49.0 m,,,89
-Ariane 40,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_40.webp,Retired,,"3,034 kN","5,000 kg","2,000 kg",3.0,0.0,58.72 m,,,90
-Ariane 42L,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_42L.webp,Retired,,"4,538 kN",,"3,480 kg",3.0,2.0,58.72 m,,,90
-Ariane 42P,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_42P.webp,Retired,,"4,334 kN",,"2,930 kg",3.0,2.0,58.72 m,,,90
-Ariane 44L,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_44L.webp,Retired,,"6,000 kN",,"4,720 kg",3.0,4.0,58.72 m,,,90
-Ariane 44LP,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_44LP.webp,Retired,,"5,800 kN",,"4,220 kg",3.0,4.0,58.72 m,,,90
-Ariane 44P,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_44P.webp,Retired,,"4,334 kN",,"3,460 kg",3.0,4.0,58.72 m,,,90
-Ariane 5 ECA,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_ECA.webp,Retired,$200.0 million,"15,120 kN","21,000 kg","10,500 kg",2.0,2.0,53.0 m,5.4 m,17.0 m,91
-Ariane 5 ES,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_ES.webp,Retired,,"15,120 kN","21,000 kg",,2.0,2.0,50.5 m,5.4 m,17.0 m,91
-Ariane 5 G,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_G.webp,Retired,,"11,400 kN",,"6,900 kg",2.0,2.0,52.0 m,,,91
-Ariane 5 G+,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_G_plus_rocket.webp,Retired,$190.0 million,,,"7,100 kg",2.0,2.0,,,,91
-Ariane 5 GS,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_GS.webp,Retired,,,,"6,600 kg",2.0,2.0,47.0 m,,,91
-Ariane 62,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_62.webp,Active,$88.0 million,"8,370 kN","10,350 kg","4,500 kg",2.0,2.0,62.0 m,5.4 m,20.0 m,92
-Ariane 64,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_64.webp,Active,$106.0 million,"15,370 kN","21,650 kg","11,500 kg",2.0,4.0,62.0 m,5.4 m,20.0 m,92
-Ariane 64/Icarus,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_64_Icarus.webp,Planned,$100.0 million,"15,370 kN","25,000 kg","15,000 kg",2.0,4.0,63.0 m,5.4 m,20.0 m,92
-ASLV,https://storage.googleapis.com/nextspaceflight/media/rockets/ASLV.webp,Retired,,"1,005 kN",150 kg,,5.0,2.0,24.0 m,1.0 m,,33
-Athena I,https://storage.googleapis.com/nextspaceflight/media/rockets/Athena_I.webp,Retired,,"1,900 kN",820 kg,,3.0,,18.9 m,,,68
-Athena II,https://storage.googleapis.com/nextspaceflight/media/rockets/Athena_II.webp,Retired,,"1,900 kN",,593 kg,4.0,,28.2 m,,,93
-Atlas-D Able,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-D_Able.webp,Retired,,"1,880 kN",,,3.0,0.0,35.0 m,,,204
-Atlas-E/F Agena D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Agena_D.webp,Retired,,,,,2.0,0.0,,,,205
-Atlas-LV3 Agena-A,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3_Agena-A.webp,Retired,,,"1,250 kg",,2.0,0.0,,,,205
-Atlas-LV3 Agena-B,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3_Agena-B.webp,Retired,,,"1,725 kg",,2.0,0.0,,,,205
-Atlas-LV3 Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3_Agena-D.webp,Retired,,,,,2.0,0.0,,,,205
-Atlas-SLV3A Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3A_Agena-D.webp,Retired,,,,,2.0,0.0,,,,205
-Atlas-SLV3 Agena-B,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3_Agena-B.webp,Retired,,,,,2.0,0.0,,,,205
-Atlas-SLV3 Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3_Agena-D.webp,Retired,,,"1,825 kg",,2.0,0.0,,,,205
-Atlas-SLV3B Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3B_Agena-D.webp,Retired,,,,,2.0,0.0,,,,205
-Atlas-E/F Altair,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Altair.webp,Retired,,,210 kg,,2.0,0.0,,,,181
-Atlas-E/F Burner,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Burner.webp,Retired,,,950 kg,,2.0,0.0,,,,220
-Atlas-SLV3 Burner-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3_Burner-2.webp,Retired,,,,,2.0,0.0,,,,220
-Atlas-G Centaur-D1AR,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-G_Centaur-D1AR.webp,Retired,,,"5,900 kg","2,222 kg",2.0,0.0,,,,222
-Atlas-LV3C Centaur-A,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3C_Centaur-A.webp,Retired,,,,,2.0,0.0,,,,222
-Atlas-LV3C Centaur-B,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3C_Centaur-B.webp,Retired,,,,,2.0,0.0,,,,222
-Atlas-LV3C Centaur-C,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3C_Centaur-C.webp,Retired,,,,,2.0,0.0,,,,222
-Atlas-LV3C Centaur-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3C_Centaur-D.webp,Retired,,,,,2.0,0.0,,,,222
-Atlas-SLV3C Centaur-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3C_Centaur-D.webp,Retired,,,,,2.0,0.0,,,,222
-Atlas-SLV3D Centaur-D1A,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3D_Centaur-D1A.webp,Retired,,,,,2.0,0.0,,,,222
-Atlas-SLV3D Centaur-D1AR,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3D_Centaur-D1AR.webp,Retired,,,,,2.0,0.0,,,,222
-Atlas I,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_I.webp,Retired,,,,,2.0,0.0,43.9 m,,,229
-Atlas II,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_II.webp,Retired,,"2,479 kN","6,580 kg","2,810 kg",2.0,0.0,47.5 m,,,228
-Atlas IIA,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_IIA.webp,Retired,,"2,479 kN","7,316 kg","3,180 kg",2.0,0.0,47.5 m,,,228
-Atlas IIAS,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_IIAS.webp,Retired,,"2,957 kN","8,618 kg","3,933 kg",2.0,4.0,47.5 m,,,228
-Atlas IIIA,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_IIIA.webp,Retired,,"3,826 kN","8,640 kg","4,055 kg",2.0,0.0,52.8 m,4.2 m,12.2 m,95
-Atlas IIIB,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_IIIB.webp,Retired,,"3,826 kN","10,218 kg","4,500 kg",2.0,0.0,52.8 m,4.2 m,12.2 m,95
-Atlas-D Mercury,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-D_Mercury.webp,Retired,,"1,880 kN","1,360 kg",,2.0,0.0,28.7 m,,,94
-Atlas-E/F MSD,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_MSD.webp,Retired,,,800 kg,,2.0,0.0,,,,232
-Atlas-H MSD,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-H_MSD.webp,Retired,,,,,2.0,0.0,,,,232
-Atlas-E/F OIS,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_OIS.webp,Retired,,,870 kg,,2.0,0.0,,,,233
-Atlas-D OV1,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-D_OV1.webp,Retired,,"1,880 kN",,,2.0,0.0,,,,212
-Atlas-E/F OV1,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_OV1.webp,Retired,,,363 kg,,2.0,0.0,,,,212
-Atlas-E/F PTS,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_PTS.webp,Retired,,,295 kg,,2.0,0.0,,,,234
-Atlas-E/F SGS-1,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_SGS-1.webp,Retired,,,,,3.0,0.0,,,,235
-Atlas-E/F SGS-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_SGS-2.webp,Retired,,,,,3.0,0.0,,,,235
-Atlas SLV-3,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_SLV-3.webp,Retired,,,800 kg,,,0.0,,,,213
-Atlas-E/F Star-17A,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Star-17A.webp,Retired,,,,,2.0,0.0,,,,236
-Atlas-E/F Star-37S-ISS,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Star-37S-ISS.webp,Retired,,,,,2.0,0.0,,,,236
-Atlas V 401,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-V-401.webp,Retired,$109.0 million,"3,826 kN","9,797 kg","4,750 kg",2.0,0.0,58.3 m,4.2 m,13.8 m,25
-Atlas V 411,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_411.webp,Retired,$115.0 million,"5,489 kN","12,030 kg","5,950 kg",2.0,1.0,58.3 m,4.2 m,13.8 m,25
-Atlas V 421,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_421.webp,Retired,$123.0 million,"7,152 kN","13,600 kg","6,890 kg",2.0,2.0,58.3 m,4.2 m,13.8 m,25
-Atlas V 431,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_431.webp,Retired,$130.0 million,"8,815 kN","15,260 kg","7,700 kg",2.0,3.0,59.1 m,4.2 m,13.8 m,25
-Atlas V 501,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_501.webp,Retired,$120.0 million,"3,826 kN","8,210 kg","3,780 kg",2.0,0.0,62.2 m,5.4 m,26.5 m,25
-Atlas V 511,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_511.webp,Retired,$130.0 million,"5,489 kN","11,000 kg","5,250 kg",2.0,1.0,62.2 m,5.4 m,26.5 m,25
-Atlas V 521,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_521.webp,Retired,$135.0 million,"7,152 kN","13,500 kg","6,480 kg",2.0,2.0,62.2 m,5.4 m,26.5 m,25
-Atlas V 531,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_531.webp,Retired,$140.0 million,"8,815 kN","15,530 kg","7,450 kg",2.0,3.0,62.2 m,5.4 m,26.5 m,25
-Atlas V 541,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_541.webp,Retired,$145.0 million,"10,478 kN","17,410 kg","8,290 kg",2.0,4.0,62.2 m,5.4 m,26.5 m,25
-Atlas V 551,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_551.webp,Active,$153.0 million,"12,141 kN","18,850 kg","8,900 kg",2.0,5.0,62.2 m,5.4 m,26.5 m,25
-Atlas V N22,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_N22_rocket.webp,Active,,"7,152 kN","13,000 kg",,2.0,2.0,62.2 m,,,25
-Black Arrow,https://storage.googleapis.com/nextspaceflight/media/rockets/black_arrow.webp,Retired,,256 kN,135 kg,,3.0,,13.0 m,,,64
-Blue Scout II,https://storage.googleapis.com/nextspaceflight/media/rockets/Blue_Scout_II.webp,Retired,,471 kN,,,4.0,0.0,24.0 m,,,211
-Ceres 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Ceres-1.webp,Active,$4.38 million,588 kN,400 kg,0 kg,4.0,0.0,19.0 m,1.4 m,2.5 m,225
-Ceres 1S,https://storage.googleapis.com/nextspaceflight/media/rockets/Ceres-1S.webp,Active,$4.38 million,588 kN,400 kg,0 kg,4.0,0.0,19.0 m,1.4 m,2.5 m,225
-Chŏllima 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Ch%C5%8Fllima.webp,Active,,,,,,0.0,,,,288
-Conestoga 1620,https://storage.googleapis.com/nextspaceflight/media/rockets/Conestoga-1620.webp,Retired,$20.0 million,,"1,179 kg",,4.0,6.0,,,,184
-Cosmos-1 (65S3),https://storage.googleapis.com/nextspaceflight/media/rockets/Cosmos-1_65S3.webp,Retired,,636 kN,350 kg,0 kg,2.0,0.0,29.59 m,1.65 m,2.99 m,208
-Cosmos-2 (63SM),https://storage.googleapis.com/nextspaceflight/media/rockets/Cosmos-2_63SM.webp,Retired,,636 kN,400 kg,0 kg,2.0,0.0,29.59 m,1.65 m,2.99 m,209
-Cosmos-3,https://storage.googleapis.com/nextspaceflight/media/rockets/Cosmos-3.webp,Retired,,"1,481 kN","1,250 kg",0 kg,2.0,0.0,32.42 m,2.44 m,5.72 m,135
-Cosmos-3M,https://storage.googleapis.com/nextspaceflight/media/rockets/Cosmos-3M.webp,Retired,,"1,486 kN","1,500 kg",0 kg,2.0,0.0,32.42 m,2.44 m,5.72 m,135
-K65M-RB5,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"1,486 kN","1,300 kg",0 kg,2.0,0.0,26.0 m,2.44 m,5.72 m,135
-Tsyklon-4M,https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon-4M.webp,Planned,$45.0 million,"3,111 kN","5,000 kg",910 kg,2.0,0.0,38.7 m,4.0 m,9.7 m,215
-Delta 300,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_300.webp,Retired,,,,,2.0,3.0,,,,267
-Delta 900,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_900.webp,Retired,,,,,2.0,9.0,,,,267
-Delta 1410,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1410.webp,Retired,,,,,2.0,4.0,,,,263
-Delta 1604,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1604.webp,Retired,,,,,3.0,6.0,,,,263
-Delta 1900,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1900.webp,Retired,,,"1,800 kg",,2.0,9.0,,,,263
-Delta 1910,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1910.webp,Retired,,,,,2.0,9.0,,,,263
-Delta 1913,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1913.webp,Retired,,,,,3.0,9.0,,,,263
-Delta 1914,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1914.webp,Retired,,,,680 kg,3.0,9.0,,,,263
-Delta 2310,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2310.webp,Retired,,,,,2.0,3.0,,,,264
-Delta 2313,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2313.webp,Retired,,,,,3.0,3.0,,,,264
-Delta 2910,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2910.webp,Retired,,,"1,887 kg",,2.0,9.0,,,,264
-Delta 2913,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2913.webp,Retired,,,,,3.0,9.0,,,,264
-Delta 2914,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2914.webp,Retired,,,,724 kg,3.0,9.0,,,,264
-Delta 3910,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3910.webp,Retired,,,,"1,154 kg",2.0,9.0,,,,202
-Delta 3913,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3913.webp,Retired,,,,,3.0,9.0,,,,202
-Delta 3914,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3914.webp,Retired,,,,954 kg,3.0,9.0,,,,202
-Delta 3920,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3920.webp,Retired,,,"3,452 kg",,2.0,9.0,,,,202
-Delta 3920-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3920-8.webp,Retired,,"3,188 kN",,,2.0,9.0,,2.9 m,,202
-Delta 3924,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3924.webp,Retired,,,,"1,104 kg",3.0,9.0,,,,202
-Delta 4925-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_4925-8.webp,Retired,,"3,469 kN","3,400 kg","1,200 kg",3.0,9.0,34.0 m,2.44 m,,169
-Delta 5920-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_5920-8.webp,Retired,,,"3,849 kg",,2.0,9.0,,,,265
-Delta A,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_A.webp,Retired,,,320 kg,68 kg,3.0,0.0,,,,244
-Delta B,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_B.webp,Retired,,,375 kg,68 kg,3.0,0.0,,,,245
-Delta C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_C.webp,Retired,,667 kN,410 kg,82 kg,3.0,0.0,31.0 m,,,248
-Delta C1,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_C1.webp,Retired,,,600 kg,,3.0,0.0,,,,248
-Delta D,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_D.webp,Retired,,"1,725 kN",575 kg,104 kg,3.0,3.0,,,,254
-Delta E,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_E.webp,Retired,,,735 kg,150 kg,3.0,3.0,,,,268
-Delta E1,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_E1.webp,Retired,,,,205 kg,3.0,3.0,,,,268
-Delta G,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_G.webp,Retired,,,,,2.0,3.0,,,,269
-Delta II 6920-10,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_6920-10.webp,Retired,,"3,481 kN","3,950 kg",,2.0,9.0,38.9 m,3.0 m,8.9 m,7
-Delta II 6920-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_6920-8.webp,Retired,,"3,481 kN","3,983 kg",,2.0,9.0,38.1 m,2.4 m,8.49 m,7
-Delta II 6925,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_6925.webp,Retired,,"3,481 kN",,"1,447 kg",3.0,9.0,38.1 m,2.9 m,8.49 m,7
-Delta II 6925-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_6925-8.webp,Retired,,"3,481 kN",,"1,460 kg",3.0,9.0,38.1 m,2.4 m,8.49 m,7
-Delta II 7320-10C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7320-10C.webp,Retired,,"2,533 kN","2,703 kg",,2.0,3.0,38.9 m,3.0 m,8.9 m,7
-Delta II 7326,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7326.webp,Retired,,"2,533 kN",,934 kg,3.0,3.0,38.1 m,2.9 m,8.49 m,7
-Delta II 7420-10C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7420-10C.webp,Retired,,"3,020 kN","3,099 kg",,2.0,4.0,38.9 m,3.0 m,8.9 m,7
-Delta II 7425,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7425.webp,Retired,,"3,020 kN",,"1,110 kg",3.0,4.0,38.1 m,2.9 m,8.49 m,7
-Delta II 7425-10C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7425-10C.webp,Retired,,"3,020 kN",,"1,073 kg",3.0,4.0,38.9 m,3.0 m,8.9 m,7
-Delta II 7426,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7426.webp,Retired,,"3,020 kN",,"1,058 kg",3.0,4.0,38.1 m,2.9 m,8.49 m,7
-Delta II 7920-10,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920-10.webp,Retired,,"3,511 kN","4,800 kg",,2.0,9.0,38.9 m,3.0 m,8.9 m,7
-Delta II 7920-10C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920-10C.webp,Retired,,"3,511 kN","4,844 kg",,2.0,9.0,38.9 m,3.0 m,8.9 m,7
-Delta II 7920-10L,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920-10L.webp,Retired,,"3,511 kN","4,805 kg",,2.0,9.0,39.3 m,3.0 m,9.3 m,7
-Delta II 7920-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920-8.webp,Retired,,"3,511 kN","5,000 kg",,2.0,9.0,38.1 m,2.4 m,8.49 m,7
-Delta II 7920H,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920H.webp,Retired,,"4,398 kN","6,097 kg",,2.0,9.0,38.1 m,2.9 m,8.49 m,7
-Delta II 7920H-10C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920H-10C.webp,Retired,,"4,398 kN","5,959 kg",,2.0,9.0,38.9 m,3.0 m,8.9 m,7
-Delta II 7925,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925.webp,Retired,,"3,511 kN",,"1,819 kg",3.0,9.0,38.1 m,2.9 m,8.49 m,7
-Delta II 7925-10,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925-10.webp,Retired,,"3,511 kN",,"1,730 kg",3.0,9.0,38.9 m,3.0 m,8.9 m,7
-Delta II 7925-10C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925-10C.webp,Retired,,"3,511 kN",,"1,747 kg",3.0,9.0,38.9 m,3.0 m,8.9 m,7
-Delta II 7925-10L,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925-10L.webp,Retired,,"3,511 kN",,"1,739 kg",3.0,9.0,39.3 m,3.0 m,9.3 m,7
-Delta II 7925-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925-8.webp,Retired,,"3,511 kN",,"1,780 kg",3.0,9.0,38.1 m,2.4 m,8.49 m,7
-Delta II 7925H,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925H.webp,Retired,,"4,398 kN",,"2,171 kg",3.0,9.0,38.1 m,2.9 m,8.49 m,7
-Delta III 8930,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_III_8930.webp,Retired,,"4,856 kN","8,290 kg","3,810 kg",2.0,9.0,35.0 m,4.0 m,10.84 m,170
-Delta IV Heavy,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Heavy.webp,Retired,$350.0 million,"9,411 kN","28,370 kg","13,810 kg",2.0,2.0,72.0 m,5.1 m,19.1 m,98
-Delta IV Medium,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Medium.webp,Retired,$133.0 million,"3,137 kN","8,800 kg","4,540 kg",2.0,0.0,62.5 m,4.0 m,11.75 m,97
-"Delta IV Medium+ (4,2)",https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Medium_42.webp,Retired,$164.0 million,"4,895 kN","10,440 kg","6,390 kg",2.0,2.0,62.5 m,4.0 m,11.75 m,97
-"Delta IV Medium+ (5,2)",https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Medium_52.webp,Retired,,"4,895 kN","9,610 kg","5,080 kg",2.0,2.0,66.4 m,5.1 m,19.1 m,97
-"Delta IV Medium+ (5,4)",https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Medium_54.webp,Retired,,"6,653 kN","11,600 kg","6,890 kg",2.0,4.0,66.4 m,5.1 m,19.1 m,97
-Delta J,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_J.webp,Retired,,,800 kg,263 kg,3.0,3.0,,,,270
-Delta L,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_L.webp,Retired,,,998 kg,356 kg,3.0,3.0,,,,272
-Delta M,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_M.webp,Retired,,,,356 kg,3.0,3.0,,,,266
-Delta M6,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_M6.webp,Retired,,,"1,293 kg",454 kg,3.0,6.0,,,,266
-Delta N,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_N.webp,Retired,,,900 kg,,2.0,3.0,,,,271
-Delta N6,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_N6.webp,Retired,,,"1,600 kg",,2.0,6.0,,,,271
-Diamant A,https://storage.googleapis.com/nextspaceflight/media/rockets/Diamant_A.webp,Retired,,274 kN,80 kg,0 kg,3.0,0.0,18.49 m,0.65 m,2.16 m,66
-Diamant B,https://storage.googleapis.com/nextspaceflight/media/rockets/Diamant_B.webp,Retired,,348 kN,115 kg,0 kg,3.0,0.0,23.54 m,0.85 m,2.8 m,66
-Diamant BP4,https://storage.googleapis.com/nextspaceflight/media/rockets/Diamant_BP4.webp,Retired,,317 kN,150 kg,0 kg,3.0,0.0,21.64 m,1.45 m,4.5 m,66
-Dnepr,https://storage.googleapis.com/nextspaceflight/media/rockets/Dnepr.webp,Retired,$29.0 million,"4,166 kN","4,500 kg",500 kg,3.0,0.0,34.3 m,3.0 m,7.45 m,192
-Electron,https://storage.googleapis.com/nextspaceflight/media/rockets/Electron-Rocket.webp,Active,$7.5 million,224 kN,320 kg,,2.0,0.0,18.0 m,1.2 m,4.05 m,4
-Electron/Curie,https://storage.googleapis.com/nextspaceflight/media/rockets/Electron_Curie.webp,Active,$7.5 million,224 kN,320 kg,,3.0,0.0,18.0 m,1.2 m,4.05 m,4
-Electron/Explorer,https://storage.googleapis.com/nextspaceflight/media/rockets/Electron_Explorer.webp,Active,$7.5 million,224 kN,320 kg,,3.0,0.0,18.0 m,1.2 m,4.05 m,4
-Electron/Photon,https://storage.googleapis.com/nextspaceflight/media/rockets/Electron_Photon.webp,Active,$7.5 million,224 kN,320 kg,,3.0,0.0,18.0 m,1.2 m,4.05 m,4
-Energiya/Buran,https://storage.googleapis.com/nextspaceflight/media/rockets/Energiya_Buran.webp,Retired,"$3,000.0 million","35,832 kN","105,000 kg","40,000 kg",1.0,4.0,59.0 m,5.7 m,41.0 m,59
-Energiya/Polyus,https://storage.googleapis.com/nextspaceflight/media/rockets/Energiya_Polyus.webp,Retired,"$3,000.0 million","35,832 kN","105,000 kg","40,000 kg",1.0,4.0,59.0 m,5.7 m,41.0 m,59
-Epsilon,https://storage.googleapis.com/nextspaceflight/media/rockets/Epsilon.webp,Active,,"1,612 kN",,,3.0,0.0,26.0 m,2.5 m,9.19 m,41
-Epsilon Demo,https://storage.googleapis.com/nextspaceflight/media/rockets/Epsilon_Demo.webp,Retired,,"1,621 kN",490 kg,,4.0,0.0,24.0 m,2.5 m,9.19 m,41
-Epsilon PBS,https://storage.googleapis.com/nextspaceflight/media/rockets/Epsilon_PBS.webp,Active,$39.0 million,"1,612 kN",700 kg,,4.0,0.0,26.0 m,2.5 m,9.19 m,41
-Epsilon S,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"1,612 kN","1,400 kg",0 kg,4.0,0.0,27.0 m,2.5 m,9.19 m,41
-Eris,https://storage.googleapis.com/nextspaceflight/media/rockets/Eris.webp,Planned,,,305 kg,,3.0,,25.0 m,1.5 m,,298
-Europa 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Europa_1.webp,Retired,,"3,962 kN","1,440 kg",200 kg,3.0,0.0,31.68 m,2.0 m,,65
-Europa 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Europa_2.webp,Retired,,"8,372 kN",,360 kg,4.0,0.0,31.68 m,2.0 m,,65
-Falcon 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_1_rocket.webp,Retired,$7.0 million,343 kN,470 kg,,2.0,0.0,22.25 m,1.5 m,3.5 m,171
-Falcon 9 Block 1 (v1.0),https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_1_rocket.webp,Retired,$59.5 million,"4,940 kN","10,450 kg","4,540 kg",2.0,0.0,54.9 m,5.2 m,13.0 m,3
-Falcon 9 Block 2 (v1.1),https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_2.webp,Retired,$56.5 million,"5,885 kN","13,150 kg","4,850 kg",2.0,0.0,68.4 m,5.2 m,13.0 m,3
-Falcon 9 Block 3 (v1.2/FT),https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_3_rocket.webp,Retired,$62.0 million,"6,804 kN","22,800 kg","8,300 kg",2.0,0.0,70.0 m,5.2 m,13.0 m,3
-Falcon 9 Block 4,https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_4_rocket.webp,Retired,$62.0 million,"6,804 kN","22,800 kg","8,300 kg",2.0,0.0,70.0 m,5.2 m,13.0 m,3
-Falcon 9 Block 5,https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2.0,0.0,70.0 m,5.2 m,13.0 m,3
-Falcon Heavy,https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon%20Heavy%20Block%205.webp,Active,$97.0 million,"22,819 kN","63,800 kg","26,700 kg",2.0,2.0,70.0 m,5.2 m,13.0 m,104
-Feng Bao 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Feng_Bao_1.webp,Retired,,"2,785 kN","2,500 kg",0 kg,2.0,0.0,33.0 m,3.35 m,5.0 m,190
-Gravity 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Gravity-1.webp,Active,$27.22 million,"5,880 kN","6,500 kg",,3.0,4.0,29.4 m,4.2 m,,294
-GSLV Mk I,https://storage.googleapis.com/nextspaceflight/media/rockets/GSLV_Mk_I.webp,Retired,$47.0 million,,,"1,500 kg",3.0,4.0,49.13 m,3.4 m,7.8 m,35
-GSLV Mk II,https://storage.googleapis.com/nextspaceflight/media/rockets/GSLV_Mk_II.webp,Active,$47.0 million,"7,887 kN","5,000 kg","2,500 kg",3.0,4.0,51.7 m,4.0 m,7.8 m,35
-H3-22L,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Active,$50.0 million,"7,542 kN",,"4,000 kg",2.0,2.0,,5.27 m,,105
-H3-22S,https://storage.googleapis.com/nextspaceflight/media/rockets/H3-22.webp,Active,$50.0 million,"7,542 kN",,"4,000 kg",2.0,2.0,63.0 m,5.27 m,10.3 m,105
-H3-24L,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Active,$50.0 million,"12,142 kN",,"6,500 kg",2.0,4.0,,5.27 m,10.4 m,105
-H3-30S,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Active,$50.0 million,"4,413 kN","4,000 kg","2,100 kg",2.0,0.0,63.0 m,5.27 m,10.3 m,105
-Hapith V,https://storage.googleapis.com/nextspaceflight/media/rockets/Hapith_V_rocket.webp,Planned,,650 kN,390 kg,0 kg,3.0,0.0,20.0 m,2.2 m,,280
-H-I (9 SO),https://storage.googleapis.com/nextspaceflight/media/rockets/H-I.webp,Retired,,,"3,200 kg","1,100 kg",2.0,9.0,42.0 m,2.44 m,,101
-H-I UM-129A (6SO),https://storage.googleapis.com/nextspaceflight/media/rockets/H-I_UM-129A_6SO.webp,Retired,,,"3,200 kg","1,100 kg",3.0,6.0,42.0 m,2.44 m,,101
-H-I UM-129A (9SO),https://storage.googleapis.com/nextspaceflight/media/rockets/H-I_UM-129A_9SO.webp,Retired,,,"3,200 kg","1,100 kg",3.0,9.0,42.0 m,2.44 m,,101
-H-II,https://storage.googleapis.com/nextspaceflight/media/rockets/H-II.webp,Retired,,,"10,060 kg","3,930 kg",2.0,2.0,49.0 m,,,80
-H-II (2 SSB),https://storage.googleapis.com/nextspaceflight/media/rockets/H-II_2_SSB.webp,Retired,,,"10,060 kg","3,930 kg",2.0,4.0,49.0 m,,,80
-H-IIS,https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIS.webp,Retired,,,"10,060 kg","3,930 kg",2.0,2.0,49.0 m,,,80
-H-IIA 202,https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIA_202_rocket.webp,Active,$90.0 million,,"10,000 kg","4,100 kg",2.0,2.0,53.0 m,4.07 m,12.0 m,179
-H-IIA 2022,https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIA_2022.webp,Retired,,,,"4,500 kg",2.0,2.0,53.0 m,4.07 m,12.0 m,179
-H-IIA 2024,https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIA_2024.webp,Retired,,,,"5,000 kg",2.0,4.0,53.0 m,4.07 m,12.0 m,179
-H-IIA 204,https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIA_204_rocket.webp,Retired,,,"15,000 kg","6,000 kg",2.0,4.0,,4.07 m,12.0 m,179
-H-IIB,https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIB_rocket.webp,Retired,$112.5 million,,"16,500 kg","8,000 kg",2.0,4.0,56.6 m,5.1 m,15.0 m,180
-Hyperbola 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Hyperbola-1.webp,Active,,557 kN,300 kg,0 kg,4.0,0.0,21.0 m,1.2 m,2.2 m,81
-Jielong 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Jielong-1.webp,Active,$7.5 million,500 kN,250 kg,0 kg,4.0,0.0,19.5 m,1.2 m,3.0 m,82
-Jielong 3,https://storage.googleapis.com/nextspaceflight/media/rockets/Jielong-3.webp,Active,,,"1,500 kg",,4.0,0.0,31.0 m,3.35 m,,285
-Juno I,https://storage.googleapis.com/nextspaceflight/media/rockets/Juno_1_rocket.webp,Retired,,416 kN,11 kg,,4.0,0.0,21.2 m,,,51
-Juno II,https://storage.googleapis.com/nextspaceflight/media/rockets/Juno_II_rocket.webp,Retired,,667 kN,41 kg,,4.0,0.0,24.0 m,,,150
-KAIROS,https://storage.googleapis.com/nextspaceflight/media/rockets/KAIROS.webp,Active,$9.0 million,,250 kg,,4.0,0.0,18.0 m,1.5 m,4.0 m,297
-Kaituozhe 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Kaituozhe_1.webp,Retired,,300 kN,100 kg,0 kg,4.0,0.0,13.6 m,1.0 m,3.1 m,189
-Kaituozhe 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Kaituozhe_2.webp,Retired,,500 kN,350 kg,0 kg,4.0,0.0,16.8 m,1.4 m,4.5 m,46
-Kinetica 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Kinetica-1_Rocket.webp,Active,,,"2,000 kg","1,500 kg",4.0,0.0,31.0 m,3.35 m,,281
-Kinetica 2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"2,000 kN","12,000 kg",,2.0,0.0,52.0 m,4.2 m,,295
-Kinetica 2H,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,,"22,000 kg",,,,56.0 m,,4.2 m,295
-KSLV-1,https://storage.googleapis.com/nextspaceflight/media/rockets/KSLV-1_rocket.webp,Retired,,"1,639 kN",100 kg,0 kg,2.0,0.0,33.52 m,2.0 m,5.38 m,77
-KSLV-2,https://storage.googleapis.com/nextspaceflight/media/rockets/KSLV-2.webp,Active,,"2,620 kN","1,500 kg",550 kg,3.0,0.0,47.5 m,3.3 m,,303
-Kuaizhou 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Kuaizhou_1.webp,Retired,,500 kN,100 kg,0 kg,4.0,0.0,13.6 m,1.0 m,3.1 m,38
-Kuaizhou 1A,https://storage.googleapis.com/nextspaceflight/media/rockets/Kuaizhou_1A.webp,Active,$5.8 million,537 kN,300 kg,0 kg,4.0,0.0,19.8 m,1.4 m,3.4 m,107
-Kuaizhou 11,https://storage.googleapis.com/nextspaceflight/media/rockets/Kuaizhou_11.webp,Active,$28.3 million,"1,250 kN","1,500 kg",0 kg,4.0,0.0,25.3 m,2.2 m,8.5 m,106
-Lambda-IV S,https://storage.googleapis.com/nextspaceflight/media/rockets/Lambda-IV_S.webp,Retired,,,12 kg,,4.0,2.0,16.5 m,,,78
-LauncherOne,https://storage.googleapis.com/nextspaceflight/media/rockets/LauncherOne.webp,Retired,$12.0 million,,500 kg,,2.0,0.0,16.0 m,1.3 m,,45
-Long March 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_1.webp,Retired,,"1,020 kN",300 kg,0 kg,3.0,0.0,30.45 m,1.5 m,4.67 m,10
-Long March 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2.webp,Retired,,"2,785 kN","1,800 kg",0 kg,2.0,0.0,35.93 m,3.35 m,4.34 m,110
-Long March 2C,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C.webp,Active,$30.8 million,"2,962 kN","2,850 kg","1,000 kg",2.0,0.0,42.0 m,3.35 m,8.37 m,111
-Long March 2C/SD,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C_SD.webp,Retired,,"2,962 kN","2,500 kg",,3.0,0.0,34.65 m,3.35 m,5.84 m,111
-Long March 2C/SM,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C_SM_rocket.webp,Retired,,"2,963 kN","2,500 kg",,3.0,0.0,34.65 m,3.35 m,5.84 m,111
-Long March 2C/SMA,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C_SMA.webp,Retired,$30.8 million,"2,962 kN","2,850 kg","1,000 kg",3.0,0.0,38.83 m,3.35 m,8.37 m,111
-Long March 2C/YZ-1S,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C_YZ-1S.webp,Active,$30.8 million,"2,962 kN","2,850 kg","1,000 kg",3.0,0.0,38.83 m,3.35 m,8.37 m,111
-Long March 2D,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2D_1.webp,Active,$29.75 million,"2,962 kN","3,500 kg","1,200 kg",2.0,0.0,40.77 m,3.35 m,7.82 m,112
-Long March 2D/YZ-3,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2D_YZ-3_rocket.webp,Active,$30.0 million,"2,962 kN","3,500 kg","1,200 kg",3.0,0.0,40.77 m,3.35 m,7.82 m,112
-Long March 2E,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2E_rocket.webp,Retired,,"5,923 kN","9,500 kg","3,500 kg",2.0,4.0,49.73 m,4.2 m,12.0 m,113
-Long March 2E EPKM,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"5,923 kN",,,2.0,4.0,49.73 m,4.2 m,12.0 m,113
-Long March 2F,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2F.webp,Retired,,"5,985 kN","8,400 kg",0 kg,2.0,4.0,58.34 m,3.6 m,19.11 m,114
-Long March 2F/G,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2FG_rocket.webp,Active,,"5,985 kN","8,600 kg",0 kg,2.0,4.0,58.34 m,3.6 m,19.11 m,114
-Long March 2F/T,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2FT_rocket.webp,Active,,"5,985 kN","8,600 kg",0 kg,2.0,4.0,52.03 m,3.8 m,12.78 m,114
-Long March 3,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3.webp,Retired,,"2,804 kN","5,000 kg","1,500 kg",3.0,0.0,46.6 m,3.0 m,7.27 m,115
-Long March 3A,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3A_rocket.webp,Retired,$69.7 million,"2,962 kN","8,500 kg","2,600 kg",3.0,0.0,52.52 m,3.35 m,8.89 m,115
-Long March 3B,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3B.webp,Retired,,"5,924 kN","11,500 kg","5,100 kg",3.0,4.0,54.84 m,4.0 m,9.56 m,115
-Long March 3B/E,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3BE.webp,Active,$29.15 million,"5,986 kN","11,500 kg","5,550 kg",3.0,4.0,56.3 m,4.2 m,9.56 m,115
-Long March 3B/YZ-1,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3B_YZ-1_rocket.webp,Active,,"5,986 kN","12,000 kg","5,550 kg",4.0,4.0,54.84 m,4.0 m,10.8 m,115
-Long March 3C,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3C_rocket.webp,Retired,$20.14 million,"5,923 kN","8,000 kg","3,800 kg",3.0,2.0,54.84 m,4.2 m,9.78 m,115
-Long March 3C/E,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3CE_rocket.webp,Active,$20.0 million,"5,923 kN","8,000 kg","3,900 kg",3.0,4.0,55.64 m,4.2 m,9.78 m,115
-Long March 3C/YZ-1,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3C_YZ-1.webp,Active,$20.0 million,"5,923 kN","7,500 kg","3,500 kg",4.0,2.0,55.64 m,4.2 m,9.78 m,115
-Long March 4A,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_4A.webp,Retired,,"2,962 kN","4,000 kg",0 kg,3.0,0.0,41.9 m,2.9 m,4.91 m,119
-Long March 4B,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_4B_rocket.webp,Active,$64.68 million,"2,993 kN","4,200 kg","1,500 kg",3.0,0.0,46.97 m,3.8 m,11.74 m,120
-Long March 4C,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March4C.webp,Active,$64.68 million,"2,993 kN","4,200 kg","1,500 kg",3.0,0.0,46.97 m,3.8 m,11.74 m,121
-Long March 5,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_5.webp,Active,,"10,565 kN","32,000 kg","14,000 kg",3.0,4.0,57.0 m,5.2 m,20.0 m,122
-Long March 5/YZ-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_5_YZ-2.webp,Active,,"10,565 kN","32,000 kg","13,500 kg",3.0,4.0,57.0 m,5.2 m,20.0 m,122
-Long March 5B,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_5B_rocket.webp,Active,,"10,565 kN","23,000 kg",0 kg,2.0,4.0,53.66 m,5.2 m,20.5 m,123
-Long March 5B/YZ-2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Active,,"10,565 kN","15,000 kg",,3.0,4.0,53.66 m,5.2 m,20.5 m,123
-Long March 6,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_6_rocket.webp,Active,$19.0 million,"1,188 kN","1,080 kg",0 kg,3.0,0.0,29.24 m,2.6 m,6.145 m,124
-Long March 6A,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_6A.webp,Active,,"7,230 kN","5,000 kg",,2.0,4.0,50.0 m,4.2 m,5.7 m,124
-Long March 6C,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_6C.webp,Active,,"2,376 kN","2,400 kg",,2.0,0.0,43.0 m,,,124
-Long March 7,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_7_rocket.webp,Active,,"7,128 kN","13,500 kg","5,500 kg",2.0,4.0,53.1 m,4.2 m,12.4 m,125
-Long March 7A,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_7A_rocket.webp,Active,,"7,128 kN","12,000 kg","7,000 kg",3.0,4.0,58.0 m,4.2 m,12.4 m,125
-Long March 7/YZ-1A,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_7_YZ-1A_rocket.webp,Active,,"7,128 kN","13,200 kg","5,200 kg",3.0,4.0,53.1 m,4.2 m,10.0 m,125
-Long March 8,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_8_rocket.webp,Active,$27.0 million,"4,752 kN","7,600 kg","2,500 kg",3.0,2.0,50.0 m,4.0 m,12.1 m,126
-Long March 8A,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"4,894 kN","8,400 kg",,2.0,2.0,50.54 m,5.2 m,,126
-Long March 8 (Core Only),https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_8_Core_Only_rocket.webp,Active,$27.0 million,"2,452 kN","3,000 kg","1,400 kg",2.0,0.0,50.0 m,4.0 m,12.1 m,126
-Long March 10,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"26,250 kN","70,000 kg",,3.0,2.0,93.2 m,,,302
-Long March 10A,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"8,750 kN",,,2.0,0.0,,,,302
-Long March 11,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_11_rocket.webp,Active,$5.3 million,"1,176 kN",530 kg,2 kg,4.0,0.0,20.8 m,2.0 m,5.0 m,108
-Long March 11H,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_11H_rocket.webp,Active,$5.3 million,"1,176 kN",700 kg,0 kg,4.0,0.0,20.8 m,2.0 m,5.0 m,108
-Long March 12,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"5,000 kN","10,000 kg",,2.0,0.0,59.0 m,3.8 m,5.2 m,301
-LVM-3,https://storage.googleapis.com/nextspaceflight/media/rockets/LVM-3.webp,Active,$62.0 million,"11,898 kN","10,000 kg","4,000 kg",3.0,2.0,43.4 m,5.0 m,,178
-Minotaur C (Taurus),https://storage.googleapis.com/nextspaceflight/media/rockets/Minotaur_C.webp,Active,$45.0 million,"1,607 kN","1,458 kg",,4.0,0.0,27.9 m,2.34 m,,28
-Minotaur I,https://storage.googleapis.com/nextspaceflight/media/rockets/Minotaur_I.webp,Active,$40.0 million,935 kN,580 kg,,4.0,0.0,19.21 m,1.27 m,3.79 m,127
-Minotaur IV,https://storage.googleapis.com/nextspaceflight/media/rockets/Minotaur_IV.webp,Active,$46.0 million,"2,200 kN","1,735 kg",,4.0,0.0,23.88 m,2.34 m,6.4 m,128
-Minotaur V,https://storage.googleapis.com/nextspaceflight/media/rockets/Minotaur_V.webp,Active,$55.0 million,"2,224 kN",,532 kg,5.0,0.0,24.56 m,2.34 m,6.4 m,129
-Miura 5,https://storage.googleapis.com/nextspaceflight/media/rockets/Miura%205.webp,Planned,,950 kN,540 kg,,3.0,0.0,35.81 m,,4.5 m,176
-MLV,https://storage.googleapis.com/nextspaceflight/media/rockets/MLV.webp,Planned,,"7,161 kN","16,000 kg",,2.0,0.0,58.0 m,5.2 m,15.0 m,172
-Molniya,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya.webp,Retired,,"4,378 kN","6,000 kg","2,200 kg",4.0,4.0,44.23 m,2.58 m,6.74 m,197
-Molniya-M/Block 2BL,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_2BL.webp,Retired,,"4,391 kN","6,200 kg","2,400 kg",4.0,4.0,44.23 m,2.58 m,7.81 m,140
-Molniya-M/Block L,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_L.webp,Retired,,"4,391 kN","6,200 kg","2,400 kg",4.0,4.0,44.23 m,2.58 m,6.74 m,140
-Molniya-M/Block ML,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_ML.webp,Retired,,"4,391 kN","6,200 kg","2,400 kg",4.0,4.0,42.8 m,2.58 m,8.28 m,140
-Molniya-M/Block NVL,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block-NVL.webp,Retired,,"4,391 kN","6,200 kg","2,400 kg",4.0,4.0,44.63 m,2.58 m,7.14 m,140
-Molniya-M/Block SO-L,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_SO-L.webp,Retired,,"4,391 kN","6,200 kg","2,400 kg",4.0,4.0,41.26 m,2.58 m,6.74 m,140
-Molniya-M/Block VL,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_VL.webp,Retired,,"4,391 kN","6,200 kg","2,400 kg",4.0,4.0,42.8 m,2.58 m,8.28 m,140
-Mu-III C,https://storage.googleapis.com/nextspaceflight/media/rockets/M-III_C.webp,Retired,,,195 kg,,3.0,8.0,,,,57
-Mu-III H,https://storage.googleapis.com/nextspaceflight/media/rockets/M-III_H.webp,Retired,,,270 kg,,4.0,8.0,,,,57
-Mu-III S,https://storage.googleapis.com/nextspaceflight/media/rockets/M-III_S.webp,Retired,,,290 kg,,3.0,8.0,,,,57
-Mu-III S2,https://storage.googleapis.com/nextspaceflight/media/rockets/Mu-III_S2.webp,Retired,,,770 kg,,4.0,2.0,,,,57
-Mu-IV S,https://storage.googleapis.com/nextspaceflight/media/rockets/file_5Yppd8E.webp,Retired,,,180 kg,,4.0,8.0,23.6 m,,,130
-Mu-V/M-24,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"3,780 kN","1,800 kg",,4.0,0.0,30.7 m,,,131
-Mu-V/M-25,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"3,780 kN","1,800 kg",,4.0,0.0,30.7 m,,,131
-N-1 L3,https://storage.googleapis.com/nextspaceflight/media/rockets/n1-2.webp,Retired,,"45,307 kN","95,000 kg","20,000 kg",5.0,0.0,105.29 m,5.92 m,43.72 m,61
-N-1 L3 M,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"45,307 kN","95,000 kg","20,000 kg",5.0,0.0,105.29 m,5.92 m,43.72 m,61
-Neutron,https://storage.googleapis.com/nextspaceflight/media/rockets/Neutron.webp,Planned,$52.5 million,"6,800 kN","15,000 kg",,2.0,0.0,43.0 m,5.0 m,7.0 m,284
-New Glenn,https://storage.googleapis.com/nextspaceflight/media/rockets/New_Glenn.webp,Planned,,"17,150 kN","45,000 kg","13,000 kg",2.0,0.0,98.0 m,7.0 m,21.9 m,67
-N-I,https://storage.googleapis.com/nextspaceflight/media/rockets/N-I.webp,Retired,,,"1,200 kg",360 kg,2.0,3.0,34.0 m,,,99
-N-I Star-37E,https://storage.googleapis.com/nextspaceflight/media/rockets/file_rQEdBR9.webp,Retired,,,"1,200 kg",360 kg,3.0,3.0,34.0 m,,,99
-N-II,https://storage.googleapis.com/nextspaceflight/media/rockets/file_ZS3dcq0.webp,Retired,,,"2,000 kg",730 kg,2.0,9.0,35.0 m,,,100
-N-II Star-37E,https://storage.googleapis.com/nextspaceflight/media/rockets/file_R8XHo4n.webp,Retired,,,"2,000 kg",730 kg,3.0,9.0,35.0 m,,,100
-NOTS-EV-1,https://storage.googleapis.com/nextspaceflight/media/rockets/NOTS.webp,Retired,,,1 kg,0 kg,5.0,0.0,4.0 m,,,53
-Nova,https://storage.googleapis.com/nextspaceflight/media/rockets/Nova.webp,Planned,,,,,2.0,,,,,289
-OS-M1,https://storage.googleapis.com/nextspaceflight/media/rockets/IMG_20190401_142531.webp,Retired,,500 kN,205 kg,0 kg,4.0,0.0,18.0 m,0.7 m,1.26 m,63
-Pegasus,https://storage.googleapis.com/nextspaceflight/media/rockets/Pegasus.webp,Retired,$40.0 million,487 kN,375 kg,,3.0,0.0,16.9 m,1.15 m,2.13 m,132
-Pegasus/HAPS,https://storage.googleapis.com/nextspaceflight/media/rockets/Pegasus_XL-HAPS.webp,Retired,$40.0 million,487 kN,,,4.0,0.0,16.9 m,1.15 m,2.13 m,132
-Pegasus XL,https://storage.googleapis.com/nextspaceflight/media/rockets/Pegasus_XL.webp,Active,$40.0 million,561 kN,443 kg,,4.0,0.0,17.6 m,1.15 m,2.13 m,132
-Pegasus XL/HAPS,https://storage.googleapis.com/nextspaceflight/media/rockets/Pegasus-HAPS.webp,Active,$40.0 million,561 kN,,,4.0,0.0,17.6 m,1.15 m,2.13 m,132
-Polyot,https://storage.googleapis.com/nextspaceflight/media/rockets/file_E1szzRP.webp,Retired,,"4,570 kN","1,400 kg",0 kg,2.0,4.0,30.0 m,2.58 m,5.68 m,193
-Proton,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton.webp,Retired,,"8,387 kN","12,200 kg",0 kg,2.0,0.0,39.8 m,4.15 m,8.5 m,134
-Proton-K,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K.webp,Retired,,"9,469 kN","20,100 kg",0 kg,3.0,0.0,56.14 m,4.15 m,16.12 m,133
-Proton-K/Block D,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-D_0NIyLf7.webp,Retired,,"8,840 kN","18,900 kg","9,000 kg",4.0,0.0,56.14 m,3.9 m,8.9 m,133
-Proton-K/Block D-1,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-D-1_WxLufga.webp,Retired,,"9,468 kN","19,000 kg","9,000 kg",4.0,0.0,56.14 m,3.9 m,10.4 m,133
-Proton-K/Block D-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-D-2.webp,Retired,,"9,548 kN","19,000 kg","9,000 kg",4.0,0.0,56.14 m,3.9 m,10.4 m,133
-Proton-K/Block-DM,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"9,195 kN","19,000 kg","2,200 kg",4.0,0.0,56.14 m,3.9 m,8.9 m,133
-Proton-K/Block DM-1,https://storage.googleapis.com/nextspaceflight/media/rockets/file_B6mseVy.webp,Retired,,"9,468 kN","19,000 kg","2,200 kg",4.0,0.0,57.24 m,3.9 m,7.65 m,133
-Proton K/Block-DM-2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"9,548 kN","19,000 kg","2,400 kg",4.0,0.0,57.64 m,4.35 m,10.4 m,133
-Proton-K/Block-DM2,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-2.webp,Retired,,"9,548 kN","19,000 kg","2,500 kg",4.0,0.0,56.14 m,3.9 m,8.9 m,133
-Proton-K/Block DM-2M,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-2M_khbjDCG.webp,Retired,,"9,548 kN","19,000 kg","2,500 kg",4.0,0.0,57.64 m,4.35 m,10.4 m,133
-Proton-K/Block DM-3,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-3.webp,Retired,,"9,548 kN","19,000 kg","2,500 kg",4.0,0.0,57.64 m,4.35 m,10.4 m,133
-Proton-K/Block DM-4,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-4.webp,Retired,,"9,548 kN","19,000 kg","2,500 kg",4.0,0.0,57.64 m,4.35 m,10.4 m,133
-Proton-K/Block DM-5,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-5.webp,Retired,,"9,548 kN","19,000 kg","2,500 kg",4.0,0.0,57.64 m,4.35 m,10.4 m,133
-Proton-K/Briz-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-Briz-M.webp,Retired,,"9,548 kN","19,000 kg","2,200 kg",4.0,0.0,54.54 m,4.35 m,13.2 m,133
-Proton-M,https://storage.googleapis.com/nextspaceflight/media/rockets/E6fIhl0XsAEbiYt.webp,Active,$65.0 million,"10,027 kN","23,700 kg",0 kg,3.0,0.0,57.24 m,4.35 m,15.26 m,40
-Proton-M/Briz-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_M_Briz_M.webp,Active,$65.0 million,"10,027 kN","21,000 kg","6,900 kg",4.0,0.0,58.18 m,4.35 m,15.26 m,40
-Proton-M/DM-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_M-DM-2.webp,Active,$65.0 million,"10,027 kN","21,000 kg","6,000 kg",4.0,0.0,57.24 m,4.35 m,10.0 m,40
-Proton-M/DM-3,https://storage.googleapis.com/nextspaceflight/media/rockets/proton-mdm-03.webp,Active,$65.0 million,"10,027 kN","21,000 kg","6,000 kg",4.0,0.0,57.24 m,4.35 m,10.0 m,40
-PSLV-CA,https://storage.googleapis.com/nextspaceflight/media/rockets/PSLV_CA.webp,Active,$21.0 million,"4,847 kN",,,4.0,0.0,44.0 m,3.2 m,8.3 m,34
-PSLV-DL,https://storage.googleapis.com/nextspaceflight/media/rockets/pslv-dl.webp,Active,,"5,867 kN",,,4.0,2.0,44.0 m,3.2 m,8.3 m,34
-PSLV-G,https://storage.googleapis.com/nextspaceflight/media/rockets/PSLV_G.webp,Retired,$25.0 million,"6,887 kN","3,250 kg","1,410 kg",4.0,6.0,44.5 m,3.2 m,8.3 m,34
-PSLV-QL,https://storage.googleapis.com/nextspaceflight/media/rockets/pslv-ql.webp,Active,$21.0 million,"7,661 kN",,,4.0,4.0,44.0 m,3.2 m,8.3 m,34
-PSLV-XL,https://storage.googleapis.com/nextspaceflight/media/rockets/PSLV_XL.webp,Active,$31.0 million,"7,661 kN","3,250 kg","1,410 kg",4.0,6.0,44.0 m,3.2 m,8.3 m,34
-Qaem 100,https://storage.googleapis.com/nextspaceflight/media/rockets/Qaem_100.webp,Active,,,80 kg,0 kg,3.0,0.0,,,,296
-Qased,https://storage.googleapis.com/nextspaceflight/media/rockets/Qased.webp,Active,,280 kN,80 kg,0 kg,3.0,0.0,18.6 m,1.0 m,2.6 m,231
-R-36 Orb,https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon.webp,Retired,,"2,650 kN","3,350 kg",0 kg,2.0,0.0,31.95 m,2.0 m,3.0 m,83
-Redstone Sparta,https://storage.googleapis.com/nextspaceflight/media/rockets/redstone_sparta.webp,Retired,,350 kN,45 kg,,3.0,0.0,21.0 m,,,151
-RFA One,https://storage.googleapis.com/nextspaceflight/media/rockets/RFA_One.webp,Planned,,,"1,300 kg",450 kg,3.0,0.0,30.0 m,,,258
-Rocket 3,https://storage.googleapis.com/nextspaceflight/media/rockets/22.03.15-LV0009-Launch-Kodiak-Kenniston_16-1.webp,Retired,$2.5 million,133 kN,204 kg,0 kg,2.0,0.0,11.6 m,,,223
-Rocket 4,https://storage.googleapis.com/nextspaceflight/media/rockets/Rocket_4.webp,Planned,$5.0 million,356 kN,600 kg,,2.0,0.0,18.9 m,1.7 m,3.4 m,283
-Rokot/Briz K,https://storage.googleapis.com/nextspaceflight/media/rockets/Rokot-K.webp,Retired,,"1,875 kN","1,500 kg",0 kg,3.0,0.0,25.5 m,2.5 m,3.0 m,37
-Rokot/Briz KM,https://storage.googleapis.com/nextspaceflight/media/rockets/Rokot-KM.webp,Retired,$13.0 million,"1,875 kN","2,150 kg",0 kg,3.0,0.0,29.1 m,2.62 m,6.74 m,37
-Rokot-M/Briz KM-2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,$12.0 million,"1,875 kN","2,300 kg",0 kg,3.0,0.0,29.1 m,2.62 m,6.74 m,37
-RS1 Block 1,https://storage.googleapis.com/nextspaceflight/media/rockets/RS1.webp,Retired,$12.0 million,485 kN,"1,350 kg",320 kg,2.0,0.0,26.8 m,2.0 m,,259
-RS1 Block 2,https://storage.googleapis.com/nextspaceflight/media/rockets/rs1_block2.webp,Planned,$12.0 million,582 kN,,,2.0,0.0,,2.0 m,,259
-Safir-1,https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_18.webp,Retired,,284 kN,30 kg,0 kg,2.0,0.0,22.6 m,1.25 m,2.0 m,60
-Safir-1A,https://storage.googleapis.com/nextspaceflight/media/rockets/SaFIR-1a.webp,Retired,,298 kN,50 kg,0 kg,2.0,0.0,22.6 m,1.25 m,2.0 m,60
-Safir-1B,https://storage.googleapis.com/nextspaceflight/media/rockets/Safir-1B.webp,Retired,,298 kN,50 kg,0 kg,2.0,0.0,22.6 m,1.25 m,2.0 m,60
-Safir-1B+,https://storage.googleapis.com/nextspaceflight/media/rockets/Safir-1B_ASaYdEe.webp,Active,,334 kN,50 kg,0 kg,2.0,0.0,22.6 m,1.25 m,2.0 m,60
-Saturn I Block I,https://storage.googleapis.com/nextspaceflight/media/rockets/800px-Saturn_SA2_launch.webp,Retired,,"6,700 kN",0 kg,,1.0,,55.0 m,,,29
-Saturn I Block II,https://storage.googleapis.com/nextspaceflight/media/rockets/Saturn_1.webp,Retired,,"6,700 kN","9,070 kg",,2.0,0.0,55.0 m,,,29
-Saturn IB,https://storage.googleapis.com/nextspaceflight/media/rockets/Saturn_IB.webp,Retired,,"7,100 kN","21,000 kg",,2.0,0.0,43.2 m,,,152
-Saturn V,https://storage.googleapis.com/nextspaceflight/media/rockets/Saturn_V.webp,Retired,"$1,160.0 million","35,100 kN","140,000 kg",,3.0,0.0,110.6 m,,,153
-Scout A,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,,,4.0,0.0,,,,230
-Scout A1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,122 kg,,4.0,0.0,,,,230
-Scout B,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,622 kN,143 kg,0 kg,4.0,0.0,21.0 m,,,230
-Scout B1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,622 kN,129 kg,0 kg,4.0,0.0,21.0 m,,,230
-Scout D1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,622 kN,185 kg,0 kg,4.0,0.0,21.0 m,,,230
-Scout E1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,,,5.0,0.0,,,,230
-Scout F1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,622 kN,193 kg,0 kg,4.0,0.0,21.0 m,,,230
-Scout G1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,622 kN,210 kg,0 kg,4.0,0.0,21.0 m,,,230
-Scout X-1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,,,4.0,,25.0 m,,,230
-Scout X-2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,440 kN,76 kg,,4.0,,25.0 m,,,230
-Scout X-2B,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,,,4.0,,22.0 m,,,230
-Scout X-2M,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,440 kN,,,4.0,,22.0 m,,,230
-Scout X-3,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,87 kg,,4.0,0.0,,,,230
-Scout X-3M,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,,,4.0,,22.0 m,,,230
-Scout X-4,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,103 kg,,4.0,,25.0 m,,,230
-Shavit,https://storage.googleapis.com/nextspaceflight/media/rockets/Shavit.webp,Retired,,413 kN,160 kg,,3.0,0.0,18.0 m,1.3 m,4.37 m,75
-Shavit 1,https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_jsJD7Of.webp,Retired,,554 kN,225 kg,,3.0,0.0,20.0 m,1.35 m,4.37 m,75
-Shavit 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Shavit-2.webp,Active,,554 kN,350 kg,,3.0,0.0,22.0 m,1.35 m,4.37 m,75
-Shtil',https://storage.googleapis.com/nextspaceflight/media/rockets/Shtil.webp,Retired,,807 kN,220 kg,0 kg,3.0,0.0,14.8 m,0.5 m,1.0 m,72
-Simorgh,https://storage.googleapis.com/nextspaceflight/media/rockets/Simorgh.webp,Active,,"1,333 kN",350 kg,0 kg,3.0,0.0,26.5 m,1.5 m,3.2 m,48
-Skyrora XL,https://storage.googleapis.com/nextspaceflight/media/rockets/Skyrora_XL.webp,Planned,,,,,,,22.7 m,,,299
-SLS Block 1,https://storage.googleapis.com/nextspaceflight/media/rockets/SLS_Block_1.webp,Active,$876.0 million,"39,440 kN","95,000 kg",,2.0,2.0,98.1 m,5.1 m,14.3 m,5
-SLS Block 1B,https://storage.googleapis.com/nextspaceflight/media/rockets/SLS_Block_1B.webp,Planned,$876.0 million,"39,440 kN","105,000 kg",,2.0,2.0,111.0 m,,,5
-SLV-3,https://storage.googleapis.com/nextspaceflight/media/rockets/SLV-3.webp,Retired,,503 kN,40 kg,,4.0,0.0,22.0 m,1.0 m,,32
-SM-65B Atlas,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-B.webp,Retired,,"1,600 kN",70 kg,,2.0,0.0,26.0 m,,,173
-South Korean ADD Solid-Fuel SLV,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,,500 kg,,4.0,,,,,292
-South Korean ADD Solid-Fuel SLV (3 stage),https://storage.googleapis.com/nextspaceflight/media/rockets/South_Korean_ADD_Solid-Fuel_SLV_3_stage.webp,Active,,,100 kg,,3.0,,,,,292
-Soyuz,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz.webp,Retired,,"4,456 kN","6,640 kg",0 kg,3.0,4.0,48.47 m,3.0 m,12.8 m,194
-Soyuz 2.1a,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1a_Crew.webp,Active,$17.42 million,"4,550 kN","7,500 kg",0 kg,3.0,4.0,51.38 m,4.11 m,15.59 m,141
-Soyuz 2.1a/Fregat,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1a_Fregat_rocket.webp,Active,$23.0 million,"4,550 kN","7,020 kg","2,810 kg",4.0,4.0,46.94 m,4.11 m,10.2 m,141
-Soyuz 2.1a/Fregat-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1a_Fregat-M.webp,Active,$23.0 million,"4,550 kN","7,020 kg","2,810 kg",4.0,4.0,46.94 m,4.11 m,10.2 m,141
-Soyuz 2.1a/Volga,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1a_Volga.webp,Active,$23.0 million,"4,550 kN","7,020 kg","2,000 kg",4.0,4.0,46.94 m,4.11 m,10.2 m,141
-Soyuz ST-A/Fregat,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_ST-A_Fregat.webp,Active,$30.0 million,"4,317 kN","8,500 kg","2,810 kg",4.0,4.0,46.94 m,4.11 m,11.43 m,141
-Soyuz ST-A/Fregat-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_ST-A_Fregat-M_rocket.webp,Active,$30.0 million,"4,317 kN","8,500 kg","3,000 kg",4.0,4.0,46.94 m,4.11 m,11.43 m,141
-Soyuz 2.1b,https://storage.googleapis.com/nextspaceflight/media/rockets/soyuz_2.1b.webp,Active,$20.0 million,"4,550 kN","8,020 kg",0 kg,3.0,4.0,44.08 m,4.11 m,8.36 m,142
-Soyuz 2.1b/Fregat,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1b_Fregat_rocket.webp,Active,$25.0 million,"4,550 kN","7,500 kg","3,000 kg",4.0,4.0,46.94 m,4.11 m,11.43 m,142
-Soyuz 2.1b/Fregat-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1b-Fregat-M.webp,Active,$25.0 million,"4,550 kN","7,500 kg","3,250 kg",4.0,4.0,46.94 m,4.11 m,11.43 m,142
-Soyuz ST-B/Fregat-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_ST-B_Fregat-M.webp,Active,$30.0 million,"4,317 kN","9,000 kg","3,100 kg",4.0,4.0,46.94 m,4.11 m,11.43 m,142
-Soyuz ST-B/Fregat-MT,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_ST-B_Fregat-MT.webp,Active,$30.0 million,"4,317 kN","9,000 kg","3,250 kg",4.0,4.0,46.94 m,4.11 m,11.43 m,142
-Soyuz 2.1v,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1v_rocket.webp,Active,,"1,535 kN","3,000 kg",0 kg,2.0,0.0,44.08 m,3.0 m,8.36 m,143
-Soyuz 2.1v/Volga,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1v_Volga_rocket.webp,Active,,"1,535 kN","2,850 kg",0 kg,3.0,0.0,44.08 m,3.0 m,8.36 m,143
-Soyuz 5,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"7,260 kN","17,000 kg","5,000 kg",2.0,0.0,63.7 m,4.1 m,10.4 m,216
-Soyuz 5/Fregat-SBU,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"7,260 kN","17,000 kg","5,000 kg",3.0,0.0,63.7 m,4.1 m,10.4 m,216
-Soyuz FG,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_FG.webp,Retired,,"4,550 kN","7,300 kg",0 kg,3.0,4.0,51.32 m,3.0 m,15.59 m,144
-Soyuz FG/Fregat,https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_D1i6Sut.webp,Retired,,"4,550 kN","7,300 kg","1,800 kg",4.0,4.0,43.5 m,3.0 m,8.1 m,144
-Soyuz L,https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_u3borgI.webp,Retired,,"4,054 kN","5,500 kg",0 kg,3.0,4.0,48.0 m,5.0 m,7.8 m,195
-Soyuz M,https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_ILuaFGG.webp,Retired,,995 kN,"6,600 kg",0 kg,3.0,4.0,47.8 m,3.0 m,7.2 m,196
-Soyuz U,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_U.webp,Retired,$20.0 million,"4,456 kN","6,860 kg",0 kg,3.0,4.0,51.32 m,3.0 m,15.59 m,145
-Soyuz U2,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz-U2.webp,Retired,$40.0 million,"4,693 kN","7,150 kg",0 kg,3.0,4.0,51.32 m,3.0 m,15.59 m,145
-Soyuz U/Fregat,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz-U_-_Fregat.webp,Retired,$28.0 million,"4,456 kN","6,860 kg","1,400 kg",4.0,4.0,43.1 m,3.0 m,7.7 m,145
-Soyuz U/Ikar,https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_Ypf2w8r.webp,Retired,$28.0 million,"4,456 kN","6,860 kg","1,000 kg",4.0,4.0,43.58 m,3.0 m,7.86 m,145
-Space Shuttle Atlantis,https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Atlantis.webp,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2.0,2.0,56.1 m,,,36
-Space Shuttle Challenger,https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Challenger_iicKLQ1.webp,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2.0,2.0,56.1 m,,,36
-Space Shuttle Columbia,https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Columbia.webp,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2.0,2.0,56.1 m,,,36
-Space Shuttle Discovery,https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Discovery.webp,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2.0,2.0,56.1 m,,,36
-Space Shuttle Endeavour,https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Endeavour.webp,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2.0,2.0,56.1 m,,,36
-Spectrum,https://storage.googleapis.com/nextspaceflight/media/rockets/Spectrum.webp,Planned,,675 kN,"1,000 kg",,2.0,0.0,28.0 m,2.0 m,,257
-Sputnik 8A91,https://storage.googleapis.com/nextspaceflight/media/rockets/Sputnik_8A91.webp,Retired,,"4,457 kN","1,330 kg",0 kg,2.0,4.0,30.41 m,3.0 m,4.21 m,146
-Sputnik 8K71PS,https://storage.googleapis.com/nextspaceflight/media/rockets/Sputnik_8K74PS.webp,Retired,,"4,457 kN",510 kg,0 kg,2.0,4.0,30.2 m,2.95 m,4.0 m,147
-SS-520,https://storage.googleapis.com/nextspaceflight/media/rockets/n-rocket-a-20171114.webp,Retired,,,4 kg,,3.0,0.0,9.54 m,0.52 m,,79
-SSLV,https://storage.googleapis.com/nextspaceflight/media/rockets/SSLV.webp,Active,,,500 kg,,4.0,0.0,34.0 m,2.0 m,,47
-Cargo Starship,https://storage.googleapis.com/nextspaceflight/media/rockets/Cargo_Starship.webp,Planned,,"74,432 kN","200,000 kg",,2.0,0.0,121.0 m,9.0 m,,174
-Crew Starship,https://storage.googleapis.com/nextspaceflight/media/rockets/Crew_Starship.webp,Planned,,"74,432 kN","200,000 kg",,2.0,0.0,121.0 m,9.0 m,,174
-Starship HLS,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"74,432 kN","200,000 kg",,2.0,0.0,121.0 m,9.0 m,,174
-Starship-Super Heavy (Prototype),https://storage.googleapis.com/nextspaceflight/media/rockets/Starship-Super_Heavy_Prototype.webp,Active,,"74,432 kN",,,2.0,0.0,121.0 m,9.0 m,,174
-Tanker Starship,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"74,432 kN","200,000 kg",,2.0,0.0,121.0 m,9.0 m,,174
-START,https://storage.googleapis.com/nextspaceflight/media/rockets/Start.webp,Retired,,890 kN,850 kg,0 kg,5.0,0.0,28.94 m,1.61 m,4.34 m,156
-START-1,https://storage.googleapis.com/nextspaceflight/media/rockets/Start-1.webp,Retired,,890 kN,532 kg,0 kg,4.0,0.0,22.74 m,1.33 m,3.34 m,156
-Strela,https://storage.googleapis.com/nextspaceflight/media/rockets/strela.webp,Retired,,"1,870 kN","1,850 kg",0 kg,3.0,0.0,27.36 m,2.5 m,7.6 m,167
-Super Strypi,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,$15.0 million,134 kN,250 kg,,3.0,0.0,18.0 m,1.32 m,,206
-Taepodong 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Taepodong-1.webp,Retired,,280 kN,20 kg,0 kg,3.0,0.0,24.0 m,0.88 m,3.1 m,74
-Terran 1,https://storage.googleapis.com/nextspaceflight/media/rockets/terran_1.webp,Retired,$12.0 million,920 kN,"1,250 kg",,2.0,0.0,33.5 m,2.3 m,,86
-Terran R,https://storage.googleapis.com/nextspaceflight/media/rockets/Terran_R.webp,Planned,,"14,919 kN","33,500 kg","5,500 kg",2.0,0.0,82.3 m,5.5 m,,276
-Thor DM-18 Able-I,https://storage.googleapis.com/nextspaceflight/media/rockets/Thor_Able_I.webp,Retired,,,120 kg,,3.0,0.0,27.0 m,,,102
-Thor DM-18 Able-II,https://storage.googleapis.com/nextspaceflight/media/rockets/spac004692927x800x800.webp,Retired,,,,,3.0,0.0,,,,102
-Thor DM-18 Able-III,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,,,3.0,0.0,,,,102
-Thor DM-18 Able-IV,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,,,3.0,0.0,,,,102
-Thor DM-21 Ablestar,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,760 kN,150 kg,,0.0,2.0,29.0 m,,,242
-Thor DSV2A Ablestar,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,,,2.0,0.0,,,,242
-Thorad SLV-2G Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"1,571 kN",,,2.0,3.0,31.0 m,,,241
-Thor DM-18 Agena-A,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,,,3.0,0.0,,,,241
-Thor DM-21 Agena-B,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,,,3.0,0.0,,,,241
-Thor DM-21 Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,,,3.0,0.0,,,,241
-Thor SLV2A Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"1,571 kN",,,2.0,3.0,31.0 m,,,241
-Thor LV2D Burner-1I,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"1,571 kN",,,2.0,3.0,31.0 m,,,262
-Thor LV2D Burner-2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,,,2.0,3.0,,,,262
-Thor LV2F Star-ISS,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,,,,2.0,3.0,,,,262
-Thor DM-19 Delta,https://storage.googleapis.com/nextspaceflight/media/rockets/spac001645909x800x800.webp,Retired,,,,,0.0,3.0,,,,243
-Tianlong 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Tianlong-2.webp,Active,,"1,863 kN","2,000 kg",,3.0,0.0,32.8 m,3.35 m,,287
-Tianlong 3,https://storage.googleapis.com/nextspaceflight/media/rockets/Tianlong-3.webp,Planned,,,"17,000 kg",,2.0,,71.0 m,4.2 m,,291
-Titan II(23)G,https://storage.googleapis.com/nextspaceflight/media/rockets/titan_23g_rocket_hurtles_above_the_launch_tower.webp,Retired,$35.0 million,"1,900 kN","3,600 kg",,2.0,,42.9 m,3.05 m,9.1 m,55
-Titan II GLV,https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_II_GLV.webp,Retired,,"1,913 kN","3,580 kg",,2.0,0.0,33.2 m,,,55
-Commercial Titan III,https://storage.googleapis.com/nextspaceflight/media/rockets/Commercial_Titan_III.webp,Retired,$136.6 million,"12,454 kN","14,515 kg",,2.0,2.0,47.0 m,,,260
-Titan 34D,https://storage.googleapis.com/nextspaceflight/media/rockets/523px-DF-SC-83-03173_cropped.webp,Retired,,"11,279 kN","14,515 kg","5,000 kg",3.0,2.0,50.0 m,3.05 m,,260
-Titan III(23)B,https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_23B.webp,Retired,,"2,300 kN","3,300 kg",,3.0,0.0,45.0 m,1.5 m,,260
-Titan III(23)C,https://storage.googleapis.com/nextspaceflight/media/rockets/487px-DF-SC-84-05192_cropped.webp,Retired,,"13,642 kN","13,100 kg","3,000 kg",3.0,2.0,42.0 m,3.0 m,,260
-Titan III(24)B,https://storage.googleapis.com/nextspaceflight/media/rockets/titan_24b.webp,Retired,,"2,410 kN","4,000 kg",,3.0,0.0,50.0 m,3.05 m,,260
-Titan III(33)B Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/titan-333b_agena-d__jumpseat-1__1.webp,Retired,,"2,300 kN",,,3.0,,45.0 m,3.05 m,,260
-Titan III(34)B Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_17.webp,Retired,,"2,300 kN",,,3.0,,45.0 m,3.05 m,,260
-Titan IIIA,https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_IIIA.webp,Retired,$63.23 million,"1,936 kN","3,100 kg",,3.0,0.0,42.0 m,,,260
-Titan IIIB,https://storage.googleapis.com/nextspaceflight/media/rockets/FS-7-8_Winter_White.webp,Retired,$59.0 million,"2,300 kN","3,300 kg",,3.0,0.0,45.0 m,1.52 m,,260
-Titan IIIC,https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_IIIC.webp,Retired,,"13,642 kN","13,100 kg","3,000 kg",3.0,2.0,42.0 m,3.0 m,,260
-Titan IIID,https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_IIID_rocket.webp,Retired,,"10,587 kN","12,300 kg",,2.0,2.0,36.0 m,,,260
-Titan IIIE,https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_IIIE.webp,Retired,,"12,769 kN","15,400 kg",,3.0,2.0,48.8 m,,,260
-Titan IV(401)A,https://storage.googleapis.com/nextspaceflight/media/rockets/t4k7s.webp,Retired,,"14,200 kN",,,3.0,2.0,63.0 m,5.1 m,,261
-Titan IV(401)B,https://storage.googleapis.com/nextspaceflight/media/rockets/PIA01051_hires.webp,Retired,,"15,000 kN",,,3.0,2.0,62.0 m,5.1 m,,261
-Titan IV(402)A,https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_15.webp,Retired,,"14,200 kN",,"4,944 kg",4.0,2.0,54.0 m,5.1 m,,261
-Titan IV(402)B,https://storage.googleapis.com/nextspaceflight/media/rockets/040214launch.webp,Retired,,"15,000 kN",,,4.0,2.0,54.0 m,5.1 m,,261
-Titan IV(403)A,https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_14.webp,Retired,,"14,200 kN","17,700 kg",,2.0,2.0,54.0 m,5.1 m,,261
-Titan IV(403)B,https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_16.webp,Retired,,"15,000 kN","21,680 kg",,2.0,2.0,54.0 m,5.1 m,,261
-Titan IV(404)A,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"14,200 kN","17,700 kg",,2.0,2.0,54.0 m,5.1 m,,261
-Titan IV(404)B,https://storage.googleapis.com/nextspaceflight/media/rockets/t4b34s.webp,Retired,,"15,000 kN","21,680 kg",,2.0,2.0,54.0 m,5.1 m,,261
-Titan IV(405)A,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"14,200 kN","17,700 kg",,2.0,2.0,54.0 m,5.1 m,,261
-Titan IV(405)B,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"15,000 kN","21,680 kg",,2.0,2.0,54.0 m,5.1 m,,261
-Tsyklon-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon-2.webp,Retired,,"2,650 kN","2,850 kg",0 kg,2.0,0.0,39.65 m,3.0 m,10.7 m,138
-Tsyklon-2A,https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon-2A.webp,Retired,,"2,650 kN","3,000 kg",0 kg,2.0,0.0,39.65 m,3.0 m,10.7 m,207
-Tsyklon-3,https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon-3.webp,Retired,,"3,032 kN","4,100 kg",0 kg,3.0,0.0,39.27 m,2.7 m,9.54 m,139
-Unha 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Unha_2.webp,Retired,,284 kN,100 kg,0 kg,3.0,0.0,29.5 m,1.25 m,2.0 m,157
-Unha 3,https://storage.googleapis.com/nextspaceflight/media/rockets/Unha_3.webp,Active,,284 kN,200 kg,0 kg,3.0,0.0,30.0 m,1.25 m,2.0 m,158
-Vanguard,https://storage.googleapis.com/nextspaceflight/media/rockets/vanguard.webp,Retired,,135 kN,10 kg,,3.0,0.0,23.0 m,,,52
-Vega,https://storage.googleapis.com/nextspaceflight/media/rockets/Vega.webp,Retired,$37.0 million,"2,200 kN","1,436 kg",,4.0,0.0,29.9 m,2.6 m,7.88 m,31
-Vega C,https://storage.googleapis.com/nextspaceflight/media/rockets/Vega-C.webp,Active,,"4,500 kN","2,300 kg",,4.0,0.0,35.0 m,3.3 m,9.0 m,31
-Vega E,https://storage.googleapis.com/nextspaceflight/media/rockets/Vega-E.webp,Planned,,"4,500 kN",,,3.0,0.0,35.0 m,3.3 m,9.0 m,31
-VLS-1,https://storage.googleapis.com/nextspaceflight/media/rockets/VLS-1.webp,Retired,,623 kN,380 kg,,3.0,4.0,19.0 m,1.0 m,,76
-Volna,https://storage.googleapis.com/nextspaceflight/media/rockets/volna.webp,Retired,,618 kN,100 kg,0 kg,3.0,0.0,14.2 m,1.3 m,1.4 m,137
-Voskhod,https://storage.googleapis.com/nextspaceflight/media/rockets/Voskhod.webp,Retired,,"4,616 kN","6,001 kg",0 kg,3.0,4.0,44.63 m,2.58 m,7.14 m,177
-Vostok,https://storage.googleapis.com/nextspaceflight/media/rockets/vostok1.webp,Retired,,"4,570 kN","4,730 kg",0 kg,3.0,4.0,38.36 m,2.58 m,6.74 m,148
-Vostok-2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Retired,,"4,570 kN","4,750 kg",0 kg,3.0,4.0,38.36 m,2.58 m,6.74 m,149
-Vostok-2A,https://storage.googleapis.com/nextspaceflight/media/rockets/Vostok-2A.webp,Retired,,"4,570 kN","4,500 kg",0 kg,2.0,4.0,39.1 m,2.58 m,10.66 m,149
-Vostok-2M,https://storage.googleapis.com/nextspaceflight/media/rockets/Vostok-2M.webp,Retired,,"4,570 kN","5,100 kg",0 kg,3.0,4.0,38.76 m,2.58 m,7.14 m,149
-Vulcan Centaur,https://storage.googleapis.com/nextspaceflight/media/rockets/Vulcan_Centaur.webp,Active,,,,,2.0,,,5.4 m,,70
-Vulcan VC0L,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"4,900 kN","10,800 kg","3,500 kg",2.0,0.0,63.3 m,5.4 m,21.3 m,70
-Vulcan VC0S,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"4,900 kN","10,800 kg","3,500 kg",2.0,0.0,61.6 m,5.4 m,15.5 m,70
-Vulcan VC2L,https://storage.googleapis.com/nextspaceflight/media/rockets/Vulcan_VC2L.webp,Active,,"8,952 kN","19,000 kg","8,400 kg",2.0,2.0,63.3 m,5.4 m,21.3 m,70
-Vulcan VC2S,https://storage.googleapis.com/nextspaceflight/media/rockets/Vulcan_VC2S.webp,Active,,"8,952 kN","19,000 kg","8,400 kg",2.0,2.0,61.6 m,5.4 m,15.5 m,70
-Vulcan VC4L,https://storage.googleapis.com/nextspaceflight/media/rockets/Vulcan_VC4L.webp,Planned,,"13,006 kN","24,600 kg","11,693 kg",2.0,4.0,63.3 m,5.4 m,21.3 m,70
-Vulcan VC4S,https://storage.googleapis.com/nextspaceflight/media/rockets/Vulcan_VC4S.webp,Planned,,"13,006 kN","24,600 kg","11,693 kg",2.0,4.0,61.6 m,5.4 m,15.5 m,70
-Vulcan VC6L,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"17,056 kN","27,200 kg","14,500 kg",2.0,6.0,63.3 m,5.4 m,21.3 m,70
-Vulcan VC6S,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Planned,,"17,056 kN","27,200 kg","14,500 kg",2.0,6.0,61.6 m,5.4 m,15.5 m,70
-Zenit-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-2.webp,Retired,,"7,257 kN","13,500 kg","4,500 kg",2.0,0.0,57.0 m,3.9 m,13.65 m,50
-Zenit-2 FG,https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-2_FG_rocket.webp,Retired,,"7,257 kN","13,740 kg","4,500 kg",2.0,0.0,57.0 m,3.9 m,13.65 m,50
-Zenit-3 SL,https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-3_SL_rocket.webp,Retired,,"7,257 kN","13,740 kg","6,000 kg",3.0,0.0,59.46 m,4.1 m,10.4 m,50
-Zenit-3 SLB,https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-3_SLB.webp,Retired,,"7,257 kN","13,740 kg","5,000 kg",3.0,0.0,59.46 m,4.1 m,10.4 m,50
-Zenit-3 SLBF,https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-3_SLBF.webp,Retired,,"7,257 kN","13,740 kg","6,000 kg",3.0,0.0,54.35 m,4.1 m,10.7 m,50
-ZhuQue-1,https://storage.googleapis.com/nextspaceflight/media/rockets/ZhuQue-1.webp,Retired,,450 kN,300 kg,0 kg,3.0,0.0,19.0 m,1.2 m,2.0 m,49
-ZhuQue-2,https://storage.googleapis.com/nextspaceflight/media/rockets/ZhuQue-2.webp,Active,,"2,636 kN","6,000 kg",0 kg,2.0,0.0,49.5 m,3.35 m,5.0 m,191
-ZhuQue-3,https://storage.googleapis.com/nextspaceflight/media/rockets/ZhuQue-3.webp,Planned,,,"21,300 kg",,2.0,,76.6 m,5.2 m,,293
-Zoljanah,https://storage.googleapis.com/nextspaceflight/media/rockets/Zoljanah.webp,Active,,726 kN,600 kg,,4.0,0.0,25.5 m,1.25 m,,251
+name,image_url,company_name,status,price,liftoff_thrust,payload_to_leo,payload_to_gto,stages,strap-ons,rocket_height,fairing_diameter,fairing_height,rocket_id
+Alpha,https://storage.googleapis.com/nextspaceflight/media/rockets/Alpha.webp,Firefly,Active,$15.0 million,801 kN,"1,030 kg",,2.0,0.0,29.48 m,2.2 m,5.0 m,62
+Amur/Fregat-M,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Roscosmos,Planned,$22.0 million,"4,903 kN","12,500 kg","2,500 kg",3.0,0.0,55.0 m,5.1 m,5.8 m,252
+Angara 1.2,https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_1.2.webp,Khrunichev,Active,,"1,922 kN","3,800 kg",0 kg,2.0,0.0,42.7 m,3.0 m,2.9 m,183
+Angara 1.2PP,https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_1.2PP.webp,Khrunichev,Retired,,"1,922 kN",,0 kg,2.0,0.0,42.7 m,3.0 m,2.9 m,183
+Angara A5,https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_A5.webp,Khrunichev,Active,$100.0 million,"9,610 kN","25,000 kg","3,000 kg",2.0,4.0,55.4 m,4.35 m,15.2 m,58
+Angara A5/Blok DM-03,https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_A5_DM-03.webp,Khrunichev,Active,$100.0 million,"9,610 kN","23,000 kg","5,400 kg",3.0,4.0,55.4 m,4.35 m,15.2 m,58
+Angara A5/Briz-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_A5_BrizM.webp,Khrunichev,Active,$100.0 million,"9,610 kN","23,000 kg","5,400 kg",3.0,4.0,55.4 m,4.35 m,15.2 m,58
+Angara A5M,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Khrunichev,Active,$100.0 million,"9,610 kN","25,000 kg","6,000 kg",2.0,4.0,55.4 m,4.35 m,15.2 m,58
+Antares 110,https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_110.webp,Northrop,Retired,$80.0 million,"3,265 kN",,,2.0,0.0,40.5 m,3.94 m,4.87 m,26
+Antares 120,https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_120.webp,Northrop,Retired,$80.0 million,"3,265 kN","4,600 kg","1,500 kg",2.0,0.0,40.5 m,3.94 m,9.87 m,26
+Antares 130,https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_130.webp,Northrop,Retired,$80.0 million,"3,265 kN","5,100 kg",,2.0,0.0,40.5 m,3.94 m,9.87 m,26
+Antares 230,https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_230.webp,Northrop,Retired,$85.0 million,"3,844 kN","7,000 kg",,2.0,0.0,41.9 m,3.9 m,9.9 m,26
+Antares 230+,https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_230_plus.webp,Northrop,Retired,$85.0 million,"3,844 kN","8,000 kg",,2.0,0.0,42.5 m,3.9 m,9.9 m,26
+Antares 330,https://storage.googleapis.com/nextspaceflight/media/rockets/Antares_330.webp,Northrop,Planned,,"7,161 kN","10,800 kg",,2.0,0.0,47.0 m,3.0 m,9.0 m,26
+Ariane 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_1.webp,ESA,Retired,,"2,772 kN","4,850 kg","1,850 kg",4.0,0.0,47.4 m,,,9
+Ariane 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_2.webp,ESA,Retired,,"2,580 kN",,"2,175 kg",3.0,0.0,49.0 m,,,88
+Ariane 3,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_3.webp,ESA,Retired,,"5,100 kN",,"2,700 kg",3.0,2.0,49.0 m,,,89
+Ariane 40,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_40.webp,ESA,Retired,,"3,034 kN","5,000 kg","2,000 kg",3.0,0.0,58.72 m,,,90
+Ariane 42L,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_42L.webp,ESA,Retired,,"4,538 kN",,"3,480 kg",3.0,2.0,58.72 m,,,90
+Ariane 42P,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_42P.webp,ESA,Retired,,"4,334 kN",,"2,930 kg",3.0,2.0,58.72 m,,,90
+Ariane 44L,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_44L.webp,ESA,Retired,,"6,000 kN",,"4,720 kg",3.0,4.0,58.72 m,,,90
+Ariane 44LP,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_44LP.webp,ESA,Retired,,"5,800 kN",,"4,220 kg",3.0,4.0,58.72 m,,,90
+Ariane 44P,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_44P.webp,ESA,Retired,,"4,334 kN",,"3,460 kg",3.0,4.0,58.72 m,,,90
+Ariane 5 ECA,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_ECA.webp,ESA,Retired,$200.0 million,"15,120 kN","21,000 kg","10,500 kg",2.0,2.0,53.0 m,5.4 m,17.0 m,91
+Ariane 5 ES,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_ES.webp,ESA,Retired,,"15,120 kN","21,000 kg",,2.0,2.0,50.5 m,5.4 m,17.0 m,91
+Ariane 5 G,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_G.webp,ESA,Retired,,"11,400 kN",,"6,900 kg",2.0,2.0,52.0 m,,,91
+Ariane 5 G+,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_G_plus_rocket.webp,ESA,Retired,$190.0 million,,,"7,100 kg",2.0,2.0,,,,91
+Ariane 5 GS,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_5_GS.webp,ESA,Retired,,,,"6,600 kg",2.0,2.0,47.0 m,,,91
+Ariane 62,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_62.webp,ESA,Active,$88.0 million,"8,370 kN","10,350 kg","4,500 kg",2.0,2.0,62.0 m,5.4 m,20.0 m,92
+Ariane 64,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_64.webp,ESA,Active,$106.0 million,"15,370 kN","21,650 kg","11,500 kg",2.0,4.0,62.0 m,5.4 m,20.0 m,92
+Ariane 64/Icarus,https://storage.googleapis.com/nextspaceflight/media/rockets/Ariane_64_Icarus.webp,ESA,Planned,$100.0 million,"15,370 kN","25,000 kg","15,000 kg",2.0,4.0,63.0 m,5.4 m,20.0 m,92
+ASLV,https://storage.googleapis.com/nextspaceflight/media/rockets/ASLV.webp,ISRO,Retired,,"1,005 kN",150 kg,,5.0,2.0,24.0 m,1.0 m,,33
+Athena I,https://storage.googleapis.com/nextspaceflight/media/rockets/Athena_I.webp,Lockheed,Retired,,"1,900 kN",820 kg,,3.0,,18.9 m,,,68
+Athena II,https://storage.googleapis.com/nextspaceflight/media/rockets/Athena_II.webp,Lockheed,Retired,,"1,900 kN",,593 kg,4.0,,28.2 m,,,93
+Atlas-D Able,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-D_Able.webp,General Dynamics,Retired,,"1,880 kN",,,3.0,0.0,35.0 m,,,204
+Atlas-E/F Agena D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Agena_D.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,205
+Atlas-LV3 Agena-A,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3_Agena-A.webp,General Dynamics,Retired,,,"1,250 kg",,2.0,0.0,,,,205
+Atlas-LV3 Agena-B,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3_Agena-B.webp,General Dynamics,Retired,,,"1,725 kg",,2.0,0.0,,,,205
+Atlas-LV3 Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3_Agena-D.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,205
+Atlas-SLV3A Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3A_Agena-D.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,205
+Atlas-SLV3 Agena-B,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3_Agena-B.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,205
+Atlas-SLV3 Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3_Agena-D.webp,General Dynamics,Retired,,,"1,825 kg",,2.0,0.0,,,,205
+Atlas-SLV3B Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3B_Agena-D.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,205
+Atlas-E/F Altair,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Altair.webp,Lockheed,Retired,,,210 kg,,2.0,0.0,,,,181
+Atlas-E/F Burner,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Burner.webp,General Dynamics,Retired,,,950 kg,,2.0,0.0,,,,220
+Atlas-SLV3 Burner-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3_Burner-2.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,220
+Atlas-G Centaur-D1AR,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-G_Centaur-D1AR.webp,General Dynamics,Retired,,,"5,900 kg","2,222 kg",2.0,0.0,,,,222
+Atlas-LV3C Centaur-A,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3C_Centaur-A.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,222
+Atlas-LV3C Centaur-B,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3C_Centaur-B.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,222
+Atlas-LV3C Centaur-C,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3C_Centaur-C.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,222
+Atlas-LV3C Centaur-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-LV3C_Centaur-D.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,222
+Atlas-SLV3C Centaur-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3C_Centaur-D.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,222
+Atlas-SLV3D Centaur-D1A,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3D_Centaur-D1A.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,222
+Atlas-SLV3D Centaur-D1AR,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-SLV3D_Centaur-D1AR.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,222
+Atlas I,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_I.webp,General Dynamics,Retired,,,,,2.0,0.0,43.9 m,,,229
+Atlas II,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_II.webp,Lockheed,Retired,,"2,479 kN","6,580 kg","2,810 kg",2.0,0.0,47.5 m,,,228
+Atlas IIA,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_IIA.webp,Lockheed,Retired,,"2,479 kN","7,316 kg","3,180 kg",2.0,0.0,47.5 m,,,228
+Atlas IIAS,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_IIAS.webp,Lockheed,Retired,,"2,957 kN","8,618 kg","3,933 kg",2.0,4.0,47.5 m,,,228
+Atlas IIIA,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_IIIA.webp,Lockheed,Retired,,"3,826 kN","8,640 kg","4,055 kg",2.0,0.0,52.8 m,4.2 m,12.2 m,95
+Atlas IIIB,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_IIIB.webp,Lockheed,Retired,,"3,826 kN","10,218 kg","4,500 kg",2.0,0.0,52.8 m,4.2 m,12.2 m,95
+Atlas-D Mercury,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-D_Mercury.webp,NASA,Retired,,"1,880 kN","1,360 kg",,2.0,0.0,28.7 m,,,94
+Atlas-E/F MSD,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_MSD.webp,General Dynamics,Retired,,,800 kg,,2.0,0.0,,,,232
+Atlas-H MSD,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-H_MSD.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,232
+Atlas-E/F OIS,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_OIS.webp,General Dynamics,Retired,,,870 kg,,2.0,0.0,,,,233
+Atlas-D OV1,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-D_OV1.webp,General Dynamics,Retired,,"1,880 kN",,,2.0,0.0,,,,212
+Atlas-E/F OV1,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_OV1.webp,General Dynamics,Retired,,,363 kg,,2.0,0.0,,,,212
+Atlas-E/F PTS,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_PTS.webp,General Dynamics,Retired,,,295 kg,,2.0,0.0,,,,234
+Atlas-E/F SGS-1,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_SGS-1.webp,General Dynamics,Retired,,,,,3.0,0.0,,,,235
+Atlas-E/F SGS-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_SGS-2.webp,General Dynamics,Retired,,,,,3.0,0.0,,,,235
+Atlas SLV-3,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_SLV-3.webp,General Dynamics,Retired,,,800 kg,,,0.0,,,,213
+Atlas-E/F Star-17A,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Star-17A.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,236
+Atlas-E/F Star-37S-ISS,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-EF_Star-37S-ISS.webp,General Dynamics,Retired,,,,,2.0,0.0,,,,236
+Atlas V 401,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-V-401.webp,ULA,Retired,$109.0 million,"3,826 kN","9,797 kg","4,750 kg",2.0,0.0,58.3 m,4.2 m,13.8 m,25
+Atlas V 411,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_411.webp,ULA,Retired,$115.0 million,"5,489 kN","12,030 kg","5,950 kg",2.0,1.0,58.3 m,4.2 m,13.8 m,25
+Atlas V 421,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_421.webp,ULA,Retired,$123.0 million,"7,152 kN","13,600 kg","6,890 kg",2.0,2.0,58.3 m,4.2 m,13.8 m,25
+Atlas V 431,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_431.webp,ULA,Retired,$130.0 million,"8,815 kN","15,260 kg","7,700 kg",2.0,3.0,59.1 m,4.2 m,13.8 m,25
+Atlas V 501,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_501.webp,ULA,Retired,$120.0 million,"3,826 kN","8,210 kg","3,780 kg",2.0,0.0,62.2 m,5.4 m,26.5 m,25
+Atlas V 511,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_511.webp,ULA,Retired,$130.0 million,"5,489 kN","11,000 kg","5,250 kg",2.0,1.0,62.2 m,5.4 m,26.5 m,25
+Atlas V 521,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_521.webp,ULA,Retired,$135.0 million,"7,152 kN","13,500 kg","6,480 kg",2.0,2.0,62.2 m,5.4 m,26.5 m,25
+Atlas V 531,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_531.webp,ULA,Retired,$140.0 million,"8,815 kN","15,530 kg","7,450 kg",2.0,3.0,62.2 m,5.4 m,26.5 m,25
+Atlas V 541,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_541.webp,ULA,Retired,$145.0 million,"10,478 kN","17,410 kg","8,290 kg",2.0,4.0,62.2 m,5.4 m,26.5 m,25
+Atlas V 551,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_551.webp,ULA,Active,$153.0 million,"12,141 kN","18,850 kg","8,900 kg",2.0,5.0,62.2 m,5.4 m,26.5 m,25
+Atlas V N22,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas_V_N22_rocket.webp,ULA,Active,,"7,152 kN","13,000 kg",,2.0,2.0,62.2 m,,,25
+Black Arrow,https://storage.googleapis.com/nextspaceflight/media/rockets/black_arrow.webp,RAE,Retired,,256 kN,135 kg,,3.0,,13.0 m,,,64
+Blue Scout II,https://storage.googleapis.com/nextspaceflight/media/rockets/Blue_Scout_II.webp,Vought,Retired,,471 kN,,,4.0,0.0,24.0 m,,,211
+Ceres 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Ceres-1.webp,Galactic Energy,Active,$4.38 million,588 kN,400 kg,0 kg,4.0,0.0,19.0 m,1.4 m,2.5 m,225
+Ceres 1S,https://storage.googleapis.com/nextspaceflight/media/rockets/Ceres-1S.webp,Galactic Energy,Active,$4.38 million,588 kN,400 kg,0 kg,4.0,0.0,19.0 m,1.4 m,2.5 m,225
+Chŏllima 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Ch%C5%8Fllima.webp,NADA,Active,,,,,,0.0,,,,288
+Conestoga 1620,https://storage.googleapis.com/nextspaceflight/media/rockets/Conestoga-1620.webp,EER,Retired,$20.0 million,,"1,179 kg",,4.0,6.0,,,,184
+Cosmos-1 (65S3),https://storage.googleapis.com/nextspaceflight/media/rockets/Cosmos-1_65S3.webp,OKB-586,Retired,,636 kN,350 kg,0 kg,2.0,0.0,29.59 m,1.65 m,2.99 m,208
+Cosmos-2 (63SM),https://storage.googleapis.com/nextspaceflight/media/rockets/Cosmos-2_63SM.webp,OKB-586,Retired,,636 kN,400 kg,0 kg,2.0,0.0,29.59 m,1.65 m,2.99 m,209
+Cosmos-3,https://storage.googleapis.com/nextspaceflight/media/rockets/Cosmos-3.webp,OKB-586,Retired,,"1,481 kN","1,250 kg",0 kg,2.0,0.0,32.42 m,2.44 m,5.72 m,135
+Cosmos-3M,https://storage.googleapis.com/nextspaceflight/media/rockets/Cosmos-3M.webp,OKB-586,Retired,,"1,486 kN","1,500 kg",0 kg,2.0,0.0,32.42 m,2.44 m,5.72 m,135
+K65M-RB5,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,OKB-586,Retired,,"1,486 kN","1,300 kg",0 kg,2.0,0.0,26.0 m,2.44 m,5.72 m,135
+Tsyklon-4M,https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon-4M.webp,Yuzhnoye,Planned,$45.0 million,"3,111 kN","5,000 kg",910 kg,2.0,0.0,38.7 m,4.0 m,9.7 m,215
+Delta 300,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_300.webp,US Air Force,Retired,,,,,2.0,3.0,,,,267
+Delta 900,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_900.webp,US Air Force,Retired,,,,,2.0,9.0,,,,267
+Delta 1410,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1410.webp,US Air Force,Retired,,,,,2.0,4.0,,,,263
+Delta 1604,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1604.webp,US Air Force,Retired,,,,,3.0,6.0,,,,263
+Delta 1900,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1900.webp,US Air Force,Retired,,,"1,800 kg",,2.0,9.0,,,,263
+Delta 1910,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1910.webp,US Air Force,Retired,,,,,2.0,9.0,,,,263
+Delta 1913,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1913.webp,US Air Force,Retired,,,,,3.0,9.0,,,,263
+Delta 1914,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_1914.webp,US Air Force,Retired,,,,680 kg,3.0,9.0,,,,263
+Delta 2310,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2310.webp,US Air Force,Retired,,,,,2.0,3.0,,,,264
+Delta 2313,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2313.webp,US Air Force,Retired,,,,,3.0,3.0,,,,264
+Delta 2910,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2910.webp,US Air Force,Retired,,,"1,887 kg",,2.0,9.0,,,,264
+Delta 2913,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2913.webp,US Air Force,Retired,,,,,3.0,9.0,,,,264
+Delta 2914,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_2914.webp,US Air Force,Retired,,,,724 kg,3.0,9.0,,,,264
+Delta 3910,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3910.webp,US Air Force,Retired,,,,"1,154 kg",2.0,9.0,,,,202
+Delta 3913,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3913.webp,US Air Force,Retired,,,,,3.0,9.0,,,,202
+Delta 3914,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3914.webp,US Air Force,Retired,,,,954 kg,3.0,9.0,,,,202
+Delta 3920,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3920.webp,US Air Force,Retired,,,"3,452 kg",,2.0,9.0,,,,202
+Delta 3920-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3920-8.webp,Douglas,Retired,,"3,188 kN",,,2.0,9.0,,2.9 m,,202
+Delta 3924,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_3924.webp,US Air Force,Retired,,,,"1,104 kg",3.0,9.0,,,,202
+Delta 4925-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_4925-8.webp,Boeing,Retired,,"3,469 kN","3,400 kg","1,200 kg",3.0,9.0,34.0 m,2.44 m,,169
+Delta 5920-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_5920-8.webp,US Air Force,Retired,,,"3,849 kg",,2.0,9.0,,,,265
+Delta A,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_A.webp,US Air Force,Retired,,,320 kg,68 kg,3.0,0.0,,,,244
+Delta B,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_B.webp,US Air Force,Retired,,,375 kg,68 kg,3.0,0.0,,,,245
+Delta C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_C.webp,US Air Force,Retired,,667 kN,410 kg,82 kg,3.0,0.0,31.0 m,,,248
+Delta C1,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_C1.webp,US Air Force,Retired,,,600 kg,,3.0,0.0,,,,248
+Delta D,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_D.webp,US Air Force,Retired,,"1,725 kN",575 kg,104 kg,3.0,3.0,,,,254
+Delta E,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_E.webp,US Air Force,Retired,,,735 kg,150 kg,3.0,3.0,,,,268
+Delta E1,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_E1.webp,US Air Force,Retired,,,,205 kg,3.0,3.0,,,,268
+Delta G,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_G.webp,US Air Force,Retired,,,,,2.0,3.0,,,,269
+Delta II 6920-10,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_6920-10.webp,Boeing,Retired,,"3,481 kN","3,950 kg",,2.0,9.0,38.9 m,3.0 m,8.9 m,7
+Delta II 6920-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_6920-8.webp,Boeing,Retired,,"3,481 kN","3,983 kg",,2.0,9.0,38.1 m,2.4 m,8.49 m,7
+Delta II 6925,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_6925.webp,Boeing,Retired,,"3,481 kN",,"1,447 kg",3.0,9.0,38.1 m,2.9 m,8.49 m,7
+Delta II 6925-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_6925-8.webp,Boeing,Retired,,"3,481 kN",,"1,460 kg",3.0,9.0,38.1 m,2.4 m,8.49 m,7
+Delta II 7320-10C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7320-10C.webp,ULA,Retired,,"2,533 kN","2,703 kg",,2.0,3.0,38.9 m,3.0 m,8.9 m,7
+Delta II 7326,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7326.webp,ULA,Retired,,"2,533 kN",,934 kg,3.0,3.0,38.1 m,2.9 m,8.49 m,7
+Delta II 7420-10C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7420-10C.webp,ULA,Retired,,"3,020 kN","3,099 kg",,2.0,4.0,38.9 m,3.0 m,8.9 m,7
+Delta II 7425,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7425.webp,ULA,Retired,,"3,020 kN",,"1,110 kg",3.0,4.0,38.1 m,2.9 m,8.49 m,7
+Delta II 7425-10C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7425-10C.webp,ULA,Retired,,"3,020 kN",,"1,073 kg",3.0,4.0,38.9 m,3.0 m,8.9 m,7
+Delta II 7426,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7426.webp,ULA,Retired,,"3,020 kN",,"1,058 kg",3.0,4.0,38.1 m,2.9 m,8.49 m,7
+Delta II 7920-10,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920-10.webp,Boeing,Retired,,"3,511 kN","4,800 kg",,2.0,9.0,38.9 m,3.0 m,8.9 m,7
+Delta II 7920-10C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920-10C.webp,ULA,Retired,,"3,511 kN","4,844 kg",,2.0,9.0,38.9 m,3.0 m,8.9 m,7
+Delta II 7920-10L,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920-10L.webp,ULA,Retired,,"3,511 kN","4,805 kg",,2.0,9.0,39.3 m,3.0 m,9.3 m,7
+Delta II 7920-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920-8.webp,ULA,Retired,,"3,511 kN","5,000 kg",,2.0,9.0,38.1 m,2.4 m,8.49 m,7
+Delta II 7920H,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920H.webp,ULA,Retired,,"4,398 kN","6,097 kg",,2.0,9.0,38.1 m,2.9 m,8.49 m,7
+Delta II 7920H-10C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7920H-10C.webp,ULA,Retired,,"4,398 kN","5,959 kg",,2.0,9.0,38.9 m,3.0 m,8.9 m,7
+Delta II 7925,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925.webp,ULA,Retired,,"3,511 kN",,"1,819 kg",3.0,9.0,38.1 m,2.9 m,8.49 m,7
+Delta II 7925-10,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925-10.webp,Boeing,Retired,,"3,511 kN",,"1,730 kg",3.0,9.0,38.9 m,3.0 m,8.9 m,7
+Delta II 7925-10C,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925-10C.webp,ULA,Retired,,"3,511 kN",,"1,747 kg",3.0,9.0,38.9 m,3.0 m,8.9 m,7
+Delta II 7925-10L,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925-10L.webp,ULA,Retired,,"3,511 kN",,"1,739 kg",3.0,9.0,39.3 m,3.0 m,9.3 m,7
+Delta II 7925-8,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925-8.webp,ULA,Retired,,"3,511 kN",,"1,780 kg",3.0,9.0,38.1 m,2.4 m,8.49 m,7
+Delta II 7925H,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_II_7925H.webp,ULA,Retired,,"4,398 kN",,"2,171 kg",3.0,9.0,38.1 m,2.9 m,8.49 m,7
+Delta III 8930,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_III_8930.webp,Boeing,Retired,,"4,856 kN","8,290 kg","3,810 kg",2.0,9.0,35.0 m,4.0 m,10.84 m,170
+Delta IV Heavy,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Heavy.webp,ULA,Retired,$350.0 million,"9,411 kN","28,370 kg","13,810 kg",2.0,2.0,72.0 m,5.1 m,19.1 m,98
+Delta IV Medium,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Medium.webp,Boeing,Retired,$133.0 million,"3,137 kN","8,800 kg","4,540 kg",2.0,0.0,62.5 m,4.0 m,11.75 m,97
+"Delta IV Medium+ (4,2)",https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Medium_42.webp,ULA,Retired,$164.0 million,"4,895 kN","10,440 kg","6,390 kg",2.0,2.0,62.5 m,4.0 m,11.75 m,97
+"Delta IV Medium+ (5,2)",https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Medium_52.webp,ULA,Retired,,"4,895 kN","9,610 kg","5,080 kg",2.0,2.0,66.4 m,5.1 m,19.1 m,97
+"Delta IV Medium+ (5,4)",https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_IV_Medium_54.webp,ULA,Retired,,"6,653 kN","11,600 kg","6,890 kg",2.0,4.0,66.4 m,5.1 m,19.1 m,97
+Delta J,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_J.webp,US Air Force,Retired,,,800 kg,263 kg,3.0,3.0,,,,270
+Delta L,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_L.webp,US Air Force,Retired,,,998 kg,356 kg,3.0,3.0,,,,272
+Delta M,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_M.webp,US Air Force,Retired,,,,356 kg,3.0,3.0,,,,266
+Delta M6,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_M6.webp,US Air Force,Retired,,,"1,293 kg",454 kg,3.0,6.0,,,,266
+Delta N,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_N.webp,US Air Force,Retired,,,900 kg,,2.0,3.0,,,,271
+Delta N6,https://storage.googleapis.com/nextspaceflight/media/rockets/Delta_N6.webp,US Air Force,Retired,,,"1,600 kg",,2.0,6.0,,,,271
+Diamant A,https://storage.googleapis.com/nextspaceflight/media/rockets/Diamant_A.webp,Aérospatiale,Retired,,274 kN,80 kg,0 kg,3.0,0.0,18.49 m,0.65 m,2.16 m,66
+Diamant B,https://storage.googleapis.com/nextspaceflight/media/rockets/Diamant_B.webp,Aérospatiale,Retired,,348 kN,115 kg,0 kg,3.0,0.0,23.54 m,0.85 m,2.8 m,66
+Diamant BP4,https://storage.googleapis.com/nextspaceflight/media/rockets/Diamant_BP4.webp,Aérospatiale,Retired,,317 kN,150 kg,0 kg,3.0,0.0,21.64 m,1.45 m,4.5 m,66
+Dnepr,https://storage.googleapis.com/nextspaceflight/media/rockets/Dnepr.webp,Yuzhnoye,Retired,$29.0 million,"4,166 kN","4,500 kg",500 kg,3.0,0.0,34.3 m,3.0 m,7.45 m,192
+Electron,https://storage.googleapis.com/nextspaceflight/media/rockets/Electron-Rocket.webp,Rocket Lab,Active,$7.5 million,224 kN,320 kg,,2.0,0.0,18.0 m,1.2 m,4.05 m,4
+Electron/Curie,https://storage.googleapis.com/nextspaceflight/media/rockets/Electron_Curie.webp,Rocket Lab,Active,$7.5 million,224 kN,320 kg,,3.0,0.0,18.0 m,1.2 m,4.05 m,4
+Electron/Explorer,https://storage.googleapis.com/nextspaceflight/media/rockets/Electron_Explorer.webp,Rocket Lab,Active,$7.5 million,224 kN,320 kg,,3.0,0.0,18.0 m,1.2 m,4.05 m,4
+Electron/Photon,https://storage.googleapis.com/nextspaceflight/media/rockets/Electron_Photon.webp,Rocket Lab,Active,$7.5 million,224 kN,320 kg,,3.0,0.0,18.0 m,1.2 m,4.05 m,4
+Energiya/Buran,https://storage.googleapis.com/nextspaceflight/media/rockets/Energiya_Buran.webp,OKB-1,Retired,"$3,000.0 million","35,832 kN","105,000 kg","40,000 kg",1.0,4.0,59.0 m,5.7 m,41.0 m,59
+Energiya/Polyus,https://storage.googleapis.com/nextspaceflight/media/rockets/Energiya_Polyus.webp,OKB-1,Retired,"$3,000.0 million","35,832 kN","105,000 kg","40,000 kg",1.0,4.0,59.0 m,5.7 m,41.0 m,59
+Epsilon,https://storage.googleapis.com/nextspaceflight/media/rockets/Epsilon.webp,JAXA,Active,,"1,612 kN",,,3.0,0.0,26.0 m,2.5 m,9.19 m,41
+Epsilon Demo,https://storage.googleapis.com/nextspaceflight/media/rockets/Epsilon_Demo.webp,JAXA,Retired,,"1,621 kN",490 kg,,4.0,0.0,24.0 m,2.5 m,9.19 m,41
+Epsilon PBS,https://storage.googleapis.com/nextspaceflight/media/rockets/Epsilon_PBS.webp,JAXA,Active,$39.0 million,"1,612 kN",700 kg,,4.0,0.0,26.0 m,2.5 m,9.19 m,41
+Epsilon S,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,JAXA,Planned,,"1,612 kN","1,400 kg",0 kg,4.0,0.0,27.0 m,2.5 m,9.19 m,41
+Eris,https://storage.googleapis.com/nextspaceflight/media/rockets/Eris.webp,Gilmour,Planned,,,305 kg,,3.0,,25.0 m,1.5 m,,298
+Europa 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Europa_1.webp,CECLES,Retired,,"3,962 kN","1,440 kg",200 kg,3.0,0.0,31.68 m,2.0 m,,65
+Europa 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Europa_2.webp,CECLES,Retired,,"8,372 kN",,360 kg,4.0,0.0,31.68 m,2.0 m,,65
+Falcon 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_1_rocket.webp,SpaceX,Retired,$7.0 million,343 kN,470 kg,,2.0,0.0,22.25 m,1.5 m,3.5 m,171
+Falcon 9 Block 1 (v1.0),https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_1_rocket.webp,SpaceX,Retired,$59.5 million,"4,940 kN","10,450 kg","4,540 kg",2.0,0.0,54.9 m,5.2 m,13.0 m,3
+Falcon 9 Block 2 (v1.1),https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_2.webp,SpaceX,Retired,$56.5 million,"5,885 kN","13,150 kg","4,850 kg",2.0,0.0,68.4 m,5.2 m,13.0 m,3
+Falcon 9 Block 3 (v1.2/FT),https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_3_rocket.webp,SpaceX,Retired,$62.0 million,"6,804 kN","22,800 kg","8,300 kg",2.0,0.0,70.0 m,5.2 m,13.0 m,3
+Falcon 9 Block 4,https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_4_rocket.webp,SpaceX,Retired,$62.0 million,"6,804 kN","22,800 kg","8,300 kg",2.0,0.0,70.0 m,5.2 m,13.0 m,3
+Falcon 9 Block 5,https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp,SpaceX,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2.0,0.0,70.0 m,5.2 m,13.0 m,3
+Falcon Heavy,https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon%20Heavy%20Block%205.webp,SpaceX,Active,$97.0 million,"22,819 kN","63,800 kg","26,700 kg",2.0,2.0,70.0 m,5.2 m,13.0 m,104
+Feng Bao 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Feng_Bao_1.webp,MASI,Retired,,"2,785 kN","2,500 kg",0 kg,2.0,0.0,33.0 m,3.35 m,5.0 m,190
+Gravity 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Gravity-1.webp,Orienspace,Active,$27.22 million,"5,880 kN","6,500 kg",,3.0,4.0,29.4 m,4.2 m,,294
+GSLV Mk I,https://storage.googleapis.com/nextspaceflight/media/rockets/GSLV_Mk_I.webp,ISRO,Retired,$47.0 million,,,"1,500 kg",3.0,4.0,49.13 m,3.4 m,7.8 m,35
+GSLV Mk II,https://storage.googleapis.com/nextspaceflight/media/rockets/GSLV_Mk_II.webp,ISRO,Active,$47.0 million,"7,887 kN","5,000 kg","2,500 kg",3.0,4.0,51.7 m,4.0 m,7.8 m,35
+H3-22L,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,MHI,Active,$50.0 million,"7,542 kN",,"4,000 kg",2.0,2.0,,5.27 m,,105
+H3-22S,https://storage.googleapis.com/nextspaceflight/media/rockets/H3-22.webp,MHI,Active,$50.0 million,"7,542 kN",,"4,000 kg",2.0,2.0,63.0 m,5.27 m,10.3 m,105
+H3-24L,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,MHI,Active,$50.0 million,"12,142 kN",,"6,500 kg",2.0,4.0,,5.27 m,10.4 m,105
+H3-30S,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,MHI,Active,$50.0 million,"4,413 kN","4,000 kg","2,100 kg",2.0,0.0,63.0 m,5.27 m,10.3 m,105
+Hapith V,https://storage.googleapis.com/nextspaceflight/media/rockets/Hapith_V_rocket.webp,TiSPACE,Planned,,650 kN,390 kg,0 kg,3.0,0.0,20.0 m,2.2 m,,280
+H-I (9 SO),https://storage.googleapis.com/nextspaceflight/media/rockets/H-I.webp,MHI,Retired,,,"3,200 kg","1,100 kg",2.0,9.0,42.0 m,2.44 m,,101
+H-I UM-129A (6SO),https://storage.googleapis.com/nextspaceflight/media/rockets/H-I_UM-129A_6SO.webp,MHI,Retired,,,"3,200 kg","1,100 kg",3.0,6.0,42.0 m,2.44 m,,101
+H-I UM-129A (9SO),https://storage.googleapis.com/nextspaceflight/media/rockets/H-I_UM-129A_9SO.webp,MHI,Retired,,,"3,200 kg","1,100 kg",3.0,9.0,42.0 m,2.44 m,,101
+H-II,https://storage.googleapis.com/nextspaceflight/media/rockets/H-II.webp,MHI,Retired,,,"10,060 kg","3,930 kg",2.0,2.0,49.0 m,,,80
+H-II (2 SSB),https://storage.googleapis.com/nextspaceflight/media/rockets/H-II_2_SSB.webp,MHI,Retired,,,"10,060 kg","3,930 kg",2.0,4.0,49.0 m,,,80
+H-IIS,https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIS.webp,MHI,Retired,,,"10,060 kg","3,930 kg",2.0,2.0,49.0 m,,,80
+H-IIA 202,https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIA_202_rocket.webp,MHI,Active,$90.0 million,,"10,000 kg","4,100 kg",2.0,2.0,53.0 m,4.07 m,12.0 m,179
+H-IIA 2022,https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIA_2022.webp,MHI,Retired,,,,"4,500 kg",2.0,2.0,53.0 m,4.07 m,12.0 m,179
+H-IIA 2024,https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIA_2024.webp,MHI,Retired,,,,"5,000 kg",2.0,4.0,53.0 m,4.07 m,12.0 m,179
+H-IIA 204,https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIA_204_rocket.webp,MHI,Retired,,,"15,000 kg","6,000 kg",2.0,4.0,,4.07 m,12.0 m,179
+H-IIB,https://storage.googleapis.com/nextspaceflight/media/rockets/H-IIB_rocket.webp,MHI,Retired,$112.5 million,,"16,500 kg","8,000 kg",2.0,4.0,56.6 m,5.1 m,15.0 m,180
+Hyperbola 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Hyperbola-1.webp,iSpace,Active,,557 kN,300 kg,0 kg,4.0,0.0,21.0 m,1.2 m,2.2 m,81
+Jielong 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Jielong-1.webp,CASC,Active,$7.5 million,500 kN,250 kg,0 kg,4.0,0.0,19.5 m,1.2 m,3.0 m,82
+Jielong 3,https://storage.googleapis.com/nextspaceflight/media/rockets/Jielong-3.webp,CASC,Active,,,"1,500 kg",,4.0,0.0,31.0 m,3.35 m,,285
+Juno I,https://storage.googleapis.com/nextspaceflight/media/rockets/Juno_1_rocket.webp,ABMA,Retired,,416 kN,11 kg,,4.0,0.0,21.2 m,,,51
+Juno II,https://storage.googleapis.com/nextspaceflight/media/rockets/Juno_II_rocket.webp,ABMA,Retired,,667 kN,41 kg,,4.0,0.0,24.0 m,,,150
+KAIROS,https://storage.googleapis.com/nextspaceflight/media/rockets/KAIROS.webp,Space One,Active,$9.0 million,,250 kg,,4.0,0.0,18.0 m,1.5 m,4.0 m,297
+Kaituozhe 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Kaituozhe_1.webp,CASIC,Retired,,300 kN,100 kg,0 kg,4.0,0.0,13.6 m,1.0 m,3.1 m,189
+Kaituozhe 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Kaituozhe_2.webp,CASIC,Retired,,500 kN,350 kg,0 kg,4.0,0.0,16.8 m,1.4 m,4.5 m,46
+Kinetica 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Kinetica-1_Rocket.webp,CAS Space,Active,,,"2,000 kg","1,500 kg",4.0,0.0,31.0 m,3.35 m,,281
+Kinetica 2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,CAS Space,Planned,,"2,000 kN","12,000 kg",,2.0,0.0,52.0 m,4.2 m,,295
+Kinetica 2H,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,CAS Space,Planned,,,"22,000 kg",,,,56.0 m,,4.2 m,295
+KSLV-1,https://storage.googleapis.com/nextspaceflight/media/rockets/KSLV-1_rocket.webp,KARI,Retired,,"1,639 kN",100 kg,0 kg,2.0,0.0,33.52 m,2.0 m,5.38 m,77
+KSLV-2,https://storage.googleapis.com/nextspaceflight/media/rockets/KSLV-2.webp,KARI,Active,,"2,620 kN","1,500 kg",550 kg,3.0,0.0,47.5 m,3.3 m,,303
+Kuaizhou 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Kuaizhou_1.webp,CASIC,Retired,,500 kN,100 kg,0 kg,4.0,0.0,13.6 m,1.0 m,3.1 m,38
+Kuaizhou 1A,https://storage.googleapis.com/nextspaceflight/media/rockets/Kuaizhou_1A.webp,CASIC,Active,$5.8 million,537 kN,300 kg,0 kg,4.0,0.0,19.8 m,1.4 m,3.4 m,107
+Kuaizhou 11,https://storage.googleapis.com/nextspaceflight/media/rockets/Kuaizhou_11.webp,CASIC,Active,$28.3 million,"1,250 kN","1,500 kg",0 kg,4.0,0.0,25.3 m,2.2 m,8.5 m,106
+Lambda-IV S,https://storage.googleapis.com/nextspaceflight/media/rockets/Lambda-IV_S.webp,UT,Retired,,,12 kg,,4.0,2.0,16.5 m,,,78
+LauncherOne,https://storage.googleapis.com/nextspaceflight/media/rockets/LauncherOne.webp,Virgin Orbit,Retired,$12.0 million,,500 kg,,2.0,0.0,16.0 m,1.3 m,,45
+Long March 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_1.webp,MASI,Retired,,"1,020 kN",300 kg,0 kg,3.0,0.0,30.45 m,1.5 m,4.67 m,10
+Long March 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2.webp,MASI,Retired,,"2,785 kN","1,800 kg",0 kg,2.0,0.0,35.93 m,3.35 m,4.34 m,110
+Long March 2C,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C.webp,CASC,Active,$30.8 million,"2,962 kN","2,850 kg","1,000 kg",2.0,0.0,42.0 m,3.35 m,8.37 m,111
+Long March 2C/SD,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C_SD.webp,CAC,Retired,,"2,962 kN","2,500 kg",,3.0,0.0,34.65 m,3.35 m,5.84 m,111
+Long March 2C/SM,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C_SM_rocket.webp,CASC,Retired,,"2,963 kN","2,500 kg",,3.0,0.0,34.65 m,3.35 m,5.84 m,111
+Long March 2C/SMA,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C_SMA.webp,CASC,Retired,$30.8 million,"2,962 kN","2,850 kg","1,000 kg",3.0,0.0,38.83 m,3.35 m,8.37 m,111
+Long March 2C/YZ-1S,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2C_YZ-1S.webp,CASC,Active,$30.8 million,"2,962 kN","2,850 kg","1,000 kg",3.0,0.0,38.83 m,3.35 m,8.37 m,111
+Long March 2D,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2D_1.webp,CASC,Active,$29.75 million,"2,962 kN","3,500 kg","1,200 kg",2.0,0.0,40.77 m,3.35 m,7.82 m,112
+Long March 2D/YZ-3,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2D_YZ-3_rocket.webp,CASC,Active,$30.0 million,"2,962 kN","3,500 kg","1,200 kg",3.0,0.0,40.77 m,3.35 m,7.82 m,112
+Long March 2E,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2E_rocket.webp,CAC,Retired,,"5,923 kN","9,500 kg","3,500 kg",2.0,4.0,49.73 m,4.2 m,12.0 m,113
+Long March 2E EPKM,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,CAC,Retired,,"5,923 kN",,,2.0,4.0,49.73 m,4.2 m,12.0 m,113
+Long March 2F,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2F.webp,CASC,Retired,,"5,985 kN","8,400 kg",0 kg,2.0,4.0,58.34 m,3.6 m,19.11 m,114
+Long March 2F/G,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2FG_rocket.webp,CASC,Active,,"5,985 kN","8,600 kg",0 kg,2.0,4.0,58.34 m,3.6 m,19.11 m,114
+Long March 2F/T,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2FT_rocket.webp,CASC,Active,,"5,985 kN","8,600 kg",0 kg,2.0,4.0,52.03 m,3.8 m,12.78 m,114
+Long March 3,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3.webp,CASC,Retired,,"2,804 kN","5,000 kg","1,500 kg",3.0,0.0,46.6 m,3.0 m,7.27 m,115
+Long March 3A,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3A_rocket.webp,CASC,Retired,$69.7 million,"2,962 kN","8,500 kg","2,600 kg",3.0,0.0,52.52 m,3.35 m,8.89 m,115
+Long March 3B,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3B.webp,CASC,Retired,,"5,924 kN","11,500 kg","5,100 kg",3.0,4.0,54.84 m,4.0 m,9.56 m,115
+Long March 3B/E,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3BE.webp,CASC,Active,$29.15 million,"5,986 kN","11,500 kg","5,550 kg",3.0,4.0,56.3 m,4.2 m,9.56 m,115
+Long March 3B/YZ-1,https://storage.googleapis.com/nextspaceflight/media/rockets/GX0UGuCakAEdwt7.webp,CASC,Active,,"5,986 kN","12,000 kg","5,550 kg",4.0,4.0,54.84 m,4.0 m,10.8 m,115
+Long March 3C,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3C_rocket.webp,CASC,Retired,$20.14 million,"5,923 kN","8,000 kg","3,800 kg",3.0,2.0,54.84 m,4.2 m,9.78 m,115
+Long March 3C/E,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3CE_rocket.webp,CASC,Active,$20.0 million,"5,923 kN","8,000 kg","3,900 kg",3.0,4.0,55.64 m,4.2 m,9.78 m,115
+Long March 3C/YZ-1,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_3C_YZ-1.webp,CASC,Active,$20.0 million,"5,923 kN","7,500 kg","3,500 kg",4.0,2.0,55.64 m,4.2 m,9.78 m,115
+Long March 4A,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_4A.webp,MASI,Retired,,"2,962 kN","4,000 kg",0 kg,3.0,0.0,41.9 m,2.9 m,4.91 m,119
+Long March 4B,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_4B_rocket.webp,CASC,Active,$64.68 million,"2,993 kN","4,200 kg","1,500 kg",3.0,0.0,46.97 m,3.8 m,11.74 m,120
+Long March 4C,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March4C.webp,CASC,Active,$64.68 million,"2,993 kN","4,200 kg","1,500 kg",3.0,0.0,46.97 m,3.8 m,11.74 m,121
+Long March 5,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_5.webp,CASC,Active,,"10,565 kN","32,000 kg","14,000 kg",3.0,4.0,57.0 m,5.2 m,20.0 m,122
+Long March 5/YZ-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_5_YZ-2.webp,CASC,Active,,"10,565 kN","32,000 kg","13,500 kg",3.0,4.0,57.0 m,5.2 m,20.0 m,122
+Long March 5B,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_5B_rocket.webp,CASC,Active,,"10,565 kN","23,000 kg",0 kg,2.0,4.0,53.66 m,5.2 m,20.5 m,123
+Long March 5B/YZ-2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,CASC,Active,,"10,565 kN","15,000 kg",,3.0,4.0,53.66 m,5.2 m,20.5 m,123
+Long March 6,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_6_rocket.webp,CASC,Active,$19.0 million,"1,188 kN","1,080 kg",0 kg,3.0,0.0,29.24 m,2.6 m,6.145 m,124
+Long March 6A,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_6A.webp,CASC,Active,,"7,230 kN","5,000 kg",,2.0,4.0,50.0 m,4.2 m,5.7 m,124
+Long March 6C,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_6C.webp,CASC,Active,,"2,376 kN","2,400 kg",,2.0,0.0,43.0 m,,,124
+Long March 7,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_7_rocket.webp,CASC,Active,,"7,128 kN","13,500 kg","5,500 kg",2.0,4.0,53.1 m,4.2 m,12.4 m,125
+Long March 7A,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_7A_rocket.webp,CASC,Active,,"7,128 kN","12,000 kg","7,000 kg",3.0,4.0,58.0 m,4.2 m,12.4 m,125
+Long March 7/YZ-1A,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_7_YZ-1A_rocket.webp,CASC,Active,,"7,128 kN","13,200 kg","5,200 kg",3.0,4.0,53.1 m,4.2 m,10.0 m,125
+Long March 8,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_8_rocket.webp,CASC,Active,$27.0 million,"4,752 kN","7,600 kg","2,500 kg",3.0,2.0,50.0 m,4.0 m,12.1 m,126
+Long March 8A,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,CASC,Planned,,"4,894 kN","8,400 kg",,2.0,2.0,50.54 m,5.2 m,,126
+Long March 8 (Core Only),https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_8_Core_Only_rocket.webp,CASC,Active,$27.0 million,"2,452 kN","3,000 kg","1,400 kg",2.0,0.0,50.0 m,4.0 m,12.1 m,126
+Long March 10,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,CASC,Planned,,"26,250 kN","70,000 kg",,3.0,2.0,93.2 m,,,302
+Long March 10A,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,CASC,Planned,,"8,750 kN",,,2.0,0.0,,,,302
+Long March 11,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_11_rocket.webp,CASC,Active,$5.3 million,"1,176 kN",530 kg,2 kg,4.0,0.0,20.8 m,2.0 m,5.0 m,108
+Long March 11H,https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_11H_rocket.webp,CASC,Active,$5.3 million,"1,176 kN",700 kg,0 kg,4.0,0.0,20.8 m,2.0 m,5.0 m,108
+Long March 12,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,CASC,Planned,,"5,000 kN","10,000 kg",,2.0,0.0,59.0 m,3.8 m,5.2 m,301
+LVM-3,https://storage.googleapis.com/nextspaceflight/media/rockets/LVM-3.webp,ISRO,Active,$62.0 million,"11,898 kN","10,000 kg","4,000 kg",3.0,2.0,43.4 m,5.0 m,,178
+Minotaur C (Taurus),https://storage.googleapis.com/nextspaceflight/media/rockets/Minotaur_C.webp,Northrop,Active,$45.0 million,"1,607 kN","1,458 kg",,4.0,0.0,27.9 m,2.34 m,,28
+Minotaur I,https://storage.googleapis.com/nextspaceflight/media/rockets/Minotaur_I.webp,Northrop,Active,$40.0 million,935 kN,580 kg,,4.0,0.0,19.21 m,1.27 m,3.79 m,127
+Minotaur IV,https://storage.googleapis.com/nextspaceflight/media/rockets/Minotaur_IV.webp,Northrop,Active,$46.0 million,"2,200 kN","1,735 kg",,4.0,0.0,23.88 m,2.34 m,6.4 m,128
+Minotaur V,https://storage.googleapis.com/nextspaceflight/media/rockets/Minotaur_V.webp,Northrop,Active,$55.0 million,"2,224 kN",,532 kg,5.0,0.0,24.56 m,2.34 m,6.4 m,129
+Miura 5,https://storage.googleapis.com/nextspaceflight/media/rockets/Miura%205.webp,PLD,Planned,,950 kN,540 kg,,3.0,0.0,35.81 m,,4.5 m,176
+MLV,https://storage.googleapis.com/nextspaceflight/media/rockets/MLV.webp,Firefly,Planned,,"7,161 kN","16,000 kg",,2.0,0.0,58.0 m,5.2 m,15.0 m,172
+Molniya,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya.webp,RKK Energiya,Retired,,"4,378 kN","6,000 kg","2,200 kg",4.0,4.0,44.23 m,2.58 m,6.74 m,197
+Molniya-M/Block 2BL,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_2BL.webp,RKK Energiya,Retired,,"4,391 kN","6,200 kg","2,400 kg",4.0,4.0,44.23 m,2.58 m,7.81 m,140
+Molniya-M/Block L,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_L.webp,RKK Energiya,Retired,,"4,391 kN","6,200 kg","2,400 kg",4.0,4.0,44.23 m,2.58 m,6.74 m,140
+Molniya-M/Block ML,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_ML.webp,RKK Energiya,Retired,,"4,391 kN","6,200 kg","2,400 kg",4.0,4.0,42.8 m,2.58 m,8.28 m,140
+Molniya-M/Block NVL,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block-NVL.webp,RKK Energiya,Retired,,"4,391 kN","6,200 kg","2,400 kg",4.0,4.0,44.63 m,2.58 m,7.14 m,140
+Molniya-M/Block SO-L,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_SO-L.webp,RKK Energiya,Retired,,"4,391 kN","6,200 kg","2,400 kg",4.0,4.0,41.26 m,2.58 m,6.74 m,140
+Molniya-M/Block VL,https://storage.googleapis.com/nextspaceflight/media/rockets/Molniya-M_Block_VL.webp,RKK Energiya,Retired,,"4,391 kN","6,200 kg","2,400 kg",4.0,4.0,42.8 m,2.58 m,8.28 m,140
+Mu-III C,https://storage.googleapis.com/nextspaceflight/media/rockets/M-III_C.webp,ISAS,Retired,,,195 kg,,3.0,8.0,,,,57
+Mu-III H,https://storage.googleapis.com/nextspaceflight/media/rockets/M-III_H.webp,ISAS,Retired,,,270 kg,,4.0,8.0,,,,57
+Mu-III S,https://storage.googleapis.com/nextspaceflight/media/rockets/M-III_S.webp,ISAS,Retired,,,290 kg,,3.0,8.0,,,,57
+Mu-III S2,https://storage.googleapis.com/nextspaceflight/media/rockets/Mu-III_S2.webp,ISAS,Retired,,,770 kg,,4.0,2.0,,,,57
+Mu-IV S,https://storage.googleapis.com/nextspaceflight/media/rockets/file_5Yppd8E.webp,ISAS,Retired,,,180 kg,,4.0,8.0,23.6 m,,,130
+Mu-V/M-24,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,ISAS,Retired,,"3,780 kN","1,800 kg",,4.0,0.0,30.7 m,,,131
+Mu-V/M-25,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,ISAS,Retired,,"3,780 kN","1,800 kg",,4.0,0.0,30.7 m,,,131
+N-1 L3,https://storage.googleapis.com/nextspaceflight/media/rockets/n1-2.webp,OKB-1,Retired,,"45,307 kN","95,000 kg","20,000 kg",5.0,0.0,105.29 m,5.92 m,43.72 m,61
+N-1 L3 M,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,OKB-1,Retired,,"45,307 kN","95,000 kg","20,000 kg",5.0,0.0,105.29 m,5.92 m,43.72 m,61
+Neutron,https://storage.googleapis.com/nextspaceflight/media/rockets/Neutron.webp,Rocket Lab,Planned,$52.5 million,"6,800 kN","15,000 kg",,2.0,0.0,43.0 m,5.0 m,7.0 m,284
+New Glenn,https://storage.googleapis.com/nextspaceflight/media/rockets/New_Glenn.webp,Blue Origin,Planned,,"17,150 kN","45,000 kg","13,000 kg",2.0,0.0,98.0 m,7.0 m,21.9 m,67
+N-I,https://storage.googleapis.com/nextspaceflight/media/rockets/N-I.webp,MHI,Retired,,,"1,200 kg",360 kg,2.0,3.0,34.0 m,,,99
+N-I Star-37E,https://storage.googleapis.com/nextspaceflight/media/rockets/file_rQEdBR9.webp,MHI,Retired,,,"1,200 kg",360 kg,3.0,3.0,34.0 m,,,99
+N-II,https://storage.googleapis.com/nextspaceflight/media/rockets/file_ZS3dcq0.webp,MHI,Retired,,,"2,000 kg",730 kg,2.0,9.0,35.0 m,,,100
+N-II Star-37E,https://storage.googleapis.com/nextspaceflight/media/rockets/file_R8XHo4n.webp,MHI,Retired,,,"2,000 kg",730 kg,3.0,9.0,35.0 m,,,100
+NOTS-EV-1,https://storage.googleapis.com/nextspaceflight/media/rockets/NOTS.webp,US Navy,Retired,,,1 kg,0 kg,5.0,0.0,4.0 m,,,53
+Nova,https://storage.googleapis.com/nextspaceflight/media/rockets/Nova.webp,Stoke Space,Planned,,,,,2.0,,,,,289
+OS-M1,https://storage.googleapis.com/nextspaceflight/media/rockets/IMG_20190401_142531.webp,OneSpace,Retired,,500 kN,205 kg,0 kg,4.0,0.0,18.0 m,0.7 m,1.26 m,63
+Pegasus,https://storage.googleapis.com/nextspaceflight/media/rockets/Pegasus.webp,Northrop,Retired,$40.0 million,487 kN,375 kg,,3.0,0.0,16.9 m,1.15 m,2.13 m,132
+Pegasus/HAPS,https://storage.googleapis.com/nextspaceflight/media/rockets/Pegasus_XL-HAPS.webp,Northrop,Retired,$40.0 million,487 kN,,,4.0,0.0,16.9 m,1.15 m,2.13 m,132
+Pegasus XL,https://storage.googleapis.com/nextspaceflight/media/rockets/Pegasus_XL.webp,Northrop,Active,$40.0 million,561 kN,443 kg,,4.0,0.0,17.6 m,1.15 m,2.13 m,132
+Pegasus XL/HAPS,https://storage.googleapis.com/nextspaceflight/media/rockets/Pegasus-HAPS.webp,Northrop,Active,$40.0 million,561 kN,,,4.0,0.0,17.6 m,1.15 m,2.13 m,132
+Polyot,https://storage.googleapis.com/nextspaceflight/media/rockets/file_E1szzRP.webp,OKB-1,Retired,,"4,570 kN","1,400 kg",0 kg,2.0,4.0,30.0 m,2.58 m,5.68 m,193
+Proton,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton.webp,Khrunichev,Retired,,"8,387 kN","12,200 kg",0 kg,2.0,0.0,39.8 m,4.15 m,8.5 m,134
+Proton-K,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K.webp,Khrunichev,Retired,,"9,469 kN","20,100 kg",0 kg,3.0,0.0,56.14 m,4.15 m,16.12 m,133
+Proton-K/Block D,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-D_0NIyLf7.webp,Khrunichev,Retired,,"8,840 kN","18,900 kg","9,000 kg",4.0,0.0,56.14 m,3.9 m,8.9 m,133
+Proton-K/Block D-1,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-D-1_WxLufga.webp,Khrunichev,Retired,,"9,468 kN","19,000 kg","9,000 kg",4.0,0.0,56.14 m,3.9 m,10.4 m,133
+Proton-K/Block D-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-D-2.webp,Khrunichev,Retired,,"9,548 kN","19,000 kg","9,000 kg",4.0,0.0,56.14 m,3.9 m,10.4 m,133
+Proton-K/Block-DM,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Khrunichev,Retired,,"9,195 kN","19,000 kg","2,200 kg",4.0,0.0,56.14 m,3.9 m,8.9 m,133
+Proton-K/Block DM-1,https://storage.googleapis.com/nextspaceflight/media/rockets/file_B6mseVy.webp,Khrunichev,Retired,,"9,468 kN","19,000 kg","2,200 kg",4.0,0.0,57.24 m,3.9 m,7.65 m,133
+Proton K/Block-DM-2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Khrunichev,Retired,,"9,548 kN","19,000 kg","2,400 kg",4.0,0.0,57.64 m,4.35 m,10.4 m,133
+Proton-K/Block-DM2,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-2.webp,Khrunichev,Retired,,"9,548 kN","19,000 kg","2,500 kg",4.0,0.0,56.14 m,3.9 m,8.9 m,133
+Proton-K/Block DM-2M,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-2M_khbjDCG.webp,Khrunichev,Retired,,"9,548 kN","19,000 kg","2,500 kg",4.0,0.0,57.64 m,4.35 m,10.4 m,133
+Proton-K/Block DM-3,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-3.webp,Khrunichev,Retired,,"9,548 kN","19,000 kg","2,500 kg",4.0,0.0,57.64 m,4.35 m,10.4 m,133
+Proton-K/Block DM-4,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-4.webp,Khrunichev,Retired,,"9,548 kN","19,000 kg","2,500 kg",4.0,0.0,57.64 m,4.35 m,10.4 m,133
+Proton-K/Block DM-5,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-DM-5.webp,Khrunichev,Retired,,"9,548 kN","19,000 kg","2,500 kg",4.0,0.0,57.64 m,4.35 m,10.4 m,133
+Proton-K/Briz-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_K-Briz-M.webp,Khrunichev,Retired,,"9,548 kN","19,000 kg","2,200 kg",4.0,0.0,54.54 m,4.35 m,13.2 m,133
+Proton-M,https://storage.googleapis.com/nextspaceflight/media/rockets/E6fIhl0XsAEbiYt.webp,Khrunichev,Active,$65.0 million,"10,027 kN","23,700 kg",0 kg,3.0,0.0,57.24 m,4.35 m,15.26 m,40
+Proton-M/Briz-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_M_Briz_M.webp,Khrunichev,Active,$65.0 million,"10,027 kN","21,000 kg","6,900 kg",4.0,0.0,58.18 m,4.35 m,15.26 m,40
+Proton-M/DM-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Proton_M-DM-2.webp,Khrunichev,Active,$65.0 million,"10,027 kN","21,000 kg","6,000 kg",4.0,0.0,57.24 m,4.35 m,10.0 m,40
+Proton-M/DM-3,https://storage.googleapis.com/nextspaceflight/media/rockets/proton-mdm-03.webp,Khrunichev,Active,$65.0 million,"10,027 kN","21,000 kg","6,000 kg",4.0,0.0,57.24 m,4.35 m,10.0 m,40
+PSLV-CA,https://storage.googleapis.com/nextspaceflight/media/rockets/PSLV_CA.webp,ISRO,Active,$21.0 million,"4,847 kN",,,4.0,0.0,44.0 m,3.2 m,8.3 m,34
+PSLV-DL,https://storage.googleapis.com/nextspaceflight/media/rockets/pslv-dl.webp,ISRO,Active,,"5,867 kN",,,4.0,2.0,44.0 m,3.2 m,8.3 m,34
+PSLV-G,https://storage.googleapis.com/nextspaceflight/media/rockets/PSLV_G.webp,ISRO,Retired,$25.0 million,"6,887 kN","3,250 kg","1,410 kg",4.0,6.0,44.5 m,3.2 m,8.3 m,34
+PSLV-QL,https://storage.googleapis.com/nextspaceflight/media/rockets/pslv-ql.webp,ISRO,Active,$21.0 million,"7,661 kN",,,4.0,4.0,44.0 m,3.2 m,8.3 m,34
+PSLV-XL,https://storage.googleapis.com/nextspaceflight/media/rockets/PSLV_XL.webp,ISRO,Active,$31.0 million,"7,661 kN","3,250 kg","1,410 kg",4.0,6.0,44.0 m,3.2 m,8.3 m,34
+Qaem 100,https://storage.googleapis.com/nextspaceflight/media/rockets/Qaem_100.webp,IRGC,Active,,,80 kg,0 kg,3.0,0.0,,,,296
+Qased,https://storage.googleapis.com/nextspaceflight/media/rockets/Qased.webp,ISA,Active,,280 kN,80 kg,0 kg,3.0,0.0,18.6 m,1.0 m,2.6 m,231
+R-36 Orb,https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon.webp,Yuzhmash,Retired,,"2,650 kN","3,350 kg",0 kg,2.0,0.0,31.95 m,2.0 m,3.0 m,83
+Redstone Sparta,https://storage.googleapis.com/nextspaceflight/media/rockets/redstone_sparta.webp,ABMA,Retired,,350 kN,45 kg,,3.0,0.0,21.0 m,,,151
+RFA One,https://storage.googleapis.com/nextspaceflight/media/rockets/RFA_One.webp,RFA,Planned,,,"1,300 kg",450 kg,3.0,0.0,30.0 m,,,258
+Rocket 3,https://storage.googleapis.com/nextspaceflight/media/rockets/22.03.15-LV0009-Launch-Kodiak-Kenniston_16-1.webp,Astra,Retired,$2.5 million,133 kN,204 kg,0 kg,2.0,0.0,11.6 m,,,223
+Rocket 4,https://storage.googleapis.com/nextspaceflight/media/rockets/Rocket_4.webp,Astra,Planned,$5.0 million,356 kN,600 kg,,2.0,0.0,18.9 m,1.7 m,3.4 m,283
+Rokot/Briz K,https://storage.googleapis.com/nextspaceflight/media/rockets/Rokot-K.webp,Khrunichev,Retired,,"1,875 kN","1,500 kg",0 kg,3.0,0.0,25.5 m,2.5 m,3.0 m,37
+Rokot/Briz KM,https://storage.googleapis.com/nextspaceflight/media/rockets/Rokot-KM.webp,Khrunichev,Retired,$13.0 million,"1,875 kN","2,150 kg",0 kg,3.0,0.0,29.1 m,2.62 m,6.74 m,37
+Rokot-M/Briz KM-2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Khrunichev,Planned,$12.0 million,"1,875 kN","2,300 kg",0 kg,3.0,0.0,29.1 m,2.62 m,6.74 m,37
+RS1 Block 1,https://storage.googleapis.com/nextspaceflight/media/rockets/RS1.webp,ABL SS,Retired,$12.0 million,485 kN,"1,350 kg",320 kg,2.0,0.0,26.8 m,2.0 m,,259
+RS1 Block 2,https://storage.googleapis.com/nextspaceflight/media/rockets/rs1_block2.webp,ABL SS,Planned,$12.0 million,582 kN,,,2.0,0.0,,2.0 m,,259
+Safir-1,https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_18.webp,ISA,Retired,,284 kN,30 kg,0 kg,2.0,0.0,22.6 m,1.25 m,2.0 m,60
+Safir-1A,https://storage.googleapis.com/nextspaceflight/media/rockets/SaFIR-1a.webp,ISA,Retired,,298 kN,50 kg,0 kg,2.0,0.0,22.6 m,1.25 m,2.0 m,60
+Safir-1B,https://storage.googleapis.com/nextspaceflight/media/rockets/Safir-1B.webp,ISA,Retired,,298 kN,50 kg,0 kg,2.0,0.0,22.6 m,1.25 m,2.0 m,60
+Safir-1B+,https://storage.googleapis.com/nextspaceflight/media/rockets/Safir-1B_ASaYdEe.webp,ISA,Active,,334 kN,50 kg,0 kg,2.0,0.0,22.6 m,1.25 m,2.0 m,60
+Saturn I Block I,https://storage.googleapis.com/nextspaceflight/media/rockets/800px-Saturn_SA2_launch.webp,NASA,Retired,,"6,700 kN",0 kg,,1.0,,55.0 m,,,29
+Saturn I Block II,https://storage.googleapis.com/nextspaceflight/media/rockets/Saturn_1.webp,NASA,Retired,,"6,700 kN","9,070 kg",,2.0,0.0,55.0 m,,,29
+Saturn IB,https://storage.googleapis.com/nextspaceflight/media/rockets/Saturn_IB.webp,NASA,Retired,,"7,100 kN","21,000 kg",,2.0,0.0,43.2 m,,,152
+Saturn V,https://storage.googleapis.com/nextspaceflight/media/rockets/Saturn_V.webp,NASA,Retired,"$1,160.0 million","35,100 kN","140,000 kg",,3.0,0.0,110.6 m,,,153
+Scout A,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Vought,Retired,,,,,4.0,0.0,,,,230
+Scout A1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Vought,Retired,,,122 kg,,4.0,0.0,,,,230
+Scout B,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Vought,Retired,,622 kN,143 kg,0 kg,4.0,0.0,21.0 m,,,230
+Scout B1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Vought,Retired,,622 kN,129 kg,0 kg,4.0,0.0,21.0 m,,,230
+Scout D1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Vought,Retired,,622 kN,185 kg,0 kg,4.0,0.0,21.0 m,,,230
+Scout E1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Vought,Retired,,,,,5.0,0.0,,,,230
+Scout F1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Vought,Retired,,622 kN,193 kg,0 kg,4.0,0.0,21.0 m,,,230
+Scout G1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Vought,Retired,,622 kN,210 kg,0 kg,4.0,0.0,21.0 m,,,230
+Scout X-1,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,NASA,Retired,,,,,4.0,,25.0 m,,,230
+Scout X-2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,NASA,Retired,,440 kN,76 kg,,4.0,,25.0 m,,,230
+Scout X-2B,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,NASA,Retired,,,,,4.0,,22.0 m,,,230
+Scout X-2M,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,NASA,Retired,,440 kN,,,4.0,,22.0 m,,,230
+Scout X-3,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,NASA,Retired,,,87 kg,,4.0,0.0,,,,230
+Scout X-3M,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,NASA,Retired,,,,,4.0,,22.0 m,,,230
+Scout X-4,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,NASA,Retired,,,103 kg,,4.0,,25.0 m,,,230
+Shavit,https://storage.googleapis.com/nextspaceflight/media/rockets/Shavit.webp,IAI,Retired,,413 kN,160 kg,,3.0,0.0,18.0 m,1.3 m,4.37 m,75
+Shavit 1,https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_jsJD7Of.webp,IAI,Retired,,554 kN,225 kg,,3.0,0.0,20.0 m,1.35 m,4.37 m,75
+Shavit 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Shavit-2.webp,IAI,Active,,554 kN,350 kg,,3.0,0.0,22.0 m,1.35 m,4.37 m,75
+Shtil',https://storage.googleapis.com/nextspaceflight/media/rockets/Shtil.webp,Makeyev,Retired,,807 kN,220 kg,0 kg,3.0,0.0,14.8 m,0.5 m,1.0 m,72
+Simorgh,https://storage.googleapis.com/nextspaceflight/media/rockets/Simorgh.webp,ISA,Active,,"1,333 kN",350 kg,0 kg,3.0,0.0,26.5 m,1.5 m,3.2 m,48
+Skyrora XL,https://storage.googleapis.com/nextspaceflight/media/rockets/Skyrora_XL.webp,Skyrora,Planned,,,,,,,22.7 m,,,299
+SLS Block 1,https://storage.googleapis.com/nextspaceflight/media/rockets/SLS_Block_1.webp,NASA,Active,$876.0 million,"39,440 kN","95,000 kg",,2.0,2.0,98.1 m,5.1 m,14.3 m,5
+SLS Block 1B,https://storage.googleapis.com/nextspaceflight/media/rockets/SLS_Block_1B.webp,NASA,Planned,$876.0 million,"39,440 kN","105,000 kg",,2.0,2.0,111.0 m,,,5
+SLV-3,https://storage.googleapis.com/nextspaceflight/media/rockets/SLV-3.webp,ISRO,Retired,,503 kN,40 kg,,4.0,0.0,22.0 m,1.0 m,,32
+SM-65B Atlas,https://storage.googleapis.com/nextspaceflight/media/rockets/Atlas-B.webp,US Air Force,Retired,,"1,600 kN",70 kg,,2.0,0.0,26.0 m,,,173
+South Korean ADD Solid-Fuel SLV,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,ADD,Planned,,,500 kg,,4.0,,,,,292
+South Korean ADD Solid-Fuel SLV (3 stage),https://storage.googleapis.com/nextspaceflight/media/rockets/South_Korean_ADD_Solid-Fuel_SLV_3_stage.webp,ADD,Active,,,100 kg,,3.0,,,,,292
+Soyuz,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz.webp,OKB-1,Retired,,"4,456 kN","6,640 kg",0 kg,3.0,4.0,48.47 m,3.0 m,12.8 m,194
+Soyuz 2.1a,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1a_Crew.webp,RKK Energiya,Active,$17.42 million,"4,550 kN","7,500 kg",0 kg,3.0,4.0,51.38 m,4.11 m,15.59 m,141
+Soyuz 2.1a/Fregat,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1a_Fregat_rocket.webp,RKK Energiya,Active,$23.0 million,"4,550 kN","7,020 kg","2,810 kg",4.0,4.0,46.94 m,4.11 m,10.2 m,141
+Soyuz 2.1a/Fregat-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1a_Fregat-M.webp,RKK Energiya,Active,$23.0 million,"4,550 kN","7,020 kg","2,810 kg",4.0,4.0,46.94 m,4.11 m,10.2 m,141
+Soyuz 2.1a/Volga,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1a_Volga.webp,RKK Energiya,Active,$23.0 million,"4,550 kN","7,020 kg","2,000 kg",4.0,4.0,46.94 m,4.11 m,10.2 m,141
+Soyuz ST-A/Fregat,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_ST-A_Fregat.webp,RKK Energiya,Active,$30.0 million,"4,317 kN","8,500 kg","2,810 kg",4.0,4.0,46.94 m,4.11 m,11.43 m,141
+Soyuz ST-A/Fregat-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_ST-A_Fregat-M_rocket.webp,RKK Energiya,Active,$30.0 million,"4,317 kN","8,500 kg","3,000 kg",4.0,4.0,46.94 m,4.11 m,11.43 m,141
+Soyuz 2.1b,https://storage.googleapis.com/nextspaceflight/media/rockets/soyuz_2.1b.webp,RKK Energiya,Active,$20.0 million,"4,550 kN","8,020 kg",0 kg,3.0,4.0,44.08 m,4.11 m,8.36 m,142
+Soyuz 2.1b/Fregat,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1b_Fregat_rocket.webp,RKK Energiya,Active,$25.0 million,"4,550 kN","7,500 kg","3,000 kg",4.0,4.0,46.94 m,4.11 m,11.43 m,142
+Soyuz 2.1b/Fregat-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1b-Fregat-M.webp,RKK Energiya,Active,$25.0 million,"4,550 kN","7,500 kg","3,250 kg",4.0,4.0,46.94 m,4.11 m,11.43 m,142
+Soyuz ST-B/Fregat-M,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_ST-B_Fregat-M.webp,RKK Energiya,Active,$30.0 million,"4,317 kN","9,000 kg","3,100 kg",4.0,4.0,46.94 m,4.11 m,11.43 m,142
+Soyuz ST-B/Fregat-MT,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_ST-B_Fregat-MT.webp,RKK Energiya,Active,$30.0 million,"4,317 kN","9,000 kg","3,250 kg",4.0,4.0,46.94 m,4.11 m,11.43 m,142
+Soyuz 2.1v,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1v_rocket.webp,RKK Energiya,Active,,"1,535 kN","3,000 kg",0 kg,2.0,0.0,44.08 m,3.0 m,8.36 m,143
+Soyuz 2.1v/Volga,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_2.1v_Volga_rocket.webp,RKK Energiya,Active,,"1,535 kN","2,850 kg",0 kg,3.0,0.0,44.08 m,3.0 m,8.36 m,143
+Soyuz 5,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,RKK Energiya,Planned,,"7,260 kN","17,000 kg","5,000 kg",2.0,0.0,63.7 m,4.1 m,10.4 m,216
+Soyuz 5/Fregat-SBU,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,RKK Energiya,Planned,,"7,260 kN","17,000 kg","5,000 kg",3.0,0.0,63.7 m,4.1 m,10.4 m,216
+Soyuz FG,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_FG.webp,RKK Energiya,Retired,,"4,550 kN","7,300 kg",0 kg,3.0,4.0,51.32 m,3.0 m,15.59 m,144
+Soyuz FG/Fregat,https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_D1i6Sut.webp,RKK Energiya,Retired,,"4,550 kN","7,300 kg","1,800 kg",4.0,4.0,43.5 m,3.0 m,8.1 m,144
+Soyuz L,https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_u3borgI.webp,OKB-1,Retired,,"4,054 kN","5,500 kg",0 kg,3.0,4.0,48.0 m,5.0 m,7.8 m,195
+Soyuz M,https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_ILuaFGG.webp,OKB-1,Retired,,995 kN,"6,600 kg",0 kg,3.0,4.0,47.8 m,3.0 m,7.2 m,196
+Soyuz U,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz_U.webp,RKK Energiya,Retired,$20.0 million,"4,456 kN","6,860 kg",0 kg,3.0,4.0,51.32 m,3.0 m,15.59 m,145
+Soyuz U2,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz-U2.webp,RKK Energiya,Retired,$40.0 million,"4,693 kN","7,150 kg",0 kg,3.0,4.0,51.32 m,3.0 m,15.59 m,145
+Soyuz U/Fregat,https://storage.googleapis.com/nextspaceflight/media/rockets/Soyuz-U_-_Fregat.webp,RKK Energiya,Retired,$28.0 million,"4,456 kN","6,860 kg","1,400 kg",4.0,4.0,43.1 m,3.0 m,7.7 m,145
+Soyuz U/Ikar,https://storage.googleapis.com/nextspaceflight/media/rockets/6d1014f4-682b-4720-818a-615f754e923d_1.ee2acf1cc97d6ac3258af5453afac656_Ypf2w8r.webp,RKK Energiya,Retired,$28.0 million,"4,456 kN","6,860 kg","1,000 kg",4.0,4.0,43.58 m,3.0 m,7.86 m,145
+Space Shuttle Atlantis,https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Atlantis.webp,NASA,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2.0,2.0,56.1 m,,,36
+Space Shuttle Challenger,https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Challenger_iicKLQ1.webp,NASA,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2.0,2.0,56.1 m,,,36
+Space Shuttle Columbia,https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Columbia.webp,NASA,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2.0,2.0,56.1 m,,,36
+Space Shuttle Discovery,https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Discovery.webp,NASA,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2.0,2.0,56.1 m,,,36
+Space Shuttle Endeavour,https://storage.googleapis.com/nextspaceflight/media/rockets/Space_Shuttle_Endeavour.webp,NASA,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2.0,2.0,56.1 m,,,36
+Spectrum,https://storage.googleapis.com/nextspaceflight/media/rockets/Spectrum.webp,Isar,Planned,,675 kN,"1,000 kg",,2.0,0.0,28.0 m,2.0 m,,257
+Sputnik 8A91,https://storage.googleapis.com/nextspaceflight/media/rockets/Sputnik_8A91.webp,OKB-1,Retired,,"4,457 kN","1,330 kg",0 kg,2.0,4.0,30.41 m,3.0 m,4.21 m,146
+Sputnik 8K71PS,https://storage.googleapis.com/nextspaceflight/media/rockets/Sputnik_8K74PS.webp,OKB-1,Retired,,"4,457 kN",510 kg,0 kg,2.0,4.0,30.2 m,2.95 m,4.0 m,147
+SS-520,https://storage.googleapis.com/nextspaceflight/media/rockets/n-rocket-a-20171114.webp,JAXA,Retired,,,4 kg,,3.0,0.0,9.54 m,0.52 m,,79
+SSLV,https://storage.googleapis.com/nextspaceflight/media/rockets/SSLV.webp,ISRO,Active,,,500 kg,,4.0,0.0,34.0 m,2.0 m,,47
+Cargo Starship,https://storage.googleapis.com/nextspaceflight/media/rockets/Cargo_Starship.webp,SpaceX,Planned,,"74,432 kN","200,000 kg",,2.0,0.0,121.0 m,9.0 m,,174
+Crew Starship,https://storage.googleapis.com/nextspaceflight/media/rockets/Crew_Starship.webp,SpaceX,Planned,,"74,432 kN","200,000 kg",,2.0,0.0,121.0 m,9.0 m,,174
+Starship HLS,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,SpaceX,Planned,,"74,432 kN","200,000 kg",,2.0,0.0,121.0 m,9.0 m,,174
+Starship-Super Heavy (Prototype),https://storage.googleapis.com/nextspaceflight/media/rockets/Starship-Super_Heavy_Prototype.webp,SpaceX,Active,,"74,432 kN",,,2.0,0.0,121.0 m,9.0 m,,174
+Tanker Starship,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,SpaceX,Planned,,"74,432 kN","200,000 kg",,2.0,0.0,121.0 m,9.0 m,,174
+START,https://storage.googleapis.com/nextspaceflight/media/rockets/Start.webp,MITT,Retired,,890 kN,850 kg,0 kg,5.0,0.0,28.94 m,1.61 m,4.34 m,156
+START-1,https://storage.googleapis.com/nextspaceflight/media/rockets/Start-1.webp,MITT,Retired,,890 kN,532 kg,0 kg,4.0,0.0,22.74 m,1.33 m,3.34 m,156
+Strela,https://storage.googleapis.com/nextspaceflight/media/rockets/strela.webp,NPO Mach,Retired,,"1,870 kN","1,850 kg",0 kg,3.0,0.0,27.36 m,2.5 m,7.6 m,167
+Super Strypi,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Sandia,Retired,$15.0 million,134 kN,250 kg,,3.0,0.0,18.0 m,1.32 m,,206
+Taepodong 1,https://storage.googleapis.com/nextspaceflight/media/rockets/Taepodong-1.webp,KCST,Retired,,280 kN,20 kg,0 kg,3.0,0.0,24.0 m,0.88 m,3.1 m,74
+Terran 1,https://storage.googleapis.com/nextspaceflight/media/rockets/terran_1.webp,Relativity Space,Retired,$12.0 million,920 kN,"1,250 kg",,2.0,0.0,33.5 m,2.3 m,,86
+Terran R,https://storage.googleapis.com/nextspaceflight/media/rockets/Terran_R.webp,Relativity Space,Planned,,"14,919 kN","33,500 kg","5,500 kg",2.0,0.0,82.3 m,5.5 m,,276
+Thor DM-18 Able-I,https://storage.googleapis.com/nextspaceflight/media/rockets/Thor_Able_I.webp,US Air Force,Retired,,,120 kg,,3.0,0.0,27.0 m,,,102
+Thor DM-18 Able-II,https://storage.googleapis.com/nextspaceflight/media/rockets/spac004692927x800x800.webp,US Air Force,Retired,,,,,3.0,0.0,,,,102
+Thor DM-18 Able-III,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,US Air Force,Retired,,,,,3.0,0.0,,,,102
+Thor DM-18 Able-IV,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,US Air Force,Retired,,,,,3.0,0.0,,,,102
+Thor DM-21 Ablestar,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,US Air Force,Retired,,760 kN,150 kg,,0.0,2.0,29.0 m,,,242
+Thor DSV2A Ablestar,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,US Air Force,Retired,,,,,2.0,0.0,,,,242
+Thorad SLV-2G Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,US Air Force,Retired,,"1,571 kN",,,2.0,3.0,31.0 m,,,241
+Thor DM-18 Agena-A,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,US Air Force,Retired,,,,,3.0,0.0,,,,241
+Thor DM-21 Agena-B,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,US Air Force,Retired,,,,,3.0,0.0,,,,241
+Thor DM-21 Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,US Air Force,Retired,,,,,3.0,0.0,,,,241
+Thor SLV2A Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,US Air Force,Retired,,"1,571 kN",,,2.0,3.0,31.0 m,,,241
+Thor LV2D Burner-1I,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,US Air Force,Retired,,"1,571 kN",,,2.0,3.0,31.0 m,,,262
+Thor LV2D Burner-2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,US Air Force,Retired,,,,,2.0,3.0,,,,262
+Thor LV2F Star-ISS,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,US Air Force,Retired,,,,,2.0,3.0,,,,262
+Thor DM-19 Delta,https://storage.googleapis.com/nextspaceflight/media/rockets/spac001645909x800x800.webp,US Air Force,Retired,,,,,0.0,3.0,,,,243
+Tianlong 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Tianlong-2.webp,Space Pioneer,Active,,"1,863 kN","2,000 kg",,3.0,0.0,32.8 m,3.35 m,,287
+Tianlong 3,https://storage.googleapis.com/nextspaceflight/media/rockets/Tianlong-3.webp,Space Pioneer,Planned,,,"17,000 kg",,2.0,,71.0 m,4.2 m,,291
+Titan II(23)G,https://storage.googleapis.com/nextspaceflight/media/rockets/titan_23g_rocket_hurtles_above_the_launch_tower.webp,Lockheed,Retired,$35.0 million,"1,900 kN","3,600 kg",,2.0,,42.9 m,3.05 m,9.1 m,55
+Titan II GLV,https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_II_GLV.webp,NASA,Retired,,"1,913 kN","3,580 kg",,2.0,0.0,33.2 m,,,55
+Commercial Titan III,https://storage.googleapis.com/nextspaceflight/media/rockets/Commercial_Titan_III.webp,Martin Marietta,Retired,$136.6 million,"12,454 kN","14,515 kg",,2.0,2.0,47.0 m,,,260
+Titan 34D,https://storage.googleapis.com/nextspaceflight/media/rockets/523px-DF-SC-83-03173_cropped.webp,Martin Marietta,Retired,,"11,279 kN","14,515 kg","5,000 kg",3.0,2.0,50.0 m,3.05 m,,260
+Titan III(23)B,https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_23B.webp,US Air Force,Retired,,"2,300 kN","3,300 kg",,3.0,0.0,45.0 m,1.5 m,,260
+Titan III(23)C,https://storage.googleapis.com/nextspaceflight/media/rockets/487px-DF-SC-84-05192_cropped.webp,US Air Force,Retired,,"13,642 kN","13,100 kg","3,000 kg",3.0,2.0,42.0 m,3.0 m,,260
+Titan III(24)B,https://storage.googleapis.com/nextspaceflight/media/rockets/titan_24b.webp,US Air Force,Retired,,"2,410 kN","4,000 kg",,3.0,0.0,50.0 m,3.05 m,,260
+Titan III(33)B Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/titan-333b_agena-d__jumpseat-1__1.webp,Martin Marietta,Retired,,"2,300 kN",,,3.0,,45.0 m,3.05 m,,260
+Titan III(34)B Agena-D,https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_17.webp,Martin Marietta,Retired,,"2,300 kN",,,3.0,,45.0 m,3.05 m,,260
+Titan IIIA,https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_IIIA.webp,US Air Force,Retired,$63.23 million,"1,936 kN","3,100 kg",,3.0,0.0,42.0 m,,,260
+Titan IIIB,https://storage.googleapis.com/nextspaceflight/media/rockets/FS-7-8_Winter_White.webp,US Air Force,Retired,$59.0 million,"2,300 kN","3,300 kg",,3.0,0.0,45.0 m,1.52 m,,260
+Titan IIIC,https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_IIIC.webp,US Air Force,Retired,,"13,642 kN","13,100 kg","3,000 kg",3.0,2.0,42.0 m,3.0 m,,260
+Titan IIID,https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_IIID_rocket.webp,Martin Marietta,Retired,,"10,587 kN","12,300 kg",,2.0,2.0,36.0 m,,,260
+Titan IIIE,https://storage.googleapis.com/nextspaceflight/media/rockets/Titan_IIIE.webp,Martin Marietta,Retired,,"12,769 kN","15,400 kg",,3.0,2.0,48.8 m,,,260
+Titan IV(401)A,https://storage.googleapis.com/nextspaceflight/media/rockets/t4k7s.webp,Lockheed,Retired,,"14,200 kN",,,3.0,2.0,63.0 m,5.1 m,,261
+Titan IV(401)B,https://storage.googleapis.com/nextspaceflight/media/rockets/PIA01051_hires.webp,Lockheed,Retired,,"15,000 kN",,,3.0,2.0,62.0 m,5.1 m,,261
+Titan IV(402)A,https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_15.webp,Martin Marietta,Retired,,"14,200 kN",,"4,944 kg",4.0,2.0,54.0 m,5.1 m,,261
+Titan IV(402)B,https://storage.googleapis.com/nextspaceflight/media/rockets/040214launch.webp,Lockheed,Retired,,"15,000 kN",,,4.0,2.0,54.0 m,5.1 m,,261
+Titan IV(403)A,https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_14.webp,Lockheed,Retired,,"14,200 kN","17,700 kg",,2.0,2.0,54.0 m,5.1 m,,261
+Titan IV(403)B,https://storage.googleapis.com/nextspaceflight/media/rockets/Untitled_drawing_16.webp,Lockheed,Retired,,"15,000 kN","21,680 kg",,2.0,2.0,54.0 m,5.1 m,,261
+Titan IV(404)A,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Lockheed,Retired,,"14,200 kN","17,700 kg",,2.0,2.0,54.0 m,5.1 m,,261
+Titan IV(404)B,https://storage.googleapis.com/nextspaceflight/media/rockets/t4b34s.webp,Lockheed,Retired,,"15,000 kN","21,680 kg",,2.0,2.0,54.0 m,5.1 m,,261
+Titan IV(405)A,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Lockheed,Retired,,"14,200 kN","17,700 kg",,2.0,2.0,54.0 m,5.1 m,,261
+Titan IV(405)B,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,Lockheed,Retired,,"15,000 kN","21,680 kg",,2.0,2.0,54.0 m,5.1 m,,261
+Tsyklon-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon-2.webp,Yuzhmash,Retired,,"2,650 kN","2,850 kg",0 kg,2.0,0.0,39.65 m,3.0 m,10.7 m,138
+Tsyklon-2A,https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon-2A.webp,Yuzhmash,Retired,,"2,650 kN","3,000 kg",0 kg,2.0,0.0,39.65 m,3.0 m,10.7 m,207
+Tsyklon-3,https://storage.googleapis.com/nextspaceflight/media/rockets/Tsyklon-3.webp,Yuzhmash,Retired,,"3,032 kN","4,100 kg",0 kg,3.0,0.0,39.27 m,2.7 m,9.54 m,139
+Unha 2,https://storage.googleapis.com/nextspaceflight/media/rockets/Unha_2.webp,KCST,Retired,,284 kN,100 kg,0 kg,3.0,0.0,29.5 m,1.25 m,2.0 m,157
+Unha 3,https://storage.googleapis.com/nextspaceflight/media/rockets/Unha_3.webp,KCST,Active,,284 kN,200 kg,0 kg,3.0,0.0,30.0 m,1.25 m,2.0 m,158
+Vanguard,https://storage.googleapis.com/nextspaceflight/media/rockets/vanguard.webp,US Navy,Retired,,135 kN,10 kg,,3.0,0.0,23.0 m,,,52
+Vega,https://storage.googleapis.com/nextspaceflight/media/rockets/Vega.webp,ESA,Retired,$37.0 million,"2,200 kN","1,436 kg",,4.0,0.0,29.9 m,2.6 m,7.88 m,31
+Vega C,https://storage.googleapis.com/nextspaceflight/media/rockets/Vega-C.webp,ESA,Active,,"4,500 kN","2,300 kg",,4.0,0.0,35.0 m,3.3 m,9.0 m,31
+Vega E,https://storage.googleapis.com/nextspaceflight/media/rockets/Vega-E.webp,ESA,Planned,,"4,500 kN",,,3.0,0.0,35.0 m,3.3 m,9.0 m,31
+VLS-1,https://storage.googleapis.com/nextspaceflight/media/rockets/VLS-1.webp,AEB,Retired,,623 kN,380 kg,,3.0,4.0,19.0 m,1.0 m,,76
+Volna,https://storage.googleapis.com/nextspaceflight/media/rockets/volna.webp,Makeyev,Retired,,618 kN,100 kg,0 kg,3.0,0.0,14.2 m,1.3 m,1.4 m,137
+Voskhod,https://storage.googleapis.com/nextspaceflight/media/rockets/Voskhod.webp,OKB-1,Retired,,"4,616 kN","6,001 kg",0 kg,3.0,4.0,44.63 m,2.58 m,7.14 m,177
+Vostok,https://storage.googleapis.com/nextspaceflight/media/rockets/vostok1.webp,OKB-1,Retired,,"4,570 kN","4,730 kg",0 kg,3.0,4.0,38.36 m,2.58 m,6.74 m,148
+Vostok-2,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,OKB-1,Retired,,"4,570 kN","4,750 kg",0 kg,3.0,4.0,38.36 m,2.58 m,6.74 m,149
+Vostok-2A,https://storage.googleapis.com/nextspaceflight/media/rockets/Vostok-2A.webp,OKB-1,Retired,,"4,570 kN","4,500 kg",0 kg,2.0,4.0,39.1 m,2.58 m,10.66 m,149
+Vostok-2M,https://storage.googleapis.com/nextspaceflight/media/rockets/Vostok-2M.webp,OKB-1,Retired,,"4,570 kN","5,100 kg",0 kg,3.0,4.0,38.76 m,2.58 m,7.14 m,149
+Vulcan Centaur,https://storage.googleapis.com/nextspaceflight/media/rockets/Vulcan_Centaur.webp,ULA,Active,,,,,2.0,,,5.4 m,,70
+Vulcan VC0L,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,ULA,Planned,,"4,900 kN","10,800 kg","3,500 kg",2.0,0.0,63.3 m,5.4 m,21.3 m,70
+Vulcan VC0S,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,ULA,Planned,,"4,900 kN","10,800 kg","3,500 kg",2.0,0.0,61.6 m,5.4 m,15.5 m,70
+Vulcan VC2L,https://storage.googleapis.com/nextspaceflight/media/rockets/VC2.webp,ULA,Active,,"8,952 kN","19,000 kg","8,400 kg",2.0,2.0,63.3 m,5.4 m,21.3 m,70
+Vulcan VC2S,https://storage.googleapis.com/nextspaceflight/media/rockets/54041467572_d7f78e68fe_o.webp,ULA,Active,,"8,952 kN","19,000 kg","8,400 kg",2.0,2.0,61.6 m,5.4 m,15.5 m,70
+Vulcan VC4L,https://storage.googleapis.com/nextspaceflight/media/rockets/Vulcan_VC4L.webp,ULA,Planned,,"13,006 kN","24,600 kg","11,693 kg",2.0,4.0,63.3 m,5.4 m,21.3 m,70
+Vulcan VC4S,https://storage.googleapis.com/nextspaceflight/media/rockets/Vulcan_VC4S.webp,ULA,Planned,,"13,006 kN","24,600 kg","11,693 kg",2.0,4.0,61.6 m,5.4 m,15.5 m,70
+Vulcan VC6L,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,ULA,Planned,,"17,056 kN","27,200 kg","14,500 kg",2.0,6.0,63.3 m,5.4 m,21.3 m,70
+Vulcan VC6S,https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg,ULA,Planned,,"17,056 kN","27,200 kg","14,500 kg",2.0,6.0,61.6 m,5.4 m,15.5 m,70
+Zenit-2,https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-2.webp,Yuzhmash,Retired,,"7,257 kN","13,500 kg","4,500 kg",2.0,0.0,57.0 m,3.9 m,13.65 m,50
+Zenit-2 FG,https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-2_FG_rocket.webp,Yuzhmash,Retired,,"7,257 kN","13,740 kg","4,500 kg",2.0,0.0,57.0 m,3.9 m,13.65 m,50
+Zenit-3 SL,https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-3_SL_rocket.webp,Yuzhmash,Retired,,"7,257 kN","13,740 kg","6,000 kg",3.0,0.0,59.46 m,4.1 m,10.4 m,50
+Zenit-3 SLB,https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-3_SLB.webp,Yuzhmash,Retired,,"7,257 kN","13,740 kg","5,000 kg",3.0,0.0,59.46 m,4.1 m,10.4 m,50
+Zenit-3 SLBF,https://storage.googleapis.com/nextspaceflight/media/rockets/Zenit-3_SLBF.webp,Yuzhmash,Retired,,"7,257 kN","13,740 kg","6,000 kg",3.0,0.0,54.35 m,4.1 m,10.7 m,50
+ZhuQue-1,https://storage.googleapis.com/nextspaceflight/media/rockets/ZhuQue-1.webp,Landspace,Retired,,450 kN,300 kg,0 kg,3.0,0.0,19.0 m,1.2 m,2.0 m,49
+ZhuQue-2,https://storage.googleapis.com/nextspaceflight/media/rockets/ZhuQue-2.webp,Landspace,Active,,"2,636 kN","6,000 kg",0 kg,2.0,0.0,49.5 m,3.35 m,5.0 m,191
+ZhuQue-3,https://storage.googleapis.com/nextspaceflight/media/rockets/ZhuQue-3.webp,Landspace,Planned,,,"21,300 kg",,2.0,,76.6 m,5.2 m,,293
+Zoljanah,https://storage.googleapis.com/nextspaceflight/media/rockets/Zoljanah.webp,ISA,Active,,726 kN,600 kg,,4.0,0.0,25.5 m,1.25 m,,251
